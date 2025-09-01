@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+
+{% block title %}BFPME - Accueil{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="relative bg-[#132247] text-white">
+    <!-- Background image with overlay -->
+    <div class="absolute inset-0 z-0">
+        <div class="absolute inset-0 bg-gradient-to-r from-[#132247] to-[#1e3a7b] opacity-90"></div>
+        <img src="{{ url_for('static', filename='hero-bg.jpg') }}" alt="" class="w-full h-full object-cover" onerror="this.style.display='none'">
+    </div>
+    
+    <div class="container mx-auto px-6 py-20 relative z-10">
+        <div class="flex flex-col max-w-4xl">
+            <!-- Main heading - "UNE BANQUE QUI" -->
+            <h1 class="text-6xl font-bold mb-6">
+                UNE BANQUE QUI
+                <span class="block w-1/2 h-1 bg-[#FFC72C] mt-3"></span>
+            </h1>
+            
+            <!-- Subtitle in blue box -->
+            <div class="bg-[#132247] text-white text-3xl py-4 px-6 font-medium max-w-3xl">
+                Organise des séances d'assistance, au profit des porteurs d'idées de projets
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Features Section -->
+<section class="py-16 bg-gray-50">
+    <div class="container mx-auto px-6">
+        <h2 class="text-3xl font-bold text-center mb-12 text-gray-800">Découvrez Notre Assistant Virtuel</h2>
+        
+        <div class="grid md:grid-cols-3 gap-8">
+            <!-- Feature 1 -->
+            <div class="bg-white p-8 rounded-lg shadow-md">
+                <div class="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center mb-6">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-[#132247]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-semibold mb-3 text-gray-800">Disponible 24/7</h3>
+                <p class="text-gray-600">Obtenez des réponses à vos questions à tout moment, sans attendre un rendez-vous ou un appel.</p>
+            </div>
+            
+            <!-- Feature 2 -->
+            <div class="bg-white p-8 rounded-lg shadow-md">
+                <div class="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center mb-6">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-[#132247]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-semibold mb-3 text-gray-800">Informations Précises</h3>
+                <p class="text-gray-600">Des réponses fiables sur nos programmes de financement, critères d'éligibilité et processus de demande.</p>
+            </div>
+            
+            <!-- Feature 3 -->
+            <div class="bg-white p-8 rounded-lg shadow-md">
+                <div class="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center mb-6">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-[#132247]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-semibold mb-3 text-gray-800">Assistance Personnalisée</h3>
+                <p class="text-gray-600">Obtenez des conseils adaptés à votre projet et découvrez les options qui vous conviennent le mieux.</p>
+            </div>
+        </div>
+        
+        <div class="mt-16 text-center">
+            <a href="/chatbot" class="bg-[#132247] text-white font-bold py-3 px-8 rounded-lg hover:bg-[#1e3a7b] transition duration-300 inline-flex items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z" />
+                </svg>
+                Discuter avec l'Assistant
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Section -->
+<section class="py-16 bg-white">
+    <div class="container mx-auto px-6 max-w-4xl">
+        <div class="bg-gradient-to-r from-[#132247] to-[#1e3a7b] rounded-xl p-8 md:p-12 shadow-lg">
+            <div class="flex flex-col md:flex-row items-center justify-between">
+                <div class="md:w-3/5 mb-6 md:mb-0">
+                    <h2 class="text-2xl md:text-3xl font-bold text-white mb-4">Prêt à développer votre entreprise?</h2>
+                    <p class="text-white opacity-90">Notre assistant virtuel est là pour vous guider à travers nos solutions de financement et répondre à toutes vos questions.</p>
+                </div>
+                <div>
+                    <a href="/chatbot" class="bg-[#FFC72C] text-[#132247] font-bold py-3 px-6 rounded-lg hover:bg-yellow-400 transition duration-300 block text-center">
+                        Commencer maintenant
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

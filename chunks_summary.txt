@@ -1,0 +1,1356 @@
+CHUNKING SUMMARY
+================
+
+Total chunks: 270
+Average words per chunk: 1472.6
+
+Chunk 0:
+  Pages: [1]
+  Words: 1500
+  Preview: BANQUE CENTRALE DE TUNISIE REGLEMENTATION BANCAIRE RECUEIL DE TEXTES MISE A JOUR : OCTOBRE 2024 SOMMAIRE PREMIERE PARTIE – DISPOSITIONS RELATIVES A LA BANQUE CENTRALE DE TUNISIE Loi n°2016-35 du 25 av...
+--------------------------------------------------
+Chunk 1:
+  Pages: [3, 4]
+  Words: 1476
+  Preview: ministre des finances du 02 janvier 1997 fixant les conditions et les modalités d'émission et de remboursement des bons du trésor négociable en bourse Décret n°2006-1208 du 24 avril 2006 fixant les co...
+--------------------------------------------------
+Chunk 2:
+  Pages: [6, 7, 8]
+  Words: 1482
+  Preview: fixation des procédures de demande d’agrément pour l’exercice d’activité de renseignement de crédit, des documents et données devant être fournis. QUINZIEME PARTIE – GESTIONNAIRE DE SYSTEME DE PAIEMEN...
+--------------------------------------------------
+Chunk 3:
+  Pages: [12]
+  Words: 1493
+  Preview: œuvre de la politique monétaire et selon les conditions et modalités fixées par le conseil d’administration, la banque centrale peut : - acheter ou prendre en pension aux banques les effets publics né...
+--------------------------------------------------
+Chunk 4:
+  Pages: [14]
+  Words: 1500
+  Preview: les informations précitées ou les aura utilisés à des fins personnelles. Article 20 : Le taux d’intérêt applicable aux opérations visées à l’article 19 de la présente loi, doit excéder le taux applica...
+--------------------------------------------------
+Chunk 5:
+  Pages: [15, 16]
+  Words: 1485
+  Preview: mentionnées à l’alinéa précédent sont imputées sur les fonds propres de la banque centrale. 3°) En vue de garantir le recouvrement des créances douteuses ou en souffrance, la Banque centrale peut : - ...
+--------------------------------------------------
+Chunk 6:
+  Pages: [17]
+  Words: 1488
+  Preview: n’utiliser les informations que dans les limites de ses attributions. Article 44 : La banque centrale est chargée de l’exécution des accords de coopération internationale conclus par l’Etat dans le do...
+--------------------------------------------------
+Chunk 7:
+  Pages: [19]
+  Words: 1499
+  Preview: nommés pour un mandat de trois ans renouvelable une seule fois. Toutefois, le remplacement ne doit pas porter sur plus de deux membres à la fois. 2) Si l’un des membres mentionnés aux sixième et septi...
+--------------------------------------------------
+Chunk 8:
+  Pages: [21]
+  Words: 1488
+  Preview: Article 68 : Les comptes de la banque centrale sont soumis à un audit externe réalisé par deux commissaires aux comptes parmi les experts comptables inscrits au tableau de l’ordre des experts comptabl...
+--------------------------------------------------
+Chunk 9:
+  Pages: [22, 23]
+  Words: 1441
+  Preview: CHAPITRE III DEVOIR DE REDEVABILITE ET DROIT D’ENQUETE Article 80 : 1) La banque centrale établit un rapport annuel indiquant l’exercice de ses missions en matière de politique monétaire, de contribut...
+--------------------------------------------------
+Chunk 10:
+  Pages: [24]
+  Words: 1453
+  Preview: visant à promouvoir le champ de l’inclusion financière, L’observatoire peut dans le cadre de l’accomplissement des missions qui lui sont assignées, collecter toute information servant à son activité. ...
+--------------------------------------------------
+Chunk 11:
+  Pages: [26, 27]
+  Words: 1500
+  Preview: banque centrale de Tunisie, - le directeur général de la stabilité financière et la prévention des risques au sein de la banque centrale de Tunisie, - le directeur général du financement au sein du mi...
+--------------------------------------------------
+Chunk 12:
+  Pages: [29]
+  Words: 1500
+  Preview: obtenus par l'observatoire, - de suivre, d'analyser et d'actualiser les différents indicateurs en relation avec l'inclusion financière et les services financiers, - de proposer des indicateurs en rela...
+--------------------------------------------------
+Chunk 13:
+  Pages: [31, 32, 33]
+  Words: 1483
+  Preview: A LA CLOTURE ET AU TRANSFERT DES SUCCURSALES, DES AGENCES ET DES BUREAUX PERIODIQUES PAR LES ETABLISSEMENTS DE CREDIT - DECRET N°2008-137 DU 22 JANVIER 2008, RELATIF A LA CRATION DU PRIX DU PRESIDENT ...
+--------------------------------------------------
+Chunk 14:
+  Pages: [36]
+  Words: 1500
+  Preview: les prélèvements, - les opérations de paiement en espèces, par chèque, lettre de change ou mandats postaux émis ou tout autre support papier équivalent, - les opérations de transfert de fonds, - la ré...
+--------------------------------------------------
+Chunk 15:
+  Pages: [38]
+  Words: 1476
+  Preview: montant en adéquation avec ses fonds propres, conformément aux conditions fixées par la Banque Centrale de Tunisie. La société d’assurance ou la banque délivrant la caution ne doit pas faire partie du...
+--------------------------------------------------
+Chunk 16:
+  Pages: [40]
+  Words: 1478
+  Preview: répond pas aux renseignements et documents requis dans un délai de trois mois à compter de la date de leur réclamation par la Banque Centrale de Tunisie. Article 29 : Dans la mesure où l'étude du doss...
+--------------------------------------------------
+Chunk 17:
+  Pages: [42]
+  Words: 1404
+  Preview: - La qualité de la personne ou des personnes sollicitant l’agrément, concernant leur réputation, leur capacité financière et leur capacité à adopter une gestion saine et prudente de la banque ou de l’...
+--------------------------------------------------
+Chunk 18:
+  Pages: [44]
+  Words: 1475
+  Preview: petits actionnaires au sens de la législation et de la réglementation relatives au marché financier, en ce qui concerne les établissements côtés à la bourse des valeurs mobilières de Tunis. Le mandat ...
+--------------------------------------------------
+Chunk 19:
+  Pages: [46, 47]
+  Words: 1453
+  Preview: conformité des normes bancaires islamiques prépare un rapport annuel sur les résultats de ses activités qui sera soumis au conseil d’administration ou au conseil de surveillance. Une copie de ce rappo...
+--------------------------------------------------
+Chunk 20:
+  Pages: [48, 49]
+  Words: 1411
+  Preview: le président du conseil de surveillance, le directeur général, le président du directoire, les membres du conseil d’administration, les membres du conseil de surveillance, les membres du directoire et...
+--------------------------------------------------
+Chunk 21:
+  Pages: [50, 51]
+  Words: 1483
+  Preview: de sa liquidation peuvent s’étendre à d’autres institutions du secteur financier de manière à menacer la stabilité financière. L’importance systémique d’une banque ou d’un établissement financier est ...
+--------------------------------------------------
+Chunk 22:
+  Pages: [52, 53]
+  Words: 1442
+  Preview: dans le délai d’un mois à compter de la date de présentation d’un dossier comportant tous les renseignements et documents demandés à cet effet. La banque ou l’établissement financier sont tenus d’info...
+--------------------------------------------------
+Chunk 23:
+  Pages: [54, 55]
+  Words: 1500
+  Preview: - la structure des participations des sociétés appartenant au conglomérat financier et leurs stratégies d’activité, - les principaux actionnaires des sociétés appartenant au conglomérat ainsi que leur...
+--------------------------------------------------
+Chunk 24:
+  Pages: [56, 57]
+  Words: 1464
+  Preview: notamment celles relatives à la liquidité et à la solvabilité. Elle peut, après audition de la banque ou de l’établissement financier en cause et l’élaboration d’un procès-verbal à cet effet, initier ...
+--------------------------------------------------
+Chunk 25:
+  Pages: [59]
+  Words: 1444
+  Preview: de l’établissement financier le justifie ou à défaut de redressement prévu par les dispositions de ce chapitre ou si l’administrateur provisoire constate tout fait indiquant la possibilité de cessatio...
+--------------------------------------------------
+Chunk 26:
+  Pages: [61]
+  Words: 1483
+  Preview: l’activité de l’établissement émetteur, * les titres de participation et les autres titres de créance ou titres assimilés, à condition qu’il soit stipulé, lors de leur émission, qu’ils ne seront payab...
+--------------------------------------------------
+Chunk 27:
+  Pages: [63]
+  Words: 1500
+  Preview: de finances, le conseil du marché financier, le comité général des assurances, l’autorité de contrôle de la micro-finance et le fonds de garantie des dépôts bancaires coopèrent avec la commission de r...
+--------------------------------------------------
+Chunk 28:
+  Pages: [64, 65]
+  Words: 1500
+  Preview: financier est considéré, au sens de la présente loi, en état de cessation des paiements lorsqu’il est dans l’impossibilité de faire face à son passif exigible avec ses liquidités ou actifs réalisables...
+--------------------------------------------------
+Chunk 29:
+  Pages: [66, 67]
+  Words: 1494
+  Preview: en cause et établit un état détaillé de ses actifs et passifs et ce, en présence de son ancien représentant légal ou de son suppléant. Il établit des états financiers à la date d’ouverture de la liqui...
+--------------------------------------------------
+Chunk 30:
+  Pages: [68, 69]
+  Words: 1450
+  Preview: créances ont été vérifiées et prises en compte, après déduction des sommes précédemment payées selon l’ordre suivant : 1. les créanciers dont la créance est issue d’une relation de travail né avant le...
+--------------------------------------------------
+Chunk 31:
+  Pages: [70, 71]
+  Words: 1500
+  Preview: des déposants. Article 154 : Le fonds de garantie des dépôts bancaires est subrogé dans les droits et actions des déposants indemnisés dans la limite des sommes d’indemnisation qui leur sont versées. ...
+--------------------------------------------------
+Chunk 32:
+  Pages: [73]
+  Words: 1489
+  Preview: dépôts bancaires ne peut être dissout que par une loi. Dans ce cas, son patrimoine revient à l’Etat qui assure la réalisation de ses engagements. TITRE IX DES SANCTIONS CHAPITRE PREMIER DES SANCTIONS ...
+--------------------------------------------------
+Chunk 33:
+  Pages: [75, 76]
+  Words: 1490
+  Preview: faits qui leurs sont reprochés par tout moyen laissant une trace écrite. Le représentant légal de la banque ou de l’établissement financier ou de la personne concernée ou de son représentant est en dr...
+--------------------------------------------------
+Chunk 34:
+  Pages: [77]
+  Words: 1448
+  Preview: aux banques étrangères ayant leur siège social à l’étranger doivent affecter une dotation au moins égale à la moitié du capital minimum prévu à l’article 32 de la présente loi et ce, à condition que l...
+--------------------------------------------------
+Chunk 35:
+  Pages: [79, 80]
+  Words: 1483
+  Preview: Tunisie, qui constitue l'interlocuteur unique du requérant en ce qui concerne la demande d'informations et de documents. Le secrétariat de la commission d’agréments se charge de soumettre à la commiss...
+--------------------------------------------------
+Chunk 36:
+  Pages: [81, 82, 83]
+  Words: 1495
+  Preview: Centrale de Tunisie dans un délai de deux mois à compter de la réception d’une demande du requérant prouvant le respect de toutes les conditions requises définies dans l’agrément de principe notamment...
+--------------------------------------------------
+Chunk 37:
+  Pages: [84, 85, 86]
+  Words: 1490
+  Preview: du Conseil d’Administration ou du Conseil de Surveillance et des différents comités émanant de ces organes (comité d’audit , comité des risques, Comité de nomination et de rémunération). - Le projet d...
+--------------------------------------------------
+Chunk 38:
+  Pages: [87, 88, 89]
+  Words: 1486
+  Preview: 4 - Impacts attendus sur les moyens humains et techniques - Une note sur les implications du changement de l’activité sur les moyens humains et techniques. - La politique de gestion des ressources hum...
+--------------------------------------------------
+Chunk 39:
+  Pages: [91, 92, 93]
+  Words: 1484
+  Preview: sur une période de 5 ans qui prennent en considération : le volume d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de passif. - Le descriptif dét...
+--------------------------------------------------
+Chunk 40:
+  Pages: [94, 95, 96]
+  Words: 1493
+  Preview: passif de l’établissement. - Le rapport d’évaluation des actifs ou des passifs à céder par l’établissement. 7 - Pilotage stratégique et opérationnel : - Une note retraçant le pilotage stratégique et o...
+--------------------------------------------------
+Chunk 41:
+  Pages: [98, 99, 100]
+  Words: 1500
+  Preview: des risques spécifiant : • Le mode de gouvernance cible (direction générale et conseil d’administration ou directoire et conseil de surveillance). • La composition envisagée du Conseil d’Administratio...
+--------------------------------------------------
+Chunk 42:
+  Pages: [101, 102, 103, 104]
+  Words: 1471
+  Preview: en considération : le volume d’activité prévu dans l’étude de marché, les risques prévisionnels et les éléments de fonds propres et de passif. - Le descriptif détaillé des charges et des moyens de fon...
+--------------------------------------------------
+Chunk 43:
+  Pages: [106, 107, 108, 109, 110, 111]
+  Words: 1486
+  Preview: 1.8. Le formulaire no 4 « lettre d’engagement des actionnaires » pour la participation dans le capital de l’établissement de paiement à créer signé par les actionnaires. 1.9. Les états financiers indi...
+--------------------------------------------------
+Chunk 44:
+  Pages: [113, 114]
+  Words: 1466
+  Preview: paiement, garantissant l’exécution des opérations de paiement en attente et la résiliation des contrats en cours. 10. Services de paiement fournis à la clientèle 10.1. Caractéristiques et fonctionneme...
+--------------------------------------------------
+Chunk 45:
+  Pages: [116, 117, 118, 119]
+  Words: 1486
+  Preview: de commerce et des virements bancaires, 4) l'envoi d'un relevé des opérations effectuées sur le compte à l'adresse, déclarée à la banque, du titulaire du compte, 5) la réalisation des opérations d'enc...
+--------------------------------------------------
+Chunk 46:
+  Pages: [121]
+  Words: 1469
+  Preview: qui se charge de le transmettre à la Banque Centrale de Tunisie pour allouer les fonds nécessaires. Article 12 : La ministre des finances et le gouverneur de la Banque Centrale de Tunisie sont chargés...
+--------------------------------------------------
+Chunk 47:
+  Pages: [123]
+  Words: 1478
+  Preview: et à l’allégement de la pression fiscale sur les entreprises, tel que modifié par l’article 12 de la loi n°2007-70 du 27/12/2007, portant loi de finances pour l’année 2008, prévoit ce qui suit : 1. Le...
+--------------------------------------------------
+Chunk 48:
+  Pages: [124, 125]
+  Words: 1457
+  Preview: et sur leur radiation ainsi que sur leur négociabilité sur ce compartiment, sauf opposition du Conseil du Marché Financier. Par dérogation aux dispositions de l’article 87 de la loi n° 94-117 du 14 no...
+--------------------------------------------------
+Chunk 49:
+  Pages: [126, 127]
+  Words: 1423
+  Preview: différentes catégories de parts ou d'actions dans des conditions fixées, selon le cas, par les statuts de la SICAV ARIA ou le règlement du FCP ARIA. Un règlement du Conseil du Marché Financier fixe le...
+--------------------------------------------------
+Chunk 50:
+  Pages: [128]
+  Words: 1500
+  Preview: millions de dinars. Les statuts des SICAV ARIA doivent spécifier expressément que le capital peut être augmenté par l'émission d'actions nouvelles ou réduit par le rachat par cette même société d'acti...
+--------------------------------------------------
+Chunk 51:
+  Pages: [130]
+  Words: 1482
+  Preview: la fin de chaque trimestre la composition de l'actif du FCP ARIA au bulletin officiel du Conseil du Marché Financier dans un délai de trente jours à compter de la fin de chaque trimestre. Le commissai...
+--------------------------------------------------
+Chunk 52:
+  Pages: [131, 132]
+  Words: 1481
+  Preview: NON RESIDENTS CHAPITRE 1 DEFINITION DES PRESTATAIRES DES SERVICES FINANCIERS NON RESIDENTS Article 58 : Les prestataires des services financiers non-résidents comprennent les établissements de crédit ...
+--------------------------------------------------
+Chunk 53:
+  Pages: [133, 134]
+  Words: 1475
+  Preview: puisse : 1. dans l'exercice de son activité professionnelle consentir à ses cocontractants des délais de paiement ou avances ; 2. procéder à des opérations de Trésorerie avec des entreprises appartena...
+--------------------------------------------------
+Chunk 54:
+  Pages: [135]
+  Words: 1494
+  Preview: ayant son siège social à l’étranger et autorisé à exercer son activité en Tunisie par l’intermédiaire de succursales ou d'agences doit affecter à son activité une dotation minimale d’un montant égal a...
+--------------------------------------------------
+Chunk 55:
+  Pages: [137]
+  Words: 1480
+  Preview: prend effet : 1. le prestataire concerné demeure soumis au contrôle de la Banque Centrale de Tunisie et au contrôle du Conseil du Marché Financier chacun en ce qui le concerne. 2. La Banque Centrale d...
+--------------------------------------------------
+Chunk 56:
+  Pages: [138, 139]
+  Words: 1492
+  Preview: d’un établissement de crédit non-résident ou au Conseil du Marché Financier s’agissant d’une entreprise d’investissement non-résidente ou d’une société de gestion de portefeuilles non-résidente, un ra...
+--------------------------------------------------
+Chunk 57:
+  Pages: [140]
+  Words: 1497
+  Preview: son exécution, de la possibilité de sa réalisation et de son règlement, ainsi que de la taille et de la nature ou de toutes autres considérations relatives à l'exécution de ces ordres. Néanmoins, chaq...
+--------------------------------------------------
+Chunk 58:
+  Pages: [142]
+  Words: 1464
+  Preview: gestionnaires, leurs dépositaires, leurs dirigeants et le personnel placé sous leurs autorités sont également soumis au contrôle du Conseil du Marché Financier et au pouvoir disciplinaire de ce dernie...
+--------------------------------------------------
+Chunk 59:
+  Pages: [143, 144]
+  Words: 1495
+  Preview: non-résident le justifie, la Banque Centrale de Tunisie ou le Conseil du Marché Financier selon le cas, peut adresser aux membres de son Conseil d’Administration, aux membres de son directoire, à ses ...
+--------------------------------------------------
+Chunk 60:
+  Pages: [145]
+  Words: 1464
+  Preview: son représentant légal, les faits reprochés au dit prestataire. La Commission des services financiers informe également le représentant légal du prestataire qu’il peut prendre connaissance des pièces ...
+--------------------------------------------------
+Chunk 61:
+  Pages: [147]
+  Words: 1490
+  Preview: les contrats, les documents comptables et les registres de procès- verbaux. La peine est doublée en cas de récidive. Article 137 : Nonobstant les sanctions pénales, disciplinaires, les astreintes et l...
+--------------------------------------------------
+Chunk 62:
+  Pages: [148, 149]
+  Words: 1460
+  Preview: lieu à la perception d'aucune rémunération directe ou indirecte. Les dépenses qui en découlent sont intégralement couvertes par des apports en devises ; - toute autre activité à caractère financier s’...
+--------------------------------------------------
+Chunk 63:
+  Pages: [151, 152, 153, 154, 155]
+  Words: 1495
+  Preview: en original visée par la douane et que la banque doit conserver. b) Débit : Chaque opération de débit en billets de banque d'un compte en devises ouvert sur les livres d'une banque non-résidente doit ...
+--------------------------------------------------
+Chunk 64:
+  Pages: [158, 159, 160]
+  Words: 1446
+  Preview: exportations peut être effectué quel que soit le régime des produits à exporter (prohibés, contingentés, libérés). Il est réalisé dans la limite du montant prévu au contrat commercial au plus tôt à co...
+--------------------------------------------------
+Chunk 65:
+  Pages: [161, 162]
+  Words: 1490
+  Preview: 20 % 100 % 20 > DR 2°) Réserves obligatoires : Les banques non-résidentes autorisées à collecter des fonds en dinars sont soumises à la réserve obligatoire dans les mêmes conditions que les banques de...
+--------------------------------------------------
+Chunk 66:
+  Pages: [165, 166, 167]
+  Words: 1498
+  Preview: ce tribunal. Article 9 : Les inscriptions faites conformément aux articles 7 et 8 prennent effet à la date de l'inscription. Article 10 : Les inscriptions sont radiées soit sur justification de l'acco...
+--------------------------------------------------
+Chunk 67:
+  Pages: [170]
+  Words: 1478
+  Preview: la Banque Centrale de Tunisie d’accomplir les missions de supervision des opérations externalisées. Les membres du conseil d’administration ou du directoire de l’établissement de crédit demeurent resp...
+--------------------------------------------------
+Chunk 68:
+  Pages: [171, 172]
+  Words: 1446
+  Preview: des équipements susceptibles de présenter une source de risque (dépôts de carburants ou de gaz…etc.). Article 3: La superficie de la succursale ou de l’agence doit être adaptée au volume de l’activité...
+--------------------------------------------------
+Chunk 69:
+  Pages: [173, 174, 175]
+  Words: 1496
+  Preview: à la Banque Centrale de Tunisie par le premier responsable de l'établissement de crédit concerné, accompagnée de tout élément justifiant la satisfaction des critères de qualité des services bancaires,...
+--------------------------------------------------
+Chunk 70:
+  Pages: [177]
+  Words: 1480
+  Preview: réalisation d’opérations de paiement par tout moyen de communication à distance, y compris les opérations de paiement électronique, et - la commercialisation des moyens de monnaie électroniques prépay...
+--------------------------------------------------
+Chunk 71:
+  Pages: [179, 180]
+  Words: 1488
+  Preview: les modalités sont fixées par la Banque Centrale de Tunisie. Titre III : Des règles d’ouverture et de fonctionnement des comptes de paiement et du compte global Article 14 : Les établissements de paie...
+--------------------------------------------------
+Chunk 72:
+  Pages: [181, 182]
+  Words: 1500
+  Preview: * les versements et les retraits en espèces sur un compte de paiement ; et * les opérations de transfert de fonds. b- Des agents de paiement détaillants qui ne peuvent fournir que les services suivant...
+--------------------------------------------------
+Chunk 73:
+  Pages: [184]
+  Words: 1485
+  Preview: fonds propres calculés selon les modalités déterminées par la Banque Centrale de Tunisie. Article 40 : Les dispositions de la présente circulaire entrent en vigueur à partir de la date de sa publicati...
+--------------------------------------------------
+Chunk 74:
+  Pages: [188, 189]
+  Words: 1493
+  Preview: la banque et les titulaires des comptes d’investissement en fonction de la spécificité de chaque mode d’investissement. Article 14 : La banque est tenue de communiquer, avant chaque opération d’invest...
+--------------------------------------------------
+Chunk 75:
+  Pages: [191, 192, 193]
+  Words: 1466
+  Preview: qui incombent aux différents intervenants de la chaine de paiement mobile; - normaliser les exigences minimales pour les différents acteurs de l'industrie des services de paiement mobile ; CIRCULAIRE ...
+--------------------------------------------------
+Chunk 76:
+  Pages: [195, 196]
+  Words: 1441
+  Preview: de codes d'accès, de conformité aux règles de sécurité et de confidentialité et d’oppositions ; - les engagements de l’émetteur notamment en termes de continuité de services, de sécurité, des délais d...
+--------------------------------------------------
+Chunk 77:
+  Pages: [197, 198]
+  Words: 1491
+  Preview: circulaire ; - la gestion des données des clients et leurs comptes garantissant la protection de leurs données et la confidentialité des codes qui leur sont délivrés ; - la continuité de la prestation...
+--------------------------------------------------
+Chunk 78:
+  Pages: [200, 201]
+  Words: 1449
+  Preview: montant des opérations frauduleuses réalisées. Article 40- Les établissements et le switch mobile sont tenus de déclarer à la Banque Centrale de Tunisie, selon les modalités et conditions qu’elle déte...
+--------------------------------------------------
+Chunk 79:
+  Pages: [202, 203, 204]
+  Words: 1457
+  Preview: doit fixer les prérogatives de cette structure, lui allouer les moyens humains et techniques adéquats et lui donner accès aux données et documents nécessaires à l’accomplissement de ses missions dans ...
+--------------------------------------------------
+Chunk 80:
+  Pages: [206, 207, 208, 209, 210, 211, 212, 213]
+  Words: 1480
+  Preview: Vu la loi n°2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers ; Vu la loi n°2000-92 du 31 octobre 2000, relative aux actes de cession ou de nantissement de créances prof...
+--------------------------------------------------
+Chunk 81:
+  Pages: [214, 215, 216, 217]
+  Words: 1461
+  Preview: de la réunion, par tout moyen laissant une trace écrite au moins dix jours ouvrables avant la date de tenue de la réunion. Le comité de surveillance peut, en cas de besoin, se réunir, à titre exceptio...
+--------------------------------------------------
+Chunk 82:
+  Pages: [218, 219]
+  Words: 1497
+  Preview: la cotisation de chaque banque adhérente sur la base des données périodiques communiquées par la Banque Centrale de Tunisie. Aucune banque ne peut se prévaloir de la restitution de la totalité ou d'un...
+--------------------------------------------------
+Chunk 83:
+  Pages: [220]
+  Words: 1440
+  Preview: 28 : Pour le besoin de l'indemnisation des déposants est considéré un seul compte, au sens du présent décret gouvernemental, l'ensemble des comptes ouverts par chaque déposant dans les différentes age...
+--------------------------------------------------
+Chunk 84:
+  Pages: [222, 223, 224]
+  Words: 1462
+  Preview: NATIONAL DE GARANTIE. - NOTE AUX BANQUES N°99-03 DU 26 JANVIER 1999 AYANT POUR OBJET L'ASSIETTE DE CALCUL DES COMMISSIONS DE PEREQUATION DES CHANGES ET DE GARANTIE. - CICULAIRE N°92-07 DU 21 AVRIL 199...
+--------------------------------------------------
+Chunk 85:
+  Pages: [226, 227]
+  Words: 1498
+  Preview: Article 4 : Sont exclus du calcul du taux d'intérêt effectif global, les impôts, droits, frais et commissions prélevés par le prêteur en qualité de percepteur au profit de l'Etat ou de tout autre orga...
+--------------------------------------------------
+Chunk 86:
+  Pages: [228, 229]
+  Words: 1485
+  Preview: pour rétablir l'équilibre de la structure financière des entreprises - Crédits à long terme consentis aux entreprises de commercialisation de gros matériel agricole neuf. 6) Prêts pour le financement ...
+--------------------------------------------------
+Chunk 87:
+  Pages: [232]
+  Words: 1495
+  Preview: même banque. Le montant minimum de chaque opération de crédit ou de débit est fixé à dix dinars. Article 6 : Le paiement par le débit du compte spécial d'épargne doit s'effectuer à concurrence des som...
+--------------------------------------------------
+Chunk 88:
+  Pages: [233, 234]
+  Words: 1475
+  Preview: habilité à cet effet, sont autorisés à ouvrir des "Comptes d'épargne pour l'investissement" au profit de toute personne physique ou morale. L'ouverture et le fonctionnement de ces comptes se font conf...
+--------------------------------------------------
+Chunk 89:
+  Pages: [236]
+  Words: 1500
+  Preview: ne doivent en aucun cas dépasser le délai normal de courrier. Tout délai supplémentaire constitue une infraction à la réglementation des changes et expose la banque contrevenante aux sanctions prévues...
+--------------------------------------------------
+Chunk 90:
+  Pages: [237, 238]
+  Words: 1495
+  Preview: la présente circulaire en indiquant la date de valeur et ce, au moyen d'affiches visibles au public dans toutes leurs succursales et agences. Les dispositions de cet article sont applicables aux établ...
+--------------------------------------------------
+Chunk 91:
+  Pages: [239, 240, 241]
+  Words: 1418
+  Preview: pour les chèques tirés sur les places de Tunisie ..................................................................... b- avis de sort réalisé par téléphone, télégramme ou télex et demandé pour les ch...
+--------------------------------------------------
+Chunk 92:
+  Pages: [243, 244, 245]
+  Words: 1493
+  Preview: dinars - en devises CONDITIONS DEBITRICES * crédits à la consommation * Autres crédits à court terme * Crédits à l'habitat - à moyen terme - à long terme * Autres crédits à moyen et long terme * Leasi...
+--------------------------------------------------
+Chunk 93:
+  Pages: [247, 248, 249, 250, 251, 252, 253]
+  Words: 1477
+  Preview: habilité à ouvrir les comptes d'épargne-emprunts obligataires établit un contrat-type pour l'ouverture de ces comptes. Il doit transmettre à la Banque Centrale de Tunisie une copie de ce contrat ainsi...
+--------------------------------------------------
+Chunk 94:
+  Pages: [254, 255, 256]
+  Words: 1426
+  Preview: retenue à la source libératoire de 15% à condition qu'aucune opération de retrait des sommes déposées du compte ou lui revenant au titre des intérêts, des amortissements ou des produits des ventes ne ...
+--------------------------------------------------
+Chunk 95:
+  Pages: [257, 258]
+  Words: 1494
+  Preview: de dépôt et/ou de billets de trésorerie un dossier, à présenter à toute réquisition, comportant les pièces comptables justifiant toute écriture passée au débit et au crédit de son compte. Article 13 :...
+--------------------------------------------------
+Chunk 96:
+  Pages: [259, 260]
+  Words: 1500
+  Preview: base ; - la reconstitution à partir des données de base de tout solde de compte ou de retracer les données entrées à partir des comptes. Signature autorisée (Faire précéder par la mention « Lu et appr...
+--------------------------------------------------
+Chunk 97:
+  Pages: [262, 263, 264, 265, 266]
+  Words: 1465
+  Preview: Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du 25 avril 2016 portant fixation du statut de la Banque Centrale de Tunisie, Vu la loi n°2016-48 du 11 juillet 2016 relative aux banqu...
+--------------------------------------------------
+Chunk 98:
+  Pages: [267, 268, 269]
+  Words: 1500
+  Preview: - Modifié par l’article 2 de la circulaire n°2020-21 du 30 décembre 2020. Cet article prévoit la prorogation de la durée maximale d’octroi de financements exceptionnels stipulée par l’article 1 de la ...
+--------------------------------------------------
+Chunk 99:
+  Pages: [271, 272, 273, 274, 275]
+  Words: 1405
+  Preview: COVID-19 Objet : Fixation des conditions du bénéfice et des modalités de gestion de la ligne de dotation destinée au refinancement des crédits de rééchelonnement accordés par les banques au profit des...
+--------------------------------------------------
+Chunk 100:
+  Pages: [277, 278]
+  Words: 1478
+  Preview: doit, tout au long de la durée du crédit et dans un délai maximum de six mois après la fin de chaque exercice comptable, communiquer à la Banque Centrale de Tunisie les états financiers des entreprise...
+--------------------------------------------------
+Chunk 101:
+  Pages: [280, 281]
+  Words: 1497
+  Preview: un délai ne dépassant pas trois mois à compter de la fin de chaque année. Article 10- La présente circulaire entre en vigueur à compter de la date de sa publication. SIXIEME PARTIE POLITIQUE MONETAIRE...
+--------------------------------------------------
+Chunk 102:
+  Pages: [284, 285]
+  Words: 1485
+  Preview: est de piloter le taux d’intérêt interbancaire au jour le jour à des niveaux proches du taux directeur de la Banque Centrale de Tunisie. Ce cadre opérationnel est constitué des opérations à l’initiati...
+--------------------------------------------------
+Chunk 103:
+  Pages: [287, 288]
+  Words: 1493
+  Preview: actifs négociables éligibles, consultable sur le système CAER. Article 17 : Critères d’éligibilité des actifs non négociables Les actifs non négociables admis en garantie des opérations de refinanceme...
+--------------------------------------------------
+Chunk 104:
+  Pages: [290, 291, 292, 293, 294]
+  Words: 1465
+  Preview: pouvoirs de la Banque centrale hors de la politique monétaire : en particulier, le champ du présent Manuel n’inclut pas les mesures relatives à la surveillance des systèmes et des moyens de paiement, ...
+--------------------------------------------------
+Chunk 105:
+  Pages: [295, 296]
+  Words: 1500
+  Preview: de report/déport auquel elles veulent conclure des opérations avec la Banque centrale, et dans laquelle les offres les plus compétitives sont servies en premier jusqu’à ce que soit atteint le montant ...
+--------------------------------------------------
+Chunk 106:
+  Pages: [297, 298, 299]
+  Words: 1488
+  Preview: effectue des opérations de refinancement à plus long terme au moyen d’opérations de cession temporaire sous forme de prêts garantis ou de prises en pension, afin de fournir aux contreparties des liqui...
+--------------------------------------------------
+Chunk 107:
+  Pages: [301, 302]
+  Words: 1483
+  Preview: un taux d’intérêt fixes. 3. Le taux d’intérêt appliqué au dépôt est un taux d’intérêt simple calculé selon la convention « nombre exact de jours/360 ». L’intérêt est payé à l’échéance du dépôt. La Ban...
+--------------------------------------------------
+Chunk 108:
+  Pages: [304, 305]
+  Words: 1500
+  Preview: prêt marginal est retardée de quinze minutes supplémentaires le dernier jour ouvrable d’une période de constitution de réserves. La demande d’accès à la facilité de prêt marginal précise le montant de...
+--------------------------------------------------
+Chunk 109:
+  Pages: [307, 308, 309]
+  Words: 1487
+  Preview: terme régulières Catégorie d’opérations à l’initiative de la Banque centrale Jour normal de transaction (T) Opérations principales de refinancement Chaque mardi (*) Opérations de refinancement à plus ...
+--------------------------------------------------
+Chunk 110:
+  Pages: [310, 311, 312]
+  Words: 1491
+  Preview: taux multiples en dinars destinée à retirer des liquidités, utilisée pour l’émission de certificats de dette et la reprise de liquidité en blanc, les offres des contreparties sont adjugées de la façon...
+--------------------------------------------------
+Chunk 111:
+  Pages: [313, 314]
+  Words: 1490
+  Preview: Banque centrale ; et/ou b) règlent les actifs éligibles au profit de la Banque centrale via un système de règlement- livraison. Article 45 Règlement des opérations à l’initiative de la Banque centrale...
+--------------------------------------------------
+Chunk 112:
+  Pages: [316, 317]
+  Words: 1478
+  Preview: c’est-à-dire montant potentiel de refinancement permis par la mobilisation de l’actif à des fins de garantie ; O = valeur de l’encours principal restant sur la créance ; H = décote(s) publiée(s) par l...
+--------------------------------------------------
+Chunk 113:
+  Pages: [319, 320]
+  Words: 1430
+  Preview: qui concerne les reprises de liquidité en blanc, les opérations fermes et l’émission de certificats de dette de la Banque Centrale de Tunisie, l’obligation de régler l’opération, conformément à l’arti...
+--------------------------------------------------
+Chunk 114:
+  Pages: [321, 322, 323, 324, 325]
+  Words: 1437
+  Preview: lieu, ou la date de valeur et la date d'échéance de l'instrument, en cas d'émission de certificats de dette de la Banque Centrale de Tunisie ; l) les monnaies concernées et, dans le cas de swaps de ch...
+--------------------------------------------------
+Chunk 115:
+  Pages: [327, 328, 329]
+  Words: 1479
+  Preview: 3 — Émission de certificats de dette de la Banque Centrale de Tunisie par voie d'appel d'offres à taux multiples I. EXEMPLE 1 — OPÉRATION DE CESSION TEMPORAIRE DESTINÉE À FOURNIR DES LIQUIDITÉS PAR VO...
+--------------------------------------------------
+Chunk 116:
+  Pages: [331, 332, 333]
+  Words: 1434
+  Preview: fixée . «Contrepartie», un établissement bancaire au sens de la loi n° 2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers et qui remplit les critères d’éligibilité pour a...
+--------------------------------------------------
+Chunk 117:
+  Pages: [334, 335]
+  Words: 1474
+  Preview: vigueur à compter de sa signature. Fait à Tunis, en…….. Exemplaires, le…….. Pour la Banque centrale Pour la contrepartie Pour le Dépositaire central ANNEXE IV A LA CIRCULAIRE RELATIVE A LA MISE EN ŒUV...
+--------------------------------------------------
+Chunk 118:
+  Pages: [337, 338]
+  Words: 1495
+  Preview: ne sont pas déjà nanties ou remises en garantie au bénéfice d’une autre personne autre que la Banque centrale. Elle s’engage également à ne pas céder, ni remettre en propriété par quelque technique qu...
+--------------------------------------------------
+Chunk 119:
+  Pages: [339, 340, 341, 342]
+  Words: 1468
+  Preview: les circulaires n° 87-50 du 13/12/87, 88-03 du 21/01/88; 88-06 du 24/02/88; 88-08 du 25/04/88; 88-09 du 12/05/88 ; 88-24 du 12/09/88; 89-13 du 17/05/89 ; 91-12 du 24/06/91; 93-01 du 6/01/93; 95-01 du ...
+--------------------------------------------------
+Chunk 120:
+  Pages: [343, 344]
+  Words: 1496
+  Preview: de services faits. Article 12 : Avances sur créances administratives Ce concours est destiné à financer les créances nées sur l'Administration. Le montant du crédit ne doit pas excéder 80% du montant ...
+--------------------------------------------------
+Chunk 121:
+  Pages: [345, 346]
+  Words: 1459
+  Preview: l'annexe IV bis ci-jointe et remboursé en une seule fois. Article 23 ter Ajouté par la circulaire n°2004-10 du 31 Décembre 2004 (Parue en langue arabe seulement). Deuxième Alinéa nouveau (modifié par ...
+--------------------------------------------------
+Chunk 122:
+  Pages: [347]
+  Words: 1500
+  Preview: forme de concours est destinée à financer les investissements dans le commerce de distribution réalisés dans le cadre de la création, l'aménagement et l'extension de magasins à rayons multiples ou d'e...
+--------------------------------------------------
+Chunk 123:
+  Pages: [349]
+  Words: 1455
+  Preview: de tout dossier dont le montant du crédit est inférieur aux planchers susvisés. TITRE 4 REFINANCEMENT PAR LA BANQUE CENTRALE DE TUNISIE Les articles 37, 38, 39, 40, 41, 42, 43 et 44 sont abrogés par l...
+--------------------------------------------------
+Chunk 124:
+  Pages: [351, 352, 353, 354]
+  Words: 1500
+  Preview: du 30.05.95 et modifié par la circulaire n°99-02 du 26 janvier 1999 et la circulaire n°2002-11 du 4.7.2002. (7) Ajouté par circulaire aux banques n°2004-10 du 31/12/2004 et modifié par la circulaire n...
+--------------------------------------------------
+Chunk 125:
+  Pages: [358, 359, 360, 361, 362, 363, 364]
+  Words: 1500
+  Preview: A MOYEN TERME A LA PRODUCTION SECTEURS ET BRANCHES ELIGIBLES INDUSTRIES DES MATERIAUX DE CONSTRUCTION, CERAMIQUE ET VERRE - Industries de matériaux de construction . Tuyaux armés . Installations fixes...
+--------------------------------------------------
+Chunk 126:
+  Pages: [366, 367, 368, 369]
+  Words: 1491
+  Preview: D'INSTRUMENTS DE PESAGE ET DE MESURAGE 20622 CONFECTION DE PLAQUES MINERALOGIQUES 20623 FORGERON 207 - GROUPE DES ACTIVITES D'IMPRIMERIE ET D'INDUSTRIE DU PAPIER 20701 TRANSFORMATION DES PAPIERS ET DU...
+--------------------------------------------------
+Chunk 127:
+  Pages: [372, 373, 374]
+  Words: 1492
+  Preview: - Localité : /_/_/ - Adresse : Localité : ................................................................ Rue : ................................................................ N° ......................
+--------------------------------------------------
+Chunk 128:
+  Pages: [376, 377, 378, 379, 380, 381, 382, 383]
+  Words: 1431
+  Preview: par la Banque Centrale de Tunisie, Vu l’avis du comité de contrôle de la conformité n° 12-2019 du 18 décembre 2019, Décide : Article Premier- Les banques et les établissements financiers peuvent procé...
+--------------------------------------------------
+Chunk 129:
+  Pages: [384, 385, 386, 387, 388]
+  Words: 1468
+  Preview: de la participation des non- résidents au capital de l’entreprise. Article 5 : Les banques domiciliataires de ces crédits communiquent à la Banque Centrale de Tunisie (Service du Suivi et des Analyses...
+--------------------------------------------------
+Chunk 130:
+  Pages: [391, 392]
+  Words: 1491
+  Preview: billets de trésorerie en indiquant le montant, le taux et la durée. Il communique également les transactions sur ces titres en mentionnant le nombre, le montant et les durées initiales ainsi que celle...
+--------------------------------------------------
+Chunk 131:
+  Pages: [394, 395, 396, 397, 398]
+  Words: 1477
+  Preview: dispositions de l’arrêté du ministre du plan et des finances du 20 septembre 1989 fixant les conditions et les modalités d’émission et de remboursement des bons du Trésor tel que modifié par l’arrêté ...
+--------------------------------------------------
+Chunk 132:
+  Pages: [400, 401, 402, 403]
+  Words: 1483
+  Preview: MODALITES D’EMISSION ET DE REMBOURSEMENT DES BONS DU TRESOR Article 1er : l’Etat émet des Bons Assimilables appelés Bons du Trésor à Court Terme, Bons du Trésor Assimilables et Bons du Trésor à Zéro C...
+--------------------------------------------------
+Chunk 133:
+  Pages: [404, 405]
+  Words: 1475
+  Preview: à la convention de pension livrée, à son obligation de rétrocession des valeurs mobilières ou des effets de commerce ou de paiement du prix, donne droit à l'autre partie, selon le cas, à ne pas régler...
+--------------------------------------------------
+Chunk 134:
+  Pages: [406, 407]
+  Words: 1475
+  Preview: habilités à exercer l’intermédiation en matière de pension livrée. Article 3 : Chaque banque ou organisme financier intermédiaire doit s’assurer au préalable que les parties ont régulièrement signé l’...
+--------------------------------------------------
+Chunk 135:
+  Pages: [408, 409, 410]
+  Words: 1499
+  Preview: valeur des titres mis en pension. Montant dû Pour une pension livrée résiliée et une partie déterminée, la somme des paiements qui étaient dus par cette partie et n’ont pas eu lieu (pour quelque raiso...
+--------------------------------------------------
+Chunk 136:
+  Pages: [412]
+  Words: 1500
+  Preview: GESTION DES MARGES Article 13 : A moins qu’il n’en soit disposé autrement lors de sa conclusion, chaque pension livrée donnera lieu, aux conditions définies dans l’annexe I, à la constitution ou, le c...
+--------------------------------------------------
+Chunk 137:
+  Pages: [413, 414]
+  Words: 1496
+  Preview: ou qui pourrait affecter la validité ou la bonne exécution de l’Accord ou de toute pension livrée. TITRE VII DE LA RESILIATION DES PENSIONS LIVREES A- Résiliation en cas de défaillance. Article 24 : C...
+--------------------------------------------------
+Chunk 138:
+  Pages: [415]
+  Words: 1494
+  Preview: de résiliation sera égal à la différence entre la valeur absolue du risque brut et la valeur de la marge. Il sera dû par la partie en charge des calculs s'il est positif et par la partie défaillante o...
+--------------------------------------------------
+Chunk 139:
+  Pages: [417]
+  Words: 1481
+  Preview: l’ajustement de marge sera d’une valeur arrondie à la quantité de titres immédiatement inférieure. ANNEXE N°2 A LA CIRCULAIRE N°2013-05 DU 30 AVRIL 2013 Tableau récapitulatif du Solde de résiliation R...
+--------------------------------------------------
+Chunk 140:
+  Pages: [420, 421]
+  Words: 1445
+  Preview: peut accéder à distance et en temps réel aux données sur les transactions interbancaires réalisées via ledit système de négociation sans avoir à obtenir au préalable l’autorisation des banques. Articl...
+--------------------------------------------------
+Chunk 141:
+  Pages: [422, 423]
+  Words: 1492
+  Preview: la mise en œuvre de la politique monétaire par la Banque Centrale de Tunisie. Le manquement à l’une quelconque de ces obligations est passible des mesures prévues par ladite circulaire à l’encontre de...
+--------------------------------------------------
+Chunk 142:
+  Pages: [427, 428]
+  Words: 1497
+  Preview: avenant au contrat de crédit et du tableau d'amortissement actualisé dont copies sont communiquées par la banque ou l’établissement financier à la Banque Centrale de Tunisie. Article 9- Les banques et...
+--------------------------------------------------
+Chunk 143:
+  Pages: [431, 432, 433, 434, 435, 436]
+  Words: 1469
+  Preview: ENGAGEMENTS ET CLASSIFICATION DES ACTIFS Article 7 : Chaque Etablissement de crédit doit exiger, pour le suivi de ses concours financiers aux entreprises ayant auprès d'elle des risques tels que défin...
+--------------------------------------------------
+Chunk 144:
+  Pages: [437, 438]
+  Words: 1480
+  Preview: être revu à chaque arrêté des comptes annuels. Toute reprise sur le montant des provisions collectives doit être justifiée par des éléments d’amélioration des paramètres de risques et discutée au préa...
+--------------------------------------------------
+Chunk 145:
+  Pages: [439, 440, 441, 442]
+  Words: 1500
+  Preview: rapport au ratio de solvabilité réglementaire <10% des Fonds Propres Nets 10%-25% 25%-50% 50%-100% >100% <10% du ratio réglementaire 10%-20% 20%-30% 30%-40% 40%-50% 0,5% du montant de dépassement 1% d...
+--------------------------------------------------
+Chunk 146:
+  Pages: [444, 445, 446, 447, 448]
+  Words: 1434
+  Preview: ; Vu la circulaire aux intermédiaires agréés n°2001- 11 du 4 mai 2001 relative au marché des changes et instruments de couverture des risques de change et de taux; Vu la circulaire aux établissements ...
+--------------------------------------------------
+Chunk 147:
+  Pages: [449, 450]
+  Words: 1449
+  Preview: des contrôles permanent et périodique mentionnés à l’article 8 de la présente circulaire. Ces responsables rendent compte de l’exercice de leurs missions à l’organe de direction. Lorsque ce dernier ou...
+--------------------------------------------------
+Chunk 148:
+  Pages: [451]
+  Words: 1474
+  Preview: risque de marché, risque global de taux d’intérêt etc.) Lorsque le suivi du respect des limites visées à l’article 18 ci-dessus est contrôlé par une structure de surveillance et de suivi des risques1,...
+--------------------------------------------------
+Chunk 149:
+  Pages: [453]
+  Words: 1493
+  Preview: et une évaluation prudente et fiable de ce risque. Ces systèmes doivent permettre notamment : a) d'enregistrer quotidiennement les opérations de change et les opérations sur les titres et les instrume...
+--------------------------------------------------
+Chunk 150:
+  Pages: [455]
+  Words: 1476
+  Preview: pertes résultant de carences ou de défaillances attribuables à la conception, à l’organisation et à la mise en œuvre des procédures, aux erreurs humaines ou techniques ainsi qu’aux événements extérieu...
+--------------------------------------------------
+Chunk 151:
+  Pages: [456, 457]
+  Words: 1500
+  Preview: informations à diffuser. TITRE V DU COMITE PERMANENT D’AUDIT INTERNE Les articles 56, 57, 58, 59, 60 et 61 sont abrogés par l’article 44 de la circulaire aux établissements de crédit n°2011-06 du 20 m...
+--------------------------------------------------
+Chunk 152:
+  Pages: [460]
+  Words: 1500
+  Preview: prenant en considération : (a) le niveau, la distribution et la sécurité des actifs classés ; (b) le niveau et la composition des actifs non productifs, non performants et à taux réduits ; (c) l'adéqu...
+--------------------------------------------------
+Chunk 153:
+  Pages: [461, 462]
+  Words: 1500
+  Preview: de recrutement, de formation et de recyclage du personnel ; - Le système de motivation et de sanction est-il en rapport avec la performance du personnel ; - Quel est le degré de confiance susceptible ...
+--------------------------------------------------
+Chunk 154:
+  Pages: [463, 464]
+  Words: 1458
+  Preview: concours ; - Existe-t-il des procédures systématiques comptables de classification des actifs et de constitution de provisions conformes aux normes édictées par la Banque Centrale de Tunisie en la mat...
+--------------------------------------------------
+Chunk 155:
+  Pages: [465, 466, 467]
+  Words: 1498
+  Preview: classe 2, les actifs dont la réalisation ou le recouvrement intégral dans les délais paraît incertain et qui sont généralement détenus sur des entreprises ou particuliers qui connaissent des difficult...
+--------------------------------------------------
+Chunk 156:
+  Pages: [468, 469]
+  Words: 1500
+  Preview: 5. GARANTIES 5.1. De l'Etat 5.2. Des banques et Cies d'assurances 5.3. Actifs financiers affectés 5.4. Dépôts affectés 5.5. Garanties réelles 5.5.1. Hypothèque dûment inscrite sur usine 5.5.2. Hypothè...
+--------------------------------------------------
+Chunk 157:
+  Pages: [472, 473, 474, 475]
+  Words: 1500
+  Preview: PAR LA CIRCULAIRE N°2021-05 DU 19 AOUT 20212021 relative au cadre de gouvernance des banques et des établissements financiers Objet : Cadre de gouvernance des banques et des établissements financiers....
+--------------------------------------------------
+Chunk 158:
+  Pages: [477, 478]
+  Words: 1486
+  Preview: pour l’établissement notamment son actionnariat, sa situation financière, ses performances, sa gouvernance, son profil de risque et sa conformité. TITRE 2 : DE L’ORGANE D’ADMINISTRATION CHAPITRE PREMI...
+--------------------------------------------------
+Chunk 159:
+  Pages: [480, 481]
+  Words: 1489
+  Preview: des politiques documentées concernant la manière dont ces règles doivent être respectées. Ces politiques doivent prévoir notamment : - les principes de comportement professionnel responsable dont nota...
+--------------------------------------------------
+Chunk 160:
+  Pages: [482, 483]
+  Words: 1500
+  Preview: de l’établissement au-dessus de leurs intérêts propres, - respecter les obligations de secret professionnel pour les informations dont ils ont pris connaissance du fait de l’exercice de leurs missions...
+--------------------------------------------------
+Chunk 161:
+  Pages: [485, 486]
+  Words: 1483
+  Preview: afin de faciliter la prise de décision au niveau de l’organe d’administration. Le comité des risques est tenu de remettre au comité d’audit les procès-verbaux de ses réunions en temps opportun. CHAPIT...
+--------------------------------------------------
+Chunk 162:
+  Pages: [487, 488]
+  Words: 1469
+  Preview: déterminée par l’organe d’administration, - assurer la communication de toutes informations et données pertinentes et nécessaires à une prise de décision par l’organe d’administration et de ses comité...
+--------------------------------------------------
+Chunk 163:
+  Pages: [490, 491]
+  Words: 1478
+  Preview: la mesure, la gestion et la limitation des risques au niveau consolidé, et - vérifier qu’il existe des systèmes efficaces pour faciliter la communication d’informations entre les différentes entités, ...
+--------------------------------------------------
+Chunk 164:
+  Pages: [492, 493]
+  Words: 1482
+  Preview: par l’article 20 de la présente circulaire. La Banque Centrale de Tunisie peut, dans le cadre de l’étude des dossiers d’autorisation pour la nomination des personnes visées à l’article 55 de la loi n°...
+--------------------------------------------------
+Chunk 165:
+  Pages: [495, 496, 497, 498, 499]
+  Words: 1500
+  Preview: loi n° 2006-19 du 2 mai 2006; Vu la circulaire n° 91-24 du 17 décembre 1991 relative à la division, couverture des risques et suivi des engagements telle que modifiée par les textes subséquents ; Vu l...
+--------------------------------------------------
+Chunk 166:
+  Pages: [500, 501]
+  Words: 1500
+  Preview: entrées contractuelles sur des créances saines et des engagements reçus pour lesquelles la banque n’anticipe pas de défaut dans les 30 jours calendaires suivants. Tout actif intégré au niveau des acti...
+--------------------------------------------------
+Chunk 167:
+  Pages: [503, 504, 505]
+  Words: 1481
+  Preview: sur les engagements hors bilan donnés Engagements de financement et de garantie en faveur des établissements de crédit 40% Engagements de financement en faveur des particuliers 5% Engagements de finan...
+--------------------------------------------------
+Chunk 168:
+  Pages: [507, 508, 509, 510, 511]
+  Words: 1497
+  Preview: renforcement des règles de bonne gouvernance dans les établissements de crédit ; Vu la note aux banques et établissements financiers n° 93-23 du 30 juillet 1993, relative aux termes de référence pour ...
+--------------------------------------------------
+Chunk 169:
+  Pages: [512]
+  Words: 1405
+  Preview: fiabilité, la révision de ses paramètres et l'évaluation des résultats qu'il produit au regard des résultats constatés. e) Pour contrôler les notations qu'il produit et pour s'assurer que le modèle es...
+--------------------------------------------------
+Chunk 170:
+  Pages: [514]
+  Words: 1494
+  Preview: modèles utilisés dans le processus de notation, à leur mise en œuvre et à leur validation, assurer leur supervision et y apporter des modifications en cas de besoin. - d’élaborer et d’analyser réguliè...
+--------------------------------------------------
+Chunk 171:
+  Pages: [516, 517]
+  Words: 1457
+  Preview: composante correspondante des fonds propres complémentaires, les créances subordonnées visées au point 5 de a) et au point b) de l'article 4 détenues sur les établissements assujettis installés en Tun...
+--------------------------------------------------
+Chunk 172:
+  Pages: [519, 520]
+  Words: 1492
+  Preview: la clientèle et au personnel. D) Quotité de 100 % 1- Engagements du bilan - Concours aux banques et aux établissements financiers assimilés installés à l'étranger dont la durée résiduelle est supérieu...
+--------------------------------------------------
+Chunk 173:
+  Pages: [522, 523]
+  Words: 1430
+  Preview: fois par an. Article 22 L'intention de négociation est démontrée sur la base des politiques et procédures mises en place par chaque établissement assujetti pour gérer ses positions ou portefeuilles da...
+--------------------------------------------------
+Chunk 174:
+  Pages: [525, 526]
+  Words: 1482
+  Preview: que définies à l’article 25 de la présente circulaire, déclarées en valeur de marché, selon les devises dans lesquelles elles sont libellées et calculent séparément dans chaque devise l'exigence de fo...
+--------------------------------------------------
+Chunk 175:
+  Pages: [528, 529]
+  Words: 1479
+  Preview: comme suit : a) Les établissements assujettis calculent leur position nette ouverte dans chaque devise. Cette position est la somme algébrique des éléments positifs et négatifs énumérés ci-dessous : i...
+--------------------------------------------------
+Chunk 176:
+  Pages: [530, 531, 532]
+  Words: 1500
+  Preview: au sens de l’article 43 de la loi n°2016-48 relative aux banques et aux établissements financiers, ne doit pas excéder 75% des fonds propres nets de l’établissement assujetti. Cette limite est fixée à...
+--------------------------------------------------
+Chunk 177:
+  Pages: [533, 534, 535, 536]
+  Words: 1500
+  Preview: de la clientèle 1-1/ Avals ou lignes de substitution de billets de trésorerie 50% 1-2/ Obligations cautionnées 100% 1-3/ Cautions de marchés publics (c ) -Cautions de marchés publics 50% -Cautions de ...
+--------------------------------------------------
+Chunk 178:
+  Pages: [538, 539, 540, 541, 542]
+  Words: 1500
+  Preview: ≤ 10 ( > 5,7 ≤ 7,3 pour coupon de moins 3 %) ans 3,75 (1) (2) (4)= (1)-(3) (5)= (2)-(3) (3)=min[(1);(2)] 10 > 10 ≤ 15 (> 7,3 ≤ 9,3 pour coupon de moins 3 %) ans 4,5 (1) (2) (4)= (1)-(3) (5)= (2)-(3) (...
+--------------------------------------------------
+Chunk 179:
+  Pages: [544, 545, 546, 547, 548, 549]
+  Words: 1482
+  Preview: de Tunisie est modifiée par l’ajout de la déclaration RPLT560 « Ratio Crédits/ Dépôts » au sous domaine 2 «Risque de liquidité» du domaine 3 « Reporting prudentiel » conformément à l’annexe 2 à la pré...
+--------------------------------------------------
+Chunk 180:
+  Pages: [552, 553, 554]
+  Words: 1445
+  Preview: au cadre de gouvernance, au contrôle interne et au système de notation interne des contreparties susvisées, les établissements doivent mettre en place un dispositif clair et formalisé de prévention de...
+--------------------------------------------------
+Chunk 181:
+  Pages: [555, 556]
+  Words: 1402
+  Preview: de ces créances. Article 15- Les établissements doivent définir un processus formalisé et transparent de gestion des actifs qui sont devenus en leur possession dans le cadre des modalités de recouvrem...
+--------------------------------------------------
+Chunk 182:
+  Pages: [558, 559, 560, 561, 562]
+  Words: 1500
+  Preview: Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n° 58-90 du 19 septembre 1958 portant création et organisation de la Banque Centrale de Tunisie, telle que modifiée et complétée par les texte...
+--------------------------------------------------
+Chunk 183:
+  Pages: [564, 565]
+  Words: 1443
+  Preview: spéciaux en dinars convertibles Tunisiens résidents à l'étranger Autres Dépôts à vue en devise ,QWp Ur WV VXU FRPSWHV G¶p SDUJQH Comptes spéciaux d'épargne Comptes épargne logement Autres comptes d'ép...
+--------------------------------------------------
+Chunk 184:
+  Pages: [567, 568, 569]
+  Words: 1496
+  Preview: ……… ……… ……… ……….. ……… ……….. ……….. ……….. ……….. ……….. ……….. ……….. ……….. TOTAL Eléments du passif : Comptes à vue……………………………. Comptes d’épargne……………………….. Comptes à terme, bons de caisse et autres produi...
+--------------------------------------------------
+Chunk 185:
+  Pages: [571, 572]
+  Words: 1459
+  Preview: responsable Reporting » et ses coordonnées ainsi que l’identité et les coordonnées de son suppléant et doit informer la Banque Centrale de Tunisie sans délai de tout changement du « responsable Report...
+--------------------------------------------------
+Chunk 186:
+  Pages: [573, 574]
+  Words: 1500
+  Preview: après les délais maximums de déclaration fixés par la présente circulaire. - La déclaration transmise dans les délais réglementaires via un canal de déclaration autre que celui visé par cette circulai...
+--------------------------------------------------
+Chunk 187:
+  Pages: [576, 577, 578]
+  Words: 1479
+  Preview: PDF RGA240100 Charte du comité de contrôle de conformité des normes bancaires islamiques BEFI Annuelle DR+45 j PDF RGA240110 Politique de gestion des conflits d'intérêts BR+BNR+EL+EF Annuelle DR+45 j ...
+--------------------------------------------------
+Chunk 188:
+  Pages: [580, 581, 582, 583]
+  Words: 1475
+  Preview: de communication interne et externe; et • Le plan de formation de tous les intervenants dans le projet. Article 3 : Le conseil d’administration ou le conseil de surveillance doit surveiller la mise en...
+--------------------------------------------------
+Chunk 189:
+  Pages: [585, 586, 587]
+  Words: 1496
+  Preview: par la circulaire N°2023- 05 du 10 octobre 2023) RBCA100 Expositions intra-groupe BR+BNR+EL+EF Annuelle Un mois avant la date de tenue de l’AGO sans dépasser le 31 mars XML RBCA110 Périmètre de consol...
+--------------------------------------------------
+Chunk 190:
+  Pages: [590, 591, 592, 593]
+  Words: 1495
+  Preview: professionnels, les établissements de crédit et les sociétés de recouvrement des créances peuvent consulter les données consolidées relatives aux personnes recensées à la centrale d’informations, à la...
+--------------------------------------------------
+Chunk 191:
+  Pages: [594, 595, 596]
+  Words: 1401
+  Preview: 01- Effets de transaction sur la Tunisie .................................... A 02120 + A 02210 + A 08000 (a) + S 300 (b) Total .................... .................... .................... ............
+--------------------------------------------------
+Chunk 192:
+  Pages: [597, 598, 599, 600]
+  Words: 1488
+  Preview: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 96 181 | | | | | | 191 | | | | | | | | 201 | | | | | | | | 211 | | | | | | | | 221 | | |...
+--------------------------------------------------
+Chunk 193:
+  Pages: [602, 603, 604]
+  Words: 1479
+  Preview: cliquant sur la case de chaque document fourni puis l’activation de l’inscription en cliquant sur le bouton qui lui est dédié. - Signer la fiche d’inscription en indiquant son nom et prénom, sa foncti...
+--------------------------------------------------
+Chunk 194:
+  Pages: [610]
+  Words: 1486
+  Preview: Modifié par la circulaire aux banques n° 91-20 du 19.11.91. 2 Modifié par la circulaire aux banques n° 92-05 du 28.02.92. 2°) Au règlement ou au rejet des effets de commerce échus communiqués au cours...
+--------------------------------------------------
+Chunk 195:
+  Pages: [611, 612]
+  Words: 1445
+  Preview: d'une situation de contrôle récapitulative conformément à l'Annexe XII. Article 34 : Seul le total calculé par l'ordinateur de la Banque Centrale de Tunisie est pris en considération pour l'arrêté des...
+--------------------------------------------------
+Chunk 196:
+  Pages: [614, 615, 616]
+  Words: 1481
+  Preview: système d’échange de données « SED », Décide : Article 1er : la présente circulaire fixe la procédure de transmission des fichiers de la compensation manuelle par le biais du Système d’Echange des Don...
+--------------------------------------------------
+Chunk 197:
+  Pages: [617, 618, 619, 620, 621, 622]
+  Words: 1480
+  Preview: bénéficiaire et de l'émetteur ainsi que des risques et des mesures de prudence inhérentes à l'utilisation de l'instrument de transfert électronique de fonds, - le droit de choisir le plafond correspon...
+--------------------------------------------------
+Chunk 198:
+  Pages: [624, 625]
+  Words: 1490
+  Preview: les textes subséquents et notamment par la loi n°2007-37 du 4 juin 2007. CHAPITRE PREMIER DE LA PREVENTION DES INCIDENTS DE PAYEMENT DE CHEQUES SECTION 1 DE LA DELIVRANCE DES FORMULES DE CHEQUES La dé...
+--------------------------------------------------
+Chunk 199:
+  Pages: [626, 627]
+  Words: 1486
+  Preview: Centrale de Tunisie met à la disposition des banques dans leurs boites aux lettres électroniques du serveur de son système de communication, en fonction des informations reçues par la Centrale des Chè...
+--------------------------------------------------
+Chunk 200:
+  Pages: [628]
+  Words: 1419
+  Preview: les banques à compter de la date du refus de payement. L'invitation du tireur est faite sous forme de préavis de rejet de chèque à établir conformément au modèle joint en l'annexe 3 ; et - garder une ...
+--------------------------------------------------
+Chunk 201:
+  Pages: [630]
+  Words: 1428
+  Preview: autre établissement bancaire. - l'injonction au tireur de restituer à la banque tirée ainsi qu'à toute autre banque dont il est client, toutes les formules de chèques restant en sa possession ou en po...
+--------------------------------------------------
+Chunk 202:
+  Pages: [631]
+  Words: 1463
+  Preview: cours des poursuites et avant le prononcé d’un jugement rendu en dernier ressort. Il est toutefois rappelé que pour ce qui concerne les incidents de payement de chèques tirés sur des comptes en devise...
+--------------------------------------------------
+Chunk 203:
+  Pages: [633]
+  Words: 1434
+  Preview: Aussi, la banque tirée doit-elle percevoir le montant de l'amende au cours du délai légal de trois mois quand bien même la preuve du règlement du montant du chèque et de l'intérêt de retard ne lui aur...
+--------------------------------------------------
+Chunk 204:
+  Pages: [634, 635]
+  Words: 1460
+  Preview: en application des troisième et quatrième alinéas du même article : - percevoir les montants dus au titre de la régularisation et les réserver au profit du porteur du chèque; « - informer ce dernier d...
+--------------------------------------------------
+Chunk 205:
+  Pages: [636]
+  Words: 1480
+  Preview: la banque a pris l'habitude de lui consentir pour des montants dont la moyenne est au moins égale au montant du chèque ou de l'insuffisance de la provision et sans qu'elle ne rapporte la preuve de la ...
+--------------------------------------------------
+Chunk 206:
+  Pages: [638, 639, 640, 641, 642]
+  Words: 1499
+  Preview: à : - fournir la provision requise (*) - rendre la provision disponible (*) Dépassé cette date, nous nous verrons contraints de constater l'incident et de vous notifier par exploit d'huissier- notaire...
+--------------------------------------------------
+Chunk 207:
+  Pages: [645, 646, 647, 648]
+  Words: 1486
+  Preview: عليه - .ودفع مصاريف هذا اإلعالم إلى البنك المسحوب عليه وعليكم اإلدالء للمصرف المسحوب عليه بما يثبت قيامكم بالتسوية. ويترتب عن حصول التسوية استرجاعكم إمكانية استعمال .صيغ الشيكات 2 - : بعد انقضاء أجل ا...
+--------------------------------------------------
+Chunk 208:
+  Pages: [650, 651, 652, 653]
+  Words: 1427
+  Preview: de l'agent doit être déposé auprès de la Banque Centrale. . ANNEXE N°11 A LA CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2007-18 DU 05 JUILLET 2007 ATTESTATION DE REGULARISAITON CONFORMEMENT A L’ARTICLE...
+--------------------------------------------------
+Chunk 209:
+  Pages: [655, 656, 657, 658]
+  Words: 1498
+  Preview: Aéronef en service : est considéré un aéronef en service dès que le personnel de l’aérodrome et les membres de l’équipage entament son équipement pour le vol et jusqu’à l’expiration de vingt-quatre he...
+--------------------------------------------------
+Chunk 210:
+  Pages: [659, 660]
+  Words: 1476
+  Preview: de tels agents ou toxines à des fins hostiles ou dans des conflits armés. Art. 4 - Les dispositions du code pénal, du code de procédure pénale, du code de la justice militaire ainsi que les textes spé...
+--------------------------------------------------
+Chunk 211:
+  Pages: [662, 663]
+  Words: 1480
+  Preview: cas ou si les actes, prévus dans le quatrième, cinquième, sixième, septième et huitième cas, ont causé des préjudices corporels tels que ceux prévus dans le troisième cas. La peine est de vingt ans d’...
+--------------------------------------------------
+Chunk 212:
+  Pages: [664, 665]
+  Words: 1467
+  Preview: à l’encontre d’une personne se trouvant à bord d’un navire civil, 2. détruire ou causer des dommages à un navire civil ou à sa cargaison, 3. placer ou faire placer, sur un navire civil, par quelque mo...
+--------------------------------------------------
+Chunk 213:
+  Pages: [667, 668]
+  Words: 1474
+  Preview: préjudices corporels ou provoquer des dégâts aux propriétés, à l’environnement ou aux ressources vitales. La peine encourue est de vingt ans d’emprisonnement et d’une amende de cent mille dinars, s’il...
+--------------------------------------------------
+Chunk 214:
+  Pages: [669, 670]
+  Words: 1486
+  Preview: commet, intentionnellement, à l’intérieur ou à l’extérieur de la République, l’apologie, d’une manière publique et expresse, d’une infraction terroriste, de ses auteurs, d’une organisation, d’une ente...
+--------------------------------------------------
+Chunk 215:
+  Pages: [672, 673]
+  Words: 1470
+  Preview: tenus d’aviser, sans délais, le procureur de la République dont ils relèvent, des infractions terroristes dont ils ont eu connaissance. Ils ne peuvent pas procéder à la garder à vue de prévenu pour un...
+--------------------------------------------------
+Chunk 216:
+  Pages: [675, 676]
+  Words: 1482
+  Preview: Art. 50 Les dispositions des premier, deuxième et troisième alinéas de l’article 45 et les dispositions de l’article 46 de la présente loi sont applicables aux tribunaux de jugement. Art. 51 - Le trib...
+--------------------------------------------------
+Chunk 217:
+  Pages: [678, 679]
+  Words: 1489
+  Preview: et remplacé par la loi organique n° 2019-9 du 23 janvier 2019) Dans les cas où la nécessité de l'enquête l’exige, le procureur de la République ou le juge d'instruction du pôle judiciaire de lutte con...
+--------------------------------------------------
+Chunk 218:
+  Pages: [681, 682]
+  Words: 1482
+  Preview: notamment des missions suivantes : -suivre et évaluer l’exécution des résolutions des instances spécialisées des Nations Unies se rapportant à la lutte contre le terrorisme et à la prévention du finan...
+--------------------------------------------------
+Chunk 219:
+  Pages: [684, 685]
+  Words: 1434
+  Preview: consignés dans un dossier tenu séparément du dossier initial. L’identité des personnes citées à l’alinéa précédent, les données permettant leur identification ainsi que leurs signatures sont consignée...
+--------------------------------------------------
+Chunk 220:
+  Pages: [687, 688]
+  Words: 1440
+  Preview: fait l’objet d’une poursuite ou d’un procès à l’étranger pour l’une des infractions prévues par la présente loi, elle est obligatoirement poursuivie devant le tribunal de première instance de Tunis. S...
+--------------------------------------------------
+Chunk 221:
+  Pages: [690, 691, 692]
+  Words: 1449
+  Preview: janvier 2019) les personnes morales constituées sous forme d’associations ou organisations à but non lucratif sont tenues de: - tenir des comptes sur un livre-journal faisant état de toutes les recett...
+--------------------------------------------------
+Chunk 222:
+  Pages: [693, 694]
+  Words: 1423
+  Preview: fondée sur une résolution des organismes internationaux compétents, la Commission nationale de lutte contre le terrorisme ne peut décider la levée du gel qu’après avoir informé et obtenu l’accord de l...
+--------------------------------------------------
+Chunk 223:
+  Pages: [696, 697]
+  Words: 1495
+  Preview: des diligences nécessaires envers les clients et la gestion des risques de blanchiment d’argent et de financement du terrorisme. Ces politiques et procédures comprennent, le cas échéant, la fourniture...
+--------------------------------------------------
+Chunk 224:
+  Pages: [698, 699, 700]
+  Words: 1468
+  Preview: magistrat de troisième grade, 3- d’un expert représentant le ministère de l’intérieur, 4- d’un expert du ministère des finances, représentant la direction générale des douanes, 5- d’un expert représen...
+--------------------------------------------------
+Chunk 225:
+  Pages: [702, 703]
+  Words: 1484
+  Preview: ou la transaction, objet de la déclaration, la commission tunisienne des analyses financières transmet, sans délai, le résultat de ses travaux et tout document y relatif en sa possession au procureur ...
+--------------------------------------------------
+Chunk 226:
+  Pages: [704, 705, 706]
+  Words: 1500
+  Preview: Art. 140 bis (Ajouté par la loi organique n°2019-9 du 23/1/2019) Le tribunal compétent décide de la dissolution des personnes morales prévues par l’article 99 de la présente loi, si l’implication de s...
+--------------------------------------------------
+Chunk 227:
+  Pages: [708, 709, 710]
+  Words: 1441
+  Preview: sont dévolues par la loi organique n°2015-26 susvisée, la commission est chargée notamment de : - contrôler l'activité opérationnelle d'analyse financière relative aux déclarations d'opérations suspec...
+--------------------------------------------------
+Chunk 228:
+  Pages: [711, 712]
+  Words: 1421
+  Preview: finances, le ministre des technologies de la communication et de l'économie numérique et le gouverneur de la Banque Centrale de Tunisie sont chargés, chacun en ce qui le concerne, de l'exécution du pr...
+--------------------------------------------------
+Chunk 229:
+  Pages: [714, 715]
+  Words: 1464
+  Preview: s’adresse aux établissements dans le but de préparer ou de réaliser une transaction ou une opération ponctuelle. Est considérée comme une transaction ou une opération ponctuelle, celle qui ne donne pa...
+--------------------------------------------------
+Chunk 230:
+  Pages: [717]
+  Words: 1467
+  Preview: La date de sa constitution, sa raison sociale ou sa dénomination, sa forme juridique et son objet social, - Le numéro d’immatriculation au registre du commerce et l’identifiant fiscal, - Adresse du si...
+--------------------------------------------------
+Chunk 231:
+  Pages: [718, 719]
+  Words: 1490
+  Preview: un pays qui applique de manière suffisante les normes internationales en matière de répression du blanchiment d’argent et de lutte contre le financement du terrorisme conformément aux décisions du gro...
+--------------------------------------------------
+Chunk 232:
+  Pages: [720, 721]
+  Words: 1436
+  Preview: doivent veiller à l’application par leurs succursales et leurs filiales établies à l’étranger des mesures de vigilance requises en matière de répression du blanchiment d’argent et de lutte contre le f...
+--------------------------------------------------
+Chunk 233:
+  Pages: [722, 723]
+  Words: 1499
+  Preview: la déclaration des opérations et transactions suspectes ; 724 Vu la décision de la Commission Tunisienne des Analyses Financières n°2017-02 du 2 mars 2017 portant principes directeurs aux professions ...
+--------------------------------------------------
+Chunk 234:
+  Pages: [725, 726, 727]
+  Words: 1461
+  Preview: du patrimoine du titulaire du compte ; 728 - d’obtenir, lorsque le client est une personne morale, toute indication sur son courant d’affaires, par la communication, entre autres, des états financiers...
+--------------------------------------------------
+Chunk 235:
+  Pages: [729, 730, 731]
+  Words: 1493
+  Preview: avec ces derniers des informations disponibles sur le niveau de risque lié à ces pays. Le recours à un tiers n’exonère pas l’établissement assujetti de ses responsabilités en matière d’identification ...
+--------------------------------------------------
+Chunk 236:
+  Pages: [733, 734, 735]
+  Words: 1500
+  Preview: une lettre de référence délivrée par sa banque dans son pays de résidence. Article 16 (nouveau) (modifié par circulaire n°2018-09 du 18 octobre 2018): Les établissements assujettis doivent, en sus des...
+--------------------------------------------------
+Chunk 237:
+  Pages: [737, 738, 739]
+  Words: 1457
+  Preview: a) le nom ou la dénomination sociale du bénéficiaire; et b) le numéro de compte du bénéficiaire ou en l’absence de compte, un numéro de référence unique d’opération permettant la traçabilité de l’opér...
+--------------------------------------------------
+Chunk 238:
+  Pages: [741, 742, 743]
+  Words: 1463
+  Preview: 743 L’établissement du bénéficiaire déclare à la Banque Centrale de Tunisie cette omission et les mesures prises à cet égard. Article 38: L’établissement du bénéficiaire doit décider, en fonction des ...
+--------------------------------------------------
+Chunk 239:
+  Pages: [744, 745, 746, 747]
+  Words: 1500
+  Preview: Ils doivent, en outre, conserver les documents et les informations relatifs aux opérations et transactions effectuées par leurs soins sur support électronique et/ou sur support papier pendant au moins...
+--------------------------------------------------
+Chunk 240:
+  Pages: [749, 750, 751, 752]
+  Words: 1497
+  Preview: échéant les rapports des commissaires aux comptes - Identité du ou des bénéficiaires effectifs. IV- Pour les partis politiques - L’adresse du siège principal - Liste des membres des bureaux exécutifs ...
+--------------------------------------------------
+Chunk 241:
+  Pages: [755, 756, 757]
+  Words: 1468
+  Preview: ; - Remise fréquente ou périodique de chèques en sommes rondes. 758 2-2- Virement et transfert de fonds : - Transfert de fonds inhabituel ou sans justification économique apparente en provenance ou à ...
+--------------------------------------------------
+Chunk 242:
+  Pages: [759, 760, 761, 762, 763]
+  Words: 1448
+  Preview: dans un compte spécial séparé et ouvert en son nom auprès d'une banque ou de l’office national des postes, dans lequel les fonds sont déposés, en vertu d’un contrat entre la société prestataire en « C...
+--------------------------------------------------
+Chunk 243:
+  Pages: [764]
+  Words: 1487
+  Preview: contribuer. - informer les contributeurs des risques liés à la nature des opérations qu'ils souhaitent réaliser, notamment les risques liés à la perte du capital investi ou des fonds mis à disposition...
+--------------------------------------------------
+Chunk 244:
+  Pages: [766]
+  Words: 1486
+  Preview: de Tunisie, conformément aux conditions fixées par décret gouvernemental. La Banque centrale de Tunisie procède à la publication de la décision d’octroi de l’agrément sur son site électronique. Art. 3...
+--------------------------------------------------
+Chunk 245:
+  Pages: [768]
+  Words: 1482
+  Preview: la base desquels l’agrément a été octroyé à la société prestataire en « Crowdfunding », est soumise à l’autorisation préalable des autorités de régulation compétentes, conformément aux conditions fixé...
+--------------------------------------------------
+Chunk 246:
+  Pages: [770]
+  Words: 1500
+  Preview: date de prise de la décision de suspension temporaire, ainsi que tout au long de l’accomplissement des actes de la liquidation en ce qui concerne la décision de la suspension définitive et de retrait ...
+--------------------------------------------------
+Chunk 247:
+  Pages: [771, 772]
+  Words: 1500
+  Preview: du 29 octobre 2018, relative au registre national des entreprises, Vu la loi n° 2019-47 du 29 mai 2019, relative à l'amélioration du climat de l’investissement, Vu la loi n° 2020-37 du 6 août 2020, re...
+--------------------------------------------------
+Chunk 248:
+  Pages: [774]
+  Words: 1437
+  Preview: compter de la date de la soumission de tous les documents et renseignements demandés. Art. 8 - Les intermédiaires en bourse et les sociétés de gestion de portefeuilles pour le compte de tiers et les s...
+--------------------------------------------------
+Chunk 249:
+  Pages: [776]
+  Words: 1463
+  Preview: dans un délai de trois (3) mois à compter de la date de leur réclamation par la Banque Centrale de Tunisie. La Banque Centrale de Tunisie notifie au demandeur la décision d’octroi ou de refus de l’agr...
+--------------------------------------------------
+Chunk 250:
+  Pages: [778, 779]
+  Words: 1500
+  Preview: techniques et leur adéquation avec le programme d'activité, notamment en ce qui concerne les systèmes d’information et les dispositifs de sécurité, -Les qualifications scientifiques, la compétence et ...
+--------------------------------------------------
+Chunk 251:
+  Pages: [780, 781]
+  Words: 1472
+  Preview: de la Banque Centrale de Tunisie, Vu la loi organique n° 2004-63 du 27 juillet 2004, portant sur la protection des données à caractère personnel, Vu la loi n°2016-35 du 25 avril 2016, portant fixation...
+--------------------------------------------------
+Chunk 252:
+  Pages: [782, 783, 784]
+  Words: 1488
+  Preview: rentabilité sur une période de 5 ans. 7- Dispositif de gestion du risque de blanchiment d’argent et de financement du terrorisme : Une note descriptive sur le dispositif de gestion du risque de blanch...
+--------------------------------------------------
+Chunk 253:
+  Pages: [786, 787, 788, 789]
+  Words: 1495
+  Preview: du mali de l’opération. - Le projet de convention de fusion ou de scission. - Une note sur la gestion des implications de l’opération sur les relations contractuelles avec les contributeurs et les por...
+--------------------------------------------------
+Chunk 254:
+  Pages: [791, 792, 793, 794, 795, 796, 797]
+  Words: 1422
+  Preview: en écriture, fraude, vol, abus de confiance, escroquerie ou extorsion de fonds commise par un fonctionnaire public ou assimilé, un dépositaire public ou un comptable public, ou qui leur était due de d...
+--------------------------------------------------
+Chunk 255:
+  Pages: [800, 801, 802, 803]
+  Words: 1457
+  Preview: des données à caractère personnel. Est réputée non avenue toute demande d’agrément n’ayant pas satisfait les renseignements et documents requis dans un délai de trois (3) mois à compter de la date de ...
+--------------------------------------------------
+Chunk 256:
+  Pages: [804, 805]
+  Words: 1480
+  Preview: ; - tout changement fondamental affectant le système d’informations ; - toute opération de fusion ou prise de participation dans une autre société entrainant le contrôle de celle-ci ; - la dissolution...
+--------------------------------------------------
+Chunk 257:
+  Pages: [806, 807, 808]
+  Words: 1484
+  Preview: fournis. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi organique n° 2004-63 du 27 juillet 2004, portant sur la protection des données à caractère personnel, Vu la loi n° 2016-35 du 25 avri...
+--------------------------------------------------
+Chunk 258:
+  Pages: [810]
+  Words: 1500
+  Preview: de renseignement de crédit, -Un dossier relatif aux membres du conseil d'administration, ou du conseil de surveillance, de la direction générale (directeur et le directeur général adjoint), ou des mem...
+--------------------------------------------------
+Chunk 259:
+  Pages: [812, 813, 814, 815, 816, 817, 818, 819]
+  Words: 1500
+  Preview: En vue de l’exercice de ses missions, la banque centrale peut effectuer des contrôles sur pièces et sur place. Elle peut en outre demander au gestionnaire des systèmes de règlement et de livraison d’i...
+--------------------------------------------------
+Chunk 260:
+  Pages: [821, 822]
+  Words: 1481
+  Preview: 95 qui concernent respectivement : - L’autorisation d’établir un bureau de service d’intermédiation dans le domaine de l’enseignement supérieur, - L’accord préalable pour les projets d'hébergement et ...
+--------------------------------------------------
+Chunk 261:
+  Pages: [823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842]
+  Words: 1427
+  Preview: Article 2 : Au sens de la présente circulaire, on entend par : 843 - Système de paiement : Désigne l’ensemble d’instruments, de procédures, de règles, de plateformes techniques et de réseaux permettan...
+--------------------------------------------------
+Chunk 262:
+  Pages: [844, 845]
+  Words: 1435
+  Preview: du marché et des opérateurs économiques ; - L’adéquation des moyens financiers et humains mis à disposition du gestionnaire du système de paiement, y compris le capital et les ressources financières à...
+--------------------------------------------------
+Chunk 263:
+  Pages: [846]
+  Words: 1500
+  Preview: dans les délais et selon les conditions prévues à l’article 9 de la présente circulaire. 847 Article 13 : Le gestionnaire du système de paiement doit soumettre à la Banque Centrale de Tunisie avant sa...
+--------------------------------------------------
+Chunk 264:
+  Pages: [848, 849]
+  Words: 1485
+  Preview: de gestion dont une copie est transmise à la Banque Centrale de Tunisie. Article 26 : Le conseil doit créer un comité d’audit et des risques qui l’assiste dans la mise en place d’un dispositif efficac...
+--------------------------------------------------
+Chunk 265:
+  Pages: [850, 851]
+  Words: 1483
+  Preview: des mesures correctrices adéquates. Chapitre 4 : Politique de communication et de divulgation Article 37 : Le gestionnaire du système doit adopter une politique de communication transparente permettan...
+--------------------------------------------------
+Chunk 266:
+  Pages: [852, 853]
+  Words: 1465
+  Preview: plus tard, le lendemain, y compris celles découlant du défaut d’un ou de plusieurs participants ; - Définir les règles et les processus à adopter pour reconstituer les liquidités en cas de crise. Arti...
+--------------------------------------------------
+Chunk 267:
+  Pages: [855, 856]
+  Words: 1454
+  Preview: services critiques et la durée maximale d’interruption admissible (DMIA) du système ; - Assigne les responsabilités pour la planification de la continuité de l’activité et affecte les ressources adéqu...
+--------------------------------------------------
+Chunk 268:
+  Pages: [857, 858]
+  Words: 1485
+  Preview: participations qu’elles possèdent ainsi que l'expérience du requérant d'agrément dans le domaine d'activité objet de la demande d'agrément. - Un formulaire « Identité de l'actionnaire » à remplir et à...
+--------------------------------------------------
+Chunk 269:
+  Pages: [859, 860]
+  Words: 576
+  Preview: ✓ Les activités de base avec les objectifs de reprise de l'activité, y compris le calendrier prévu pour la reprise et les principales étapes, en particulier les actifs prioritaires à protéger, les dél...
+--------------------------------------------------

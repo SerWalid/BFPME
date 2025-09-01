@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}BFPME{% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- TailwindCSS CDN (for dev/demo purposes) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    {% block extra_head %}{% endblock %}
+</head>
+<body class="bg-white min-h-screen">
+    <!-- Navbar -->
+    <nav class="bg-[#132247] h-16 flex items-center px-8">
+        <!-- Logo and slogan -->
+        <div class="flex items-center space-x-4">
+            <!-- Logo -->
+        <img src="{{ url_for('static', filename='bfpme.png') }}" alt="BFPME Logo" class="h-12 w-auto" />
+            <!-- Slogan -->
+            <span class="text-white italic text-xl font-handwritten">Osez Entreprendre !</span>
+        </div>
+        <!-- Navigation links -->
+        <ul class="flex-1 flex justify-center items-center space-x-10 ml-12">
+            <li>
+                <a href="/" class="text-[#FFC72C] font-bold text-lg tracking-wide">ACCUEIL</a>
+            </li>
+            
+            <li>
+                <a href="/chatbot" class="text-white font-bold text-lg tracking-wide hover:text-[#FFC72C]">CHATBOT</a>
+            </li>
+            
+        </ul>
+        <!-- Social icon (Instagram) -->
+        <div class="ml-4">
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+            </a>
+        </div>
+    </nav>
+    <!-- Page content -->
+    <main class="pt-4">
+        {% block content %}
+        {% endblock %}
+    </main>
+    {% block extra_body %}{% endblock %}
+</body>
+</html>

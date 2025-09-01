@@ -1,0 +1,3140 @@
+SEMANTIC CHUNKING ANALYSIS
+============================================================
+
+SUMMARY STATISTICS:
+------------------------------
+Total chunks: 343
+Average words per chunk: 1151.2
+
+STRUCTURE DISTRIBUTION:
+------------------------------
+ANNEXE: 81 chunks
+ANNEXE_SPLIT: 11 chunks
+ARTICLE: 102 chunks
+ARTICLE_SPLIT: 10 chunks
+CHAPITRE: 12 chunks
+CHAPITRE_SPLIT: 2 chunks
+CIRCULAIRE: 58 chunks
+CIRCULAIRE_SPLIT: 7 chunks
+DECRET: 9 chunks
+LOI: 7 chunks
+LOI_SPLIT: 1 chunks
+OBJET: 10 chunks
+PARTIE: 12 chunks
+SECTION: 4 chunks
+SECTION_SPLIT: 3 chunks
+START: 1 chunks
+TITRE: 11 chunks
+TITRE_SPLIT: 2 chunks
+
+SECTION INTEGRITY:
+------------------------------
+Complete sections: 323
+Split sections: 20
+
+DETAILED CHUNK INFORMATION:
+============================================================
+
+CHUNK 0:
+Structure: START
+Title: Document Start
+Pages: [1]
+Words: 497
+Complete Section: Yes
+Preview: BANQUE CENTRALE DE TUNISIE REGLEMENTATION BANCAIRE RECUEIL DE TEXTES MISE A JOUR : OCTOBRE 2024
+SOMMAIRE PREMIERE PARTIE – DISPOSITIONS RELATIVES A LA BANQUE CENTRALE DE TUNISIE Loi n°2016-35 du 25 av...
+--------------------------------------------------------------------------------
+
+CHUNK 1:
+Structure: CIRCULAIRE
+Title: Circulaire aux 
+Pages: [3, 476]
+Words: 451
+Complete Section: Yes
+Preview: Circulaire aux banques et aux établissements financiers n°2019-08 du 14 Octobre 2019 portant d éfinition des op érations bancaires islamiques et fixation des modalit és et conditions de leur exercice....
+--------------------------------------------------------------------------------
+
+CHUNK 2:
+Structure: CIRCULAIRE
+Title: Circulaire aux 
+Pages: [4]
+Words: 536
+Complete Section: Yes
+Preview: Circulaire aux établissements de cr édit n°2005-10 du 14 juillet 2005, relative à la tenue et à l’administration des comptes de certificats de d ép ôt et des comptes de billets de tr ésorerie. Circula...
+--------------------------------------------------------------------------------
+
+CHUNK 3:
+Structure: DECRET
+Title: Décret n°2006
+Pages: [5]
+Words: 526
+Complete Section: Yes
+Preview: Décret n°2006-1208 du 24 avril 2006 fixant les conditions et les modalit és d'émission et de remboursement des bons du tr ésor Loi n°2012-24 du 24 d écembre 2012 relative à la convention de pension li...
+--------------------------------------------------------------------------------
+
+CHUNK 4:
+Structure: CIRCULAIRE
+Title: Circulaire aux 
+Pages: [6, 435]
+Words: 338
+Complete Section: Yes
+Preview: Circulaire aux banques n°2018-10 du 1er novembre 2018 relative au ratio « cr édits / d ép ôts » Circulaire aux banques et aux établissements financiers n°2022-01 du 01 mars 2022 relative à la pr évent...
+--------------------------------------------------------------------------------
+
+CHUNK 5:
+Structure: CIRCULAIRE
+Title: Circulaire aux 
+Pages: [7]
+Words: 655
+Complete Section: Yes
+Preview: Circulaire aux banques n°95-15 du 5 d écembre 1995, relative à la compensation des valeurs d éplac ées libell ées en dinar tunisien et en dinar tunisien convertible Circulaire n°2008-23 du 18 d écembr...
+--------------------------------------------------------------------------------
+
+CHUNK 6:
+Structure: PARTIE
+Title: PREMIERE PARTIE
+Pages: [9]
+Words: 100
+Complete Section: Yes
+Preview: PREMIERE PARTIE DISPOSITIONS RELATIVES A LA BANQUE CENTRALE DE TUNISIE
+- LOI N°2016-35 DU 25 AVRIL 2016 PORTANT FIXATION DU STATUT DE LA BANQUE CENTRALE DE TUNISIE - LOI N°58-109 DU 18 OCTOBRE 1958, P...
+--------------------------------------------------------------------------------
+
+CHUNK 7:
+Structure: LOI
+Title: LOI N° 2016
+Pages: [11, 187, 775, 808, 819, 842]
+Words: 633
+Complete Section: Yes
+Preview: LOI N° 2016-35 DU 25 AVRIL 2016, PORTANT FIXATION DU STATUT DE LA BANQUE CENTRALE DE TUNISIE1. Au nom du peuple, L’assembl ée des repr ésentants du peuple ayant adopt é, Le Pr ésident de la République...
+--------------------------------------------------------------------------------
+
+CHUNK 8:
+Structure: TITRE
+Title: TITRE II
+Pages: [12]
+Words: 822
+Complete Section: Yes
+Preview: TITRE II OBJECTIFS ET MISSIONS DE LA BANQUE CENTRALE Article 7 : L’objectif principal de la banque centrale consiste à maintenir la stabilit é des prix. La banque centrale contribue au maintien de la ...
+--------------------------------------------------------------------------------
+
+CHUNK 9:
+Structure: ARTICLE_SPLIT
+Title: Article 12 :
+Pages: [13]
+Words: 2547
+Complete Section: Yes
+Preview: Article 12 : Toute op ération de refinancement de cr éance par la banque centrale entra îne de plein droit subrogation de celle-ci dans les droits et obligations qu'a le b én éficiaire du refinancemen...
+--------------------------------------------------------------------------------
+
+CHUNK 10:
+Structure: CHAPITRE_SPLIT
+Title: CHAPITRE VIII
+Pages: [16]
+Words: 2591
+Complete Section: Yes
+Preview: CHAPITRE VIII OPERATIONS DIVERSES Article 33 : La banque centrale peut, en son nom et pour son propre compte, pr êter et emprunter en devises dans la limite de ses besoins n écessaires. Article 34 : 1...
+--------------------------------------------------------------------------------
+
+CHUNK 11:
+Structure: ARTICLE_SPLIT
+Title: Article 54 :
+Pages: [19]
+Words: 2448
+Complete Section: Yes
+Preview: Article 54 : Il est interdit au gouverneur, au vice- gouverneur et au secr étaire g én éral de cumuler leurs fonctions avec celles de membre à l’assembl ée des repr ésentants du peuple ou du gouvernem...
+--------------------------------------------------------------------------------
+
+CHUNK 12:
+Structure: TITRE
+Title: TITRE IV
+Pages: [22]
+Words: 1786
+Complete Section: Yes
+Preview: TITRE IV DISPOSITIONS DIVERSES CHAPITRE PREMIER EXEMPTIONS ET PRIVILEGES Article 72 : La banque centrale est soumise au r égime fiscal de l’Etat, des collectivit és locales et des établissements publi...
+--------------------------------------------------------------------------------
+
+CHUNK 13:
+Structure: ARTICLE
+Title: Article 86 :
+Pages: [24]
+Words: 1052
+Complete Section: Yes
+Preview: Article 86 : Le comit é de surveillance macroprudentielle est compos é : - du gouverneur de la banque centrale, - d’un repr ésentant du minist ère charg é des finances, - du pr ésident du conseil du m...
+--------------------------------------------------------------------------------
+
+CHUNK 14:
+Structure: LOI
+Title: LOI N°58
+Pages: [26]
+Words: 1351
+Complete Section: Yes
+Preview: LOI N°58-109 DU 18 OCTOBRE 1958 PORTANT RÉFORME MONÉTAIRE Article 1er : 1°) L'unit é mon étaire de la Tunisie est le Dinar, repr ésent é par le signe D. 2°) Le Dinar est divis é en mille francs tunisi...
+--------------------------------------------------------------------------------
+
+CHUNK 15:
+Structure: ARTICLE
+Title: Article 4 :
+Pages: [28]
+Words: 789
+Complete Section: Yes
+Preview: Article 4 : L'observatoire est dirig é par un conseil de l'observatoire qui se charge notamment : - du suivi de l'activit é de l'observatoire en relation avec les missions qui lui incombent conform ém...
+--------------------------------------------------------------------------------
+
+CHUNK 16:
+Structure: ARTICLE
+Title: Article 9 :
+Pages: [29]
+Words: 714
+Complete Section: Yes
+Preview: Article 9 : Le conseil scientifique a un r ôle consultatif et se charge notamment : - de r épondre à chaque demande d'avis scientifique formul ée par le directeur g én éral de l'observatoire ou par le...
+--------------------------------------------------------------------------------
+
+CHUNK 17:
+Structure: TITRE
+Title: TITRE 2
+Pages: [30]
+Words: 212
+Complete Section: Yes
+Preview: TITRE 2 LA LISTE DES INSTITUTIONS ET ADMINISTRATIONS CONCERNÉES PAR L'INTERVENTION DE L'OBSERVATOIRE Article 18 : Sont consid ér ées des institutions et administrations concern ées par l'intervention ...
+--------------------------------------------------------------------------------
+
+CHUNK 18:
+Structure: DECRET
+Title: DECRET N°2009
+Pages: [10, 31]
+Words: 797
+Complete Section: Yes
+Preview: DECRET N°2009-88 DU 13 JANVIER 2009, PORTANT CREATION D’UN CENTRE DE RECHERCHES ET D’ETUDES FINANCIERES ET MONETAIRES ET FIXANT SON ORGANISATION ET LES MODALITES DE SON FONCTIONNEMENT. Article 1er : I...
+--------------------------------------------------------------------------------
+
+CHUNK 19:
+Structure: PARTIE
+Title: DEUXIEME PARTIE
+Pages: [1]
+Words: 445
+Complete Section: Yes
+Preview: DEUXIEME PARTIE PROFESSION BANCAIRE
+- LOI N°2016-48 DU 11 JUILLET 2016 RELATIVE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS - DECISION DE LA COMMISSION D’AGREMENTS N°2017-1 DU 12 AVRIL 2017, FIXANT R...
+--------------------------------------------------------------------------------
+
+CHUNK 20:
+Structure: LOI
+Title: LOI N°2016
+Pages: [27, 35, 79, 82, 120, 187, 203, 276, 279, 476, 511, 552, 582, 584, 842]
+Words: 1302
+Complete Section: Yes
+Preview: LOI N°2016-48 DU 11 JUILLET 2016, RELATIVE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS. TITRE PREMIER DISPOSITIONS GENERALES Article 1er : La pr ésente loi a pour objectif d’organiser les conditions ...
+--------------------------------------------------------------------------------
+
+CHUNK 21:
+Structure: ARTICLE
+Title: Article 11 :
+Pages: [37]
+Words: 761
+Complete Section: Yes
+Preview: Article 11 : Sont consid ér ées op érations bancaires islamiques, au sens de la pr ésente loi, les op érations bancaires qui ne donnent pas lieu à la perception et au versement d’int ér êts suivant di...
+--------------------------------------------------------------------------------
+
+CHUNK 22:
+Structure: CHAPITRE_SPLIT
+Title: CHAPITRE II
+Pages: [38]
+Words: 2175
+Complete Section: Yes
+Preview: CHAPITRE II DES BANQUES ET DES ETABLISSEMENTS FINANCIERS Article 17 : Est consid ér ée banque, toute personne morale qui exerce, à titre habituel, la collecte des d ép ôts au sens de l’article 5 de la...
+--------------------------------------------------------------------------------
+
+CHUNK 23:
+Structure: ARTICLE
+Title: Article 29 :
+Pages: [41]
+Words: 810
+Complete Section: Yes
+Preview: Article 29 : Dans la mesure o ù l'étude du dossier d’agr ément l’exige, la Banque Centrale de Tunisie proc ède à la collecte des renseignements n écessaires aupr ès des autorit és judiciaires et de la...
+--------------------------------------------------------------------------------
+
+CHUNK 24:
+Structure: ARTICLE
+Title: Article 33 :
+Pages: [42]
+Words: 700
+Complete Section: Yes
+Preview: Article 33 : La Banque Centrale de Tunisie proc ède à la publication de la d écision d’octroi de l’agr ément d éfinitif au Journal Officiel de la République Tunisienne et sur son site web. La Banque C...
+--------------------------------------------------------------------------------
+
+CHUNK 25:
+Structure: ARTICLE
+Title: Article 37 :
+Pages: [43]
+Words: 679
+Complete Section: Yes
+Preview: Article 37 : la banque ou l’établissement financier doit informer la Banque Centrale de Tunisie : - De toute op ération d’acquisition ou de cession des parts de capital ou des droits de vote soumis à ...
+--------------------------------------------------------------------------------
+
+CHUNK 26:
+Structure: ARTICLE
+Title: Article 42 :
+Pages: [44]
+Words: 1338
+Complete Section: Yes
+Preview: Article 42 : Sans pr éjudice des dispositions de la loi organique n° 2015-26 du 7 ao ût 2015, relative à la lutte contre le terrorisme et à la r épression du blanchiment d’argent, les banques et les é...
+--------------------------------------------------------------------------------
+
+CHUNK 27:
+Structure: ARTICLE_SPLIT
+Title: Article 50 :
+Pages: [46]
+Words: 2775
+Complete Section: Yes
+Preview: Article 50 : La banque ou l’établissement financier doit cr éer un comit é des risques émanant du conseil d’administration ou du conseil de surveillance qui l’assiste notamment dans la mise en place d...
+--------------------------------------------------------------------------------
+
+CHUNK 28:
+Structure: ARTICLE
+Title: Article 65 :
+Pages: [50]
+Words: 655
+Complete Section: Yes
+Preview: Article 65 : Les banques et les établissements financiers doivent fournir aux agents de la Banque Centrale de Tunisie charg és de la supervision tous documents et renseignements qu’ils demandent dans ...
+--------------------------------------------------------------------------------
+
+CHUNK 29:
+Structure: ARTICLE
+Title: Article 69 :
+Pages: [51]
+Words: 682
+Complete Section: Yes
+Preview: Article 69 : Lorsque la nature et le poids des risques le justifient, la Banque Centrale de Tunisie peut soumettre une banque ou un établissement financier à des normes de gestion prudentielles plus c...
+--------------------------------------------------------------------------------
+
+CHUNK 30:
+Structure: CHAPITRE
+Title: CHAPITRE II
+Pages: [52]
+Words: 676
+Complete Section: Yes
+Preview: CHAPITRE II DES NORMES PRUDENTIELLES Article 74 : Toute banque ou établissement financier ayant son si ège social en Tunisie et toute banque ou établissement financier ayant son si ège social à l'étra...
+--------------------------------------------------------------------------------
+
+CHUNK 31:
+Structure: ARTICLE
+Title: Article 79 :
+Pages: [53]
+Words: 631
+Complete Section: Yes
+Preview: Article 79 : La banque ou l’établissement financier non-r ésidents peuvent : - participer sur leurs fonds propres en devises, au capital d'entreprises r ésidentes conform ément à l’article 75 de la pr...
+--------------------------------------------------------------------------------
+
+CHUNK 32:
+Structure: ARTICLE
+Title: Article 83 :
+Pages: [54]
+Words: 675
+Complete Section: Yes
+Preview: Article 83 : Les banques doivent offrir des services bancaires de base dont la liste et les conditions sont fix ées par d écret gouvernemental. Les banques doivent soumettre la gestion des comptes de ...
+--------------------------------------------------------------------------------
+
+CHUNK 33:
+Structure: ARTICLE
+Title: Article 87 :
+Pages: [55]
+Words: 676
+Complete Section: Yes
+Preview: Article 87 : Lorsque la Banque Centrale de Tunisie constate qu’un groupe constitue un conglom érat financier au sens de l’article 86 de la pr ésente loi, elle avise la soci ét é m ère du groupe, la ba...
+--------------------------------------------------------------------------------
+
+CHUNK 34:
+Structure: ARTICLE
+Title: Article 93 :
+Pages: [56]
+Words: 682
+Complete Section: Yes
+Preview: Article 93 : A l’issu des deux mandats mentionn és à l’article 92 de la pr ésente loi, le commissaire aux comptes d’une banque ou d’un établissement financier ne peut être renomm é qu’apr ès l’expirat...
+--------------------------------------------------------------------------------
+
+CHUNK 35:
+Structure: TITRE
+Title: TITRE VII
+Pages: [57]
+Words: 1373
+Complete Section: Yes
+Preview: TITRE VII DU TRAITEMENT DE LA SITUATION DES BANQUES ET DES ETABLISSEMENTS FINANCIERS EN DIFFICULTES Article 99 : Les dispositions du droit commun relatives au traitement des difficult és et le redress...
+--------------------------------------------------------------------------------
+
+CHUNK 36:
+Structure: ARTICLE
+Title: Article 106 :
+Pages: [59]
+Words: 706
+Complete Section: Yes
+Preview: Article 106 : La d écision de d ésignation de l’administrateur provisoire fixe la nature de la mission et sa dur ée ainsi que les obligations auxquelles il est tenu envers la Banque Centrale de Tunisi...
+--------------------------------------------------------------------------------
+
+CHUNK 37:
+Structure: ARTICLE_SPLIT
+Title: Article 110 :
+Pages: [60]
+Words: 8144
+Complete Section: Yes
+Preview: Article 110 : Est consid ér é dans une situation compromise, toute banque ou établissement financier ayant difficult és pouvant mettre en p éril sa p érennit é et exposer les droits des d éposants et ...
+--------------------------------------------------------------------------------
+
+CHUNK 38:
+Structure: ARTICLE
+Title: Article 152 :
+Pages: [71]
+Words: 699
+Complete Section: Yes
+Preview: Article 152 : Le fonds de garantie des d ép ôts bancaires indemnise les d éposants dans la limite d’un plafond d étermin é. Sont fix és par d écret gouvernemental le plafond, les modalit és et les pro...
+--------------------------------------------------------------------------------
+
+CHUNK 39:
+Structure: ARTICLE
+Title: Article 156 :
+Pages: [72]
+Words: 624
+Complete Section: Yes
+Preview: Article 156 : Le comit é de surveillance du fonds de garantie des d ép ôts bancaires est compos é des cinq membres suivants : - deux membres ind épendants des actionnaires et des adh érents, nomm és p...
+--------------------------------------------------------------------------------
+
+CHUNK 40:
+Structure: ARTICLE
+Title: Article 160 :
+Pages: [73]
+Words: 685
+Complete Section: Yes
+Preview: Article 160 : Les comptes du fonds de garantie des d ép ôts bancaires font l'objet d'une r évision annuelle effectu ée par deux commissaires aux comptes inscrits sur la liste de l'ordre des experts co...
+--------------------------------------------------------------------------------
+
+CHUNK 41:
+Structure: TITRE_SPLIT
+Title: TITRE IX
+Pages: [74]
+Words: 2131
+Complete Section: Yes
+Preview: TITRE IX DES SANCTIONS CHAPITRE PREMIER DES SANCTIONS DISCIPLINAIRES Article 169 : Le gouverneur de la Banque Centrale de Tunisie est habilit é à infliger les sanctions pr évues à l’article 170 de la ...
+--------------------------------------------------------------------------------
+
+CHUNK 42:
+Structure: TITRE_SPLIT
+Title: TITRE X
+Pages: [77]
+Words: 2677
+Complete Section: Yes
+Preview: TITRE X DISPOSITIONS DIVERSES Article 186 : Les banques et les établissements financiers sont tenus de constituer une association professionnelle, ayant pour objectif d’œuvrer à l’étude des questions ...
+--------------------------------------------------------------------------------
+
+CHUNK 43:
+Structure: ANNEXE
+Title: Annexe 
+Pages: [81]
+Words: 736
+Complete Section: Yes
+Preview: Annexe au r èglement int érieur de la commission d’agr éments Mod èle d’attestation sur l’honneur Je soussign é (Nom et pr énom) ……………………………………………………………………… En ma qualit é de membre de la commission d...
+--------------------------------------------------------------------------------
+
+CHUNK 44:
+Structure: ARTICLE
+Title: Article 4 :
+Pages: [83]
+Words: 1265
+Complete Section: Yes
+Preview: Article 4 : Agr ément de principe et Agr ément d éfinitif 4.1. Les op érations pr évues par l’article 24 de la loi n°2016-48 requi èrent un agr ément de principe et un agr ément d éfinitif de la commi...
+--------------------------------------------------------------------------------
+
+CHUNK 45:
+Structure: ANNEXE
+Title: ANNEXE 1
+Pages: [85]
+Words: 1202
+Complete Section: Yes
+Preview: ANNEXE 1 : Agr ément pour l’exercice des op érations pr évues par l’article 4 de la loi no 2016-48 relative aux banques et établissements financiers (Documents et informations requis pour l’obtention ...
+--------------------------------------------------------------------------------
+
+CHUNK 46:
+Structure: ANNEXE
+Title: ANNEXE 2
+Pages: [88]
+Words: 1297
+Complete Section: Yes
+Preview: ANNEXE 2 : Agr ément pour le changement de la cat égorie ou de la nature de l’activit é d’une banque ou d’un établissement financier (Documents et informations requis pour l’obtention de l’agr ément d...
+--------------------------------------------------------------------------------
+
+CHUNK 47:
+Structure: ANNEXE
+Title: ANNEXE 3
+Pages: [91]
+Words: 1434
+Complete Section: Yes
+Preview: ANNEXE 3 : Agr ément pour une op ération de fusion ou de scission (Documents et informations requis pour l’obtention de l’agr ément de principe) 1. Informations sur l’actionnariat - L’implication de l...
+--------------------------------------------------------------------------------
+
+CHUNK 48:
+Structure: ANNEXE
+Title: ANNEXE 4
+Pages: [94]
+Words: 1145
+Complete Section: Yes
+Preview: ANNEXE 4 : Agr ément pour une op ération de cession d’une part importante d’actif ou du passif d’une banque ou d’un établissement financier entrainant un changement substantiel dans la structure finan...
+--------------------------------------------------------------------------------
+
+CHUNK 49:
+Structure: ANNEXE
+Title: ANNEXE 5
+Pages: [97]
+Words: 840
+Complete Section: Yes
+Preview: ANNEXE 5 : Agr ément pour la r éduction du capital d’une banque ou d’un établissement financier (Documents et informations requis pour l’obtention de l’agr ément de principe) 1 - Information sur l’act...
+--------------------------------------------------------------------------------
+
+CHUNK 50:
+Structure: ANNEXE
+Title: ANNEXE 6
+Pages: [99]
+Words: 1160
+Complete Section: Yes
+Preview: ANNEXE 6 : Agr ément pour le franchissement de seuils dans le capital d’une banque ou d’un établissement financier I - Informations g én érales 1 - Pr ésentation de l’op ération et du requ érant Un ra...
+--------------------------------------------------------------------------------
+
+CHUNK 51:
+Structure: ANNEXE
+Title: ANNEXE 7
+Pages: [102]
+Words: 1107
+Complete Section: Yes
+Preview: ANNEXE 7 : Agr ément pour l’action de concert entre actionnaires d’une banque ou d’un établissement financier entra înant le d épassement de l’un des seuils pr évus à l’article 34 de la loi n°2016-48 ...
+--------------------------------------------------------------------------------
+
+CHUNK 52:
+Structure: ANNEXE
+Title: ANNEXE 8
+Pages: [105]
+Words: 972
+Complete Section: Yes
+Preview: ANNEXE 8 : Agr ément pour le changement de l’actionnaire de r éf érence suite à la cession de sa participation dans le capital d’une banque ou d’un établissement financier Le dossier d’agr ément doit ...
+--------------------------------------------------------------------------------
+
+CHUNK 53:
+Structure: ANNEXE_SPLIT
+Title: ANNEXE N° 9
+Pages: [111]
+Words: 3159
+Complete Section: Yes
+Preview: ANNEXE N° 9 : proc édures d’agr ément pour l’exercice de l’activit é d’un établissement de paiement au sens des articles 10, 20 et 28 de la loi no 2016-48 du 11 juillet 2016 relative aux banques et ét...
+--------------------------------------------------------------------------------
+
+CHUNK 54:
+Structure: DECRET
+Title: DECRET N°2006
+Pages: [119]
+Words: 965
+Complete Section: Yes
+Preview: DECRET N°2006-1880 DU 10 JUILLET 2006, FIXANT LA LISTE ET LES CONDITIONS DES SERVICES BANCAIRES DE BASE. Article 1er : Les services bancaires de base mentionn és au deuxi ème alin éa de l'article 31 b...
+--------------------------------------------------------------------------------
+
+CHUNK 55:
+Structure: CHAPITRE
+Title: Chapitre 2
+Pages: [121]
+Words: 703
+Complete Section: Yes
+Preview: Chapitre 2 Des r ègles de fonctionnement de la commission de r ésolution Article 7 : Sans pr éjudice des dispositions de l'article 111 de la loi n°2016-48 du 11 juillet 2016 susvis ée, la commission d...
+--------------------------------------------------------------------------------
+
+CHUNK 56:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [33, 122]
+Words: 803
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2006-12 DU 19 OCTOBRE 2006 OBJET : Les attributs de la qualit é des services bancaires. Article 1er : Les établissements de cr édit et les banques non-r éside...
+--------------------------------------------------------------------------------
+
+CHUNK 57:
+Structure: LOI_SPLIT
+Title: LOI N°2009
+Pages: [33, 123]
+Words: 3394
+Complete Section: Yes
+Preview: LOI N°2009-64 DU 12 AOUT 2009, PORTANT PROMULGATION DU CODE DE PRESTATION DES SERVICES FINANCIERS AUX NON RESIDENTS Article 1er : Est promulgu é, en vertu de la pr ésente loi, le « code de prestation ...
+--------------------------------------------------------------------------------
+
+CHUNK 58:
+Structure: SECTION
+Title: SECTION 2
+Pages: [127]
+Words: 882
+Complete Section: Yes
+Preview: SECTION 2 : DES ORGANISMES DE PLACEMENT COLLECTIF EN VALEURS MOBILIERES A REGLES D’INVESTISSEMENT ALLEGEES SOUS-SECTION1 : DISPOSITIONS COMMUNES Article 14 : Les OPCVM ARIA sont constitu és sous forme...
+--------------------------------------------------------------------------------
+
+CHUNK 59:
+Structure: ARTICLE_SPLIT
+Title: Article 24 :
+Pages: [128]
+Words: 2601
+Complete Section: Yes
+Preview: Article 24 : Pour les OPCVM ARIA de distribution, la mise en paiement des sommes distribuables est effectu ée dans un d élai maximal de cinq mois suivant la cl ôture de l'exercice. Les statuts et les ...
+--------------------------------------------------------------------------------
+
+CHUNK 60:
+Structure: TITRE
+Title: TITRE III
+Pages: [131]
+Words: 865
+Complete Section: Yes
+Preview: TITRE III DES SERVICES FINANCIERS CHAPITRE 1 DEFINITION GENERALE Article 50 : Sont consid ér és des services financiers au sens du pr ésent code, les services bancaires et les services d’investissemen...
+--------------------------------------------------------------------------------
+
+CHUNK 61:
+Structure: ARTICLE
+Title: Article 56 :
+Pages: [132]
+Words: 753
+Complete Section: Yes
+Preview: Article 56 : Les établissements de cr édit non- r ésidents peuvent : - Participer sur leurs fonds propres en devises, au capital d'entreprises r ésidentes conform ément à la r églementation en vigueur...
+--------------------------------------------------------------------------------
+
+CHUNK 62:
+Structure: SECTION_SPLIT
+Title: SECTION 3
+Pages: [133]
+Words: 7257
+Complete Section: Yes
+Preview: SECTION 3 DES PRESTATAIRES DES SERVICES D’INVESTISSEMENT NON RESIDENTS SOUS SECTION 1 DISPOSITIONS COMMUNES A L'ENSEMBLE DES PRESTATAIRES DES SERVICES D'INVESTISSEMENT NON RESIDENTS Article 61 : Les p...
+--------------------------------------------------------------------------------
+
+CHUNK 63:
+Structure: ARTICLE_SPLIT
+Title: Article 105 :
+Pages: [141]
+Words: 2655
+Complete Section: Yes
+Preview: Article 105 : Les prestataires des services d’investissement non-r ésidents doivent prendre toutes les mesures raisonnables pour emp êcher que les conflits d'int ér êts ne portent atteinte aux int ér ...
+--------------------------------------------------------------------------------
+
+CHUNK 64:
+Structure: SECTION_SPLIT
+Title: SECTION 2
+Pages: [144]
+Words: 4652
+Complete Section: Yes
+Preview: SECTION 2 LES POUVOIRS D’INJONCTION ET LES MESURES D’URGENCE SOUS SECTION 1 LES POUVOIRS D’INJONCTION Article 120 : En cas de manquement aux r ègles de bonne conduite de la profession par un prestatai...
+--------------------------------------------------------------------------------
+
+CHUNK 65:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [150]
+Words: 398
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES INTERMEDIAIRES AGREES N°2008-04 DU 3 MARS 2008 Objet : Exercice de l’activit é de change manuel Article 1er : Les banques interm édiaires agr éés peuvent, conform ément à la l é...
+--------------------------------------------------------------------------------
+
+CHUNK 66:
+Structure: ANNEXE
+Title: ANNEXE N°1
+Pages: [151]
+Words: 246
+Complete Section: Yes
+Preview: ANNEXE N°1 A LA CIRCULAIRE AUX BANQUES INTERMEDIAIRES AGREES N°2008-04 CONDITIONS D’OUVERTURE DES BUREAUX DE CHANGE Les banques interm édiaires agr éés doivent, lors de l’ouverture d’un bureau de chan...
+--------------------------------------------------------------------------------
+
+CHUNK 67:
+Structure: ANNEXE
+Title: ANNEXE N°2 + ANNEXE N°3
+Pages: [152, 153]
+Words: 121
+Complete Section: No
+Preview: ANNEXE N°2 A LA CIRCULAIRE AUX BANQUES INTERMEDIAIRES AGREES N°2008-04 Banque Interm édiaire Agr éé : Mod èle de d éclaration d’ouverture d’un bureau de change Site d’implantation : Gouvernorat…………….....
+--------------------------------------------------------------------------------
+
+CHUNK 68:
+Structure: ANNEXE
+Title: ANNEXE N°4
+Pages: [154]
+Words: 155
+Complete Section: Yes
+Preview: ANNEXE N°4 A LA CIRCULAIRE AUX BANQUES INTERMEDIAIRES AGREES N°2008-04 Les zones dans lesquelles la permanence des services de change manuel doit être assur ée - Tunis ville - Hammam Sousse – El Kanta...
+--------------------------------------------------------------------------------
+
+CHUNK 69:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [155]
+Words: 420
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES NON- RESIDENTES N°86-05 DU 25 FEVRIER 1986 OBJET : Change manuel. La loi n° 85-108 du 6 d écembre 1985, portant encouragement d'organismes financiers et bancaires travaillant es...
+--------------------------------------------------------------------------------
+
+CHUNK 70:
+Structure: ANNEXE
+Title: ANNEXE I  + ANNEXE I 
+Pages: [156, 157]
+Words: 325
+Complete Section: No
+Preview: ANNEXE I A LA CIRCULAIRE AUX BANQUES NON-RESIDENTES N°86-05 DU 25/02/86 RAISON SOCIALE DE LA BANQUE NON-RESIDENTE Agence de............................ ACHAT DE DEVISES N°................................
+--------------------------------------------------------------------------------
+
+CHUNK 71:
+Structure: ANNEXE
+Title: ANNEXE II 
+Pages: [158]
+Words: 120
+Complete Section: Yes
+Preview: ANNEXE II A LA CIRCULAIRE AUX BANQUES NON-RESIDENTES N°86-05 DU 25 FEVRIER 1986 RAISON SOCIALE DE LA BANQUE NON-RESIDENTE VENTE DE DEVISES N°.................................. Identification du client...
+--------------------------------------------------------------------------------
+
+CHUNK 72:
+Structure: CIRCULAIRE_SPLIT
+Title: CIRCULAIRE AUX 
+Pages: [159]
+Words: 2717
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES NON-RESIDENTES N°86-13 DU 6 MAI 1986 OBJET : Activit é des banques non-r ésidentes. La loi n°85-108 du 6 d écembre 1985, portant encouragement d'organismes financiers et bancair...
+--------------------------------------------------------------------------------
+
+CHUNK 73:
+Structure: ANNEXE
+Title: ANNEXE II  + ANNEXE III 
+Pages: [164, 165]
+Words: 297
+Complete Section: No
+Preview: ANNEXE II A LA CIRCULAIRE AUX BANQUES NON-RESIDENTES N°86-13 DU 6 MAI 1986 RAISON SOCIALE DE LA BANQUE NON- RESIDENTE ACTUALISATION DE L'ETAT DES PARTICIPATIONS AU .......................................
+--------------------------------------------------------------------------------
+
+CHUNK 74:
+Structure: ANNEXE
+Title: ANNEXE III 
+Pages: [166]
+Words: 26
+Complete Section: Yes
+Preview: ANNEXE III (SUITE) A LA CIRCULAIRE AUX BANQUES NON-RESIDENTES N°86-13 DU 6 MAI 1986 Pi èces justificatives jointes : Explications compl émentaires s'il y a lieu
+--------------------------------------------------------------------------------
+
+CHUNK 75:
+Structure: LOI
+Title: LOI N°94
+Pages: [167]
+Words: 828
+Complete Section: Yes
+Preview: LOI N°94-89 DU 26 JUILLET 1994, RELATIVE AU LEASING Article 1er : Le leasing est une op ération de location d'équipements, de mat ériel ou de biens immobiliers achet és ou r éalis és en vue de la loca...
+--------------------------------------------------------------------------------
+
+CHUNK 76:
+Structure: ARTICLE
+Title: Article 10 :
+Pages: [168]
+Words: 294
+Complete Section: Yes
+Preview: Article 10 : Les inscriptions sont radi ées soit sur justification de l'accord des parties, soit en vertu d'un jugement ou d'un arr êt ayant la force de chose jug ée. Article 11 : Le greffier d élivre...
+--------------------------------------------------------------------------------
+
+CHUNK 77:
+Structure: DECRET
+Title: DECRET N°2006
+Pages: [169]
+Words: 822
+Complete Section: Yes
+Preview: DECRET N°2006-1881 DU 10 JUILLET 2006 FIXANT LES CONDITIONS D’EXERCICE DE L’ACTIVITE DE MEDIATEUR BANCAIRE. (JORT N°56 DU 14-07-2006) Article 1er : Le pr ésent d écret fixe les conditions d’exercice d...
+--------------------------------------------------------------------------------
+
+CHUNK 78:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [170]
+Words: 869
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2006-01 DU 28 MARS 2006 OBJET : Réglementation des op érations d’externalisation. Article 1er : Tout établissement de cr édit peut proc éder à l’externalisati...
+--------------------------------------------------------------------------------
+
+CHUNK 79:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [171]
+Words: 780
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2006-05 DU 20 JUIN 2006 OBJET : Conditions d’ouverture, de fermeture et de transfert de succursales, d’agences et de bureaux p ériodiques par les établissemen...
+--------------------------------------------------------------------------------
+
+CHUNK 80:
+Structure: ANNEXE
+Title: ANNEXE 1
+Pages: [172]
+Words: 932
+Complete Section: Yes
+Preview: ANNEXE 1 A LA CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2006-05 CAHIER DES CHARGES FIXANT LES CONDITIONS D’OUVERTURE, PAR LES ETABLISSEMENTS DE CREDIT, D’UNE SUCCURSALE, D’UNE AGENCE OU D’UN BUREAU PE...
+--------------------------------------------------------------------------------
+
+CHUNK 81:
+Structure: ANNEXE
+Title: ANNEXE 2 + ANNEXE 3
+Pages: [173, 174]
+Words: 305
+Complete Section: No
+Preview: ANNEXE 2 A LA CIRCULAIRE N°2006-05 Etablissement de cr édit :………………………… Site d’implantation : Mod èle de d éclaration d’ouverture □ Succursale □ Agence □ Bureau p ériodique Gouvernorat :……………………. Dél ...
+--------------------------------------------------------------------------------
+
+CHUNK 82:
+Structure: DECRET
+Title: DECRET N°2008
+Pages: [175]
+Words: 541
+Complete Section: Yes
+Preview: DECRET N°2008-137 DU 22 JANVIER 2008, RELATIF A LA CREATION DU PRIX DU PRESIDENT DE LA REPUBLIQUE POUR LA QUALITE DES SERVICES BANCAIRES ET A LA FIXATION DES CONDITIONS ET MODALITES DE SON OCTROI. (JO...
+--------------------------------------------------------------------------------
+
+CHUNK 83:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [34, 176]
+Words: 1880
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2008-05 DU 4 MARS 2008 OBJET : Crit ères d’octroi du prix du Pr ésident de la République pour la qualit é des services bancaires. Le Gouverneur de la Banque C...
+--------------------------------------------------------------------------------
+
+CHUNK 84:
+Structure: ARTICLE
+Title: Article 7 :
+Pages: [179]
+Words: 1418
+Complete Section: Yes
+Preview: Article 7 : L’établissement de paiement doit cr éer au moins un comit é sp écialis é « d’audit et de risque » émanant de l’organe d’administration charg é notamment : - d’assister l’organe d’administr...
+--------------------------------------------------------------------------------
+
+CHUNK 85:
+Structure: ARTICLE
+Title: Article 16 :
+Pages: [181]
+Words: 658
+Complete Section: Yes
+Preview: Article 16 : L’ouverture d’un compte de paiement est soumise à une convention écrite entre l’établissement de paiement et le titulaire du compte et dont un exemplaire doit lui être remis. La conventio...
+--------------------------------------------------------------------------------
+
+CHUNK 86:
+Structure: TITRE
+Title: Titre IV
+Pages: [182]
+Words: 496
+Complete Section: Yes
+Preview: Titre IV : Du recours aux r éseaux d’agents de paiement Article 24 : Les établissements de paiement peuvent, sous leur responsabilit é et pour leur propre compte et sous r éserve des restrictions pr é...
+--------------------------------------------------------------------------------
+
+CHUNK 87:
+Structure: ARTICLE
+Title: Article 30 :
+Pages: [183]
+Words: 618
+Complete Section: Yes
+Preview: Article 30 : L’établissement de paiement doit conclure avec ses agents principaux et ses agents d étaillants une convention qui fixe au minimum : - les services de paiement offerts par les agents de p...
+--------------------------------------------------------------------------------
+
+CHUNK 88:
+Structure: ARTICLE
+Title: Article 34 :
+Pages: [184]
+Words: 576
+Complete Section: Yes
+Preview: Article 34 : Les établissements de paiement sont tenus de mettre en place: - des politiques et des proc édures claires pour la r éception et le traitement des r éclamations de la client èle ; - une st...
+--------------------------------------------------------------------------------
+
+CHUNK 89:
+Structure: ANNEXE
+Title: ANNEXE 1 + ANNEXE 2
+Pages: [185, 186]
+Words: 238
+Complete Section: No
+Preview: ANNEXE 1 ELEMENTS D’IDENTIFICATION DES CLIENTS DETENANT LES COMPTES DE PAIEMENT DE NIVEAU 2 I- Pour les personnes physiques - Nom et pr énom - Date et lieu de naissance - Nationalit é - Num éro du CNI...
+--------------------------------------------------------------------------------
+
+CHUNK 90:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [187]
+Words: 340
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N° 2019-08 DU 14 OCTOBRE 2019 Objet : Définition des op érations bancaires islamiques et fixation des modalit és et conditions de leur exercice....
+--------------------------------------------------------------------------------
+
+CHUNK 91:
+Structure: ARTICLE
+Title: Article 5:
+Pages: [188]
+Words: 412
+Complete Section: Yes
+Preview: Article 5: Le financement Mourabaha est accord é aux : 1- Professionnels sous forme de : - pr éfinancement de l’exploitation en vue de l’acquisition de mati ères premi ères, de produits finis ou de pr...
+--------------------------------------------------------------------------------
+
+CHUNK 92:
+Structure: TITRE
+Title: Titre II
+Pages: [189]
+Words: 462
+Complete Section: Yes
+Preview: Titre II : Op érations de financement participatif Article 9 : Les op érations de financement participatif comprennent notamment le financement par la «Moucharaka» et le financement par la «Moudharaba...
+--------------------------------------------------------------------------------
+
+CHUNK 93:
+Structure: ARTICLE
+Title: Article 15 :
+Pages: [190]
+Words: 458
+Complete Section: Yes
+Preview: Article 15 : Tous les six mois, la banque est tenue d’informer ses clients titulaires de comptes d’investissement de la nature des op érations d’investissement effectu ées, de leur quote-part directes...
+--------------------------------------------------------------------------------
+
+CHUNK 94:
+Structure: ARTICLE
+Title: Article 20 :
+Pages: [191]
+Words: 473
+Complete Section: Yes
+Preview: Article 20 : La Banque Centrale de Tunisie contr ôle la conformit é des op érations bancaires islamiques aux standards internationaux pratiqu és dans ce domaine. A cet effet, les banques et les établi...
+--------------------------------------------------------------------------------
+
+CHUNK 95:
+Structure: OBJET
+Title: Objet :
+Pages: [193]
+Words: 1762
+Complete Section: Yes
+Preview: Objet : Conditions de fourniture des services de paiement mobile domestique. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi organique n° 2004-63 du 27 juillet 2004 portant sur la protection...
+--------------------------------------------------------------------------------
+
+CHUNK 96:
+Structure: ARTICLE
+Title: Article 7
+Pages: [196]
+Words: 1181
+Complete Section: Yes
+Preview: Article 7- Outre les exigences l égales, le contrat relatif à la mise à la disposition et l’utilisation d’un moyen de paiement mobile doit stipuler notamment ce qui suit: - les principaux services off...
+--------------------------------------------------------------------------------
+
+CHUNK 97:
+Structure: ARTICLE
+Title: Article 19
+Pages: [198]
+Words: 613
+Complete Section: Yes
+Preview: Article 19- Doivent être assur és à titre gratuit les services ci-apr ès : - La souscription au service de paiement mobile ; - Les op érations de cash in ; - Les paiements commer çant pour le client p...
+--------------------------------------------------------------------------------
+
+CHUNK 98:
+Structure: ARTICLE
+Title: Article 25
+Pages: [199]
+Words: 596
+Complete Section: Yes
+Preview: Article 25- Le gestionnaire du switch mobile doit assurer notamment les fonctions suivantes : - la gestion et la mise à jour de la table de correspondance des r éf érentiels clients; - le routage des ...
+--------------------------------------------------------------------------------
+
+CHUNK 99:
+Structure: ARTICLE
+Title: Article 31
+Pages: [200]
+Words: 1280
+Complete Section: Yes
+Preview: Article 31- L’établissement et le gestionnaire du switch mobile sont tenus de prendre les mesures requises pour assurer la s écurit é du r éseau et des syst èmes op érationnels et la mise en place d’u...
+--------------------------------------------------------------------------------
+
+CHUNK 100:
+Structure: ANNEXE
+Title: Annexe 
+Pages: [202]
+Words: 61
+Complete Section: Yes
+Preview: Annexe A l’attention de la Banque Centrale de Tunisie Tunis, le Etablissement : ……………. Feuille de route pour la conformit é aux dispositions de la circulaire n° ……. Description du service Mesures Nive...
+--------------------------------------------------------------------------------
+
+CHUNK 101:
+Structure: OBJET
+Title: Objet :
+Pages: [203]
+Words: 391
+Complete Section: Yes
+Preview: Objet : Politiques et mesures de traitement des r éclamations de la client èle. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi organique n°2004-63 du 27 juillet 2004, portant sur la protect...
+--------------------------------------------------------------------------------
+
+CHUNK 102:
+Structure: ARTICLE
+Title: Article 2 :
+Pages: [204]
+Words: 488
+Complete Section: Yes
+Preview: Article 2 : Constitue une r éclamation au sens de la pr ésente circulaire, toute d éclaration actant un diff érend, une insatisfaction ou une contestation pr ésent ée par la client èle à un établissem...
+--------------------------------------------------------------------------------
+
+CHUNK 103:
+Structure: ARTICLE
+Title: Article 7 :
+Pages: [205]
+Words: 771
+Complete Section: Yes
+Preview: Article 7 : L’établissement informe la client èle sur les proc édures de r éception des r éclamations, les d élais de leur traitement ainsi que les conditions de recours à la m édiation bancaire : - a...
+--------------------------------------------------------------------------------
+
+CHUNK 104:
+Structure: ANNEXE
+Title: Annexe 1 + Annexe 2
+Pages: [207, 208]
+Words: 210
+Complete Section: No
+Preview: Annexe 1 à la circulaire n°2022-08 du 20 octobre 2022 Informations minimales à conserver par les établissements sur les r éclamants • Num éro de r éf érence de la r éclamation • Nom et pr énom / raiso...
+--------------------------------------------------------------------------------
+
+CHUNK 105:
+Structure: ANNEXE
+Title: Annexe 3
+Pages: [209]
+Words: 189
+Complete Section: Yes
+Preview: Annexe 3 à la circulaire n°2022-08 du 20 octobre 2022 Etat annuel des r éclamations re çues par les établissements Ann ée… Etablissement d éclarant I. Répartition des r éclamations par nature de r écl...
+--------------------------------------------------------------------------------
+
+CHUNK 106:
+Structure: PARTIE
+Title: TROISIEME PARTIE
+Pages: [211]
+Words: 811
+Complete Section: Yes
+Preview: TROISIEME PARTIE ASSISTANCE FINANCIERE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS
+- CIRCULAIRE N°2016-07 DU 09 DECEMBRE 2016 RELATIVE A L’ASSISTANCE FINANCIERE DANS LE CADRE DES ARTICLES 19, 20 ET 2...
+--------------------------------------------------------------------------------
+
+CHUNK 107:
+Structure: ARTICLE
+Title: Article 6 :
+Pages: [214]
+Words: 386
+Complete Section: Yes
+Preview: Article 6 : Taux d’int ér êt applicable Le taux d’int ér êt applicable aux op érations d’assistances financi ères est égal au taux de la facilit é de pr êt major é d’une marge au moins égale à 250 poi...
+--------------------------------------------------------------------------------
+
+CHUNK 108:
+Structure: PARTIE
+Title: QUATRIEME PARTIE
+Pages: [1]
+Words: 39
+Complete Section: Yes
+Preview: QUATRIEME PARTIE GARANTIE DES DEPOTS BANCAIRES
+- DECRET N°2017-268 DU 1er FEVRIER 2017 RELATIF A LA FIXATION DES REGLES D’INTERVENTION, D’ORGANISATION ET DE FONCTIONNEMENT DU FOND DE GARANTIE DES DEPO...
+--------------------------------------------------------------------------------
+
+CHUNK 109:
+Structure: DECRET
+Title: DECRET N°2017
+Pages: [216, 217]
+Words: 720
+Complete Section: Yes
+Preview: DECRET N°2017-268 DU 1er FEVRIER 2017 RELATIF A LA FIXATION DES REGLES D’INTERVENTION, D’ORGANISATION ET DE FONCTIONNEMENT DU FOND DE GARANTIE DES DEPOTS BANCAIRES ET DES CONDITIONS D’ADHESION ET D’IN...
+--------------------------------------------------------------------------------
+
+CHUNK 110:
+Structure: ARTICLE
+Title: Article 6 :
+Pages: [218]
+Words: 994
+Complete Section: Yes
+Preview: Article 6 : Aucun membre du comit é de surveillance ne peut se faire repr ésenter dans les r éunions du comit é de surveillance du fonds et ne peut s'absenter aux d élib érations du comit é sauf au ca...
+--------------------------------------------------------------------------------
+
+CHUNK 111:
+Structure: ARTICLE_SPLIT
+Title: Article 15 :
+Pages: [219]
+Words: 2690
+Complete Section: Yes
+Preview: Article 15 : Toute banque adh érente perd sa qualit é de membre du fonds de garantie des d ép ôts bancaires dans les cas suivants : - la prononciation d'un jugement d éfinitif de dissolution et de liq...
+--------------------------------------------------------------------------------
+
+CHUNK 112:
+Structure: CHAPITRE
+Title: Chapitre VI
+Pages: [222]
+Words: 233
+Complete Section: Yes
+Preview: Chapitre VI Dispositions diverses Article37 : Sans pr éjudice des dispositions de l'article 3 de la loi n° 96-112 du 30 d écembre 1996, relative au syst ème comptable des entreprises, le comit é de su...
+--------------------------------------------------------------------------------
+
+CHUNK 113:
+Structure: PARTIE
+Title: CINQUIEME PARTIE
+Pages: [1]
+Words: 456
+Complete Section: Yes
+Preview: CINQUIEME PARTIE CONDITIONS DE BANQUE
+- LOI N°99-64 DU 15 JUILLET 1999, RELATIVE AUX TAUX D’INTERET EXCESSIFS. - DECRET N°2000-462 DU 21 FEVRIER 2000, FIXANT LES MODALITES DE CALCUL DU TAUX D’INTERET ...
+--------------------------------------------------------------------------------
+
+CHUNK 114:
+Structure: LOI
+Title: LOI N°99
+Pages: [226]
+Words: 636
+Complete Section: Yes
+Preview: LOI N°99-64 DU 15 JUILLET 1999, RELATIVE AUX TAUX D'INTERET EXCESSIFS Article 1er : Constitue un pr êt consenti à un taux d'int ér êt excessif, tout pr êt conventionnel consenti à un taux d'int ér êt ...
+--------------------------------------------------------------------------------
+
+CHUNK 115:
+Structure: DECRET
+Title: Décret n° 2000
+Pages: [227]
+Words: 1001
+Complete Section: Yes
+Preview: Décret n° 2000-462 du 21 f évrier 2000, fixant les modalit és de calcul du taux d'int ér êt effectif global et du taux d'int ér êt effectif moyen et leur mode de publication. Article 1er : Le taux d'i...
+--------------------------------------------------------------------------------
+
+CHUNK 116:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [228]
+Words: 745
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT2 N°2000-03 DU 27 MARS 2000 OBJET : Fixation des cr édits soumis au m ême taux d'int ér êt excessif et des commissions bancaires entrant dans le calcul des taux ...
+--------------------------------------------------------------------------------
+
+CHUNK 117:
+Structure: ANNEXE
+Title: ANNEXE I 
+Pages: [229]
+Words: 496
+Complete Section: Yes
+Preview: ANNEXE I A LA CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N°2000-03 DU 27 MARS 2000 Liste des cr édits constituant les cat égories de concours 1) Cr édits à court terme autres que le d éco...
+--------------------------------------------------------------------------------
+
+CHUNK 118:
+Structure: ANNEXE
+Title: ANNEXE II 
+Pages: [230]
+Words: 161
+Complete Section: Yes
+Preview: ANNEXE II A LA CIRCULAIRE AUX ETABLISSMENTS DE CREDIT N°2000-032 Déclaration du taux effectif global par cat égorie de concours relative aux cinq premiers mois du semestre………….. Etablissement d éclara...
+--------------------------------------------------------------------------------
+
+CHUNK 119:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [231]
+Words: 854
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°2006-11 DU 18 OCTOBRE 2006 OBJET : Conditions g én érales et particuli ères minimales de la convention de gestion de compte de d ép ôt. Article 1er : La pr ésente circulaire f...
+--------------------------------------------------------------------------------
+
+CHUNK 120:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [232]
+Words: 712
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N° 86-42 DU 1ER DECEMBRE 1986 OBJET : Réglementation des conditions de banque. TITRE PREMIER CONDITIONS DES COMPTES CREDITEURS CHAPITRE PREMIER COMPTES A VUE EN DINARS ET PLACEM...
+--------------------------------------------------------------------------------
+
+CHUNK 121:
+Structure: ARTICLE
+Title: Article 10 :
+Pages: [233]
+Words: 516
+Complete Section: Yes
+Preview: Article 10 : Les int ér êts et les primes de fid élit é sont d écompt és et capitalis és à chaque arr êt é trimestriel. Pour les comptes cl ôtur és avant la fin de la p ériode l'arr êt é trimestriel, ...
+--------------------------------------------------------------------------------
+
+CHUNK 122:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [234]
+Words: 767
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°91-22 DU 17 DECEMBRE 1991 OBJET : Réglementation des conditions de banque. TITRE PREMIER CONDITIONS DES COMPTES CREDITEURS CHAPITRE PREMIER COMPTES A VUE EN DINARS ET PLACEMEN...
+--------------------------------------------------------------------------------
+
+CHUNK 123:
+Structure: ARTICLE
+Title: Article 11 :
+Pages: [235]
+Words: 985
+Complete Section: Yes
+Preview: Article 11 : Le taux d'int ér êt annuel à servir aux avoirs en "Comptes d'épargne pour l'investissement" est égal au taux de r émun ération de l'épargne (TRE) tel que d éfini à l'article 36 ci-dessous...
+--------------------------------------------------------------------------------
+
+CHUNK 124:
+Structure: ARTICLE_SPLIT
+Title: Article 20 :
+Pages: [236]
+Words: 2351
+Complete Section: Yes
+Preview: Article 20 : Les int ér êts payables à terme échu des comptes à terme, des bons de caisse ou de tout autre produit financier sont calcul és sur la base d'une ann ée de 365 jours en appliquant la formu...
+--------------------------------------------------------------------------------
+
+CHUNK 125:
+Structure: ANNEXE_SPLIT
+Title: ANNEXE N°1
+Pages: [239]
+Words: 2175
+Complete Section: Yes
+Preview: ANNEXE N°1 A LA CIRCULAIRE N°91-22 DU 17 DECEMBRE 19915 FORMULAIRE - TYPE DU BAREME DES CONDITIONS DE BANQUE❶ Banque : I- TAUX D'INTERET Bar ème applicable à compter du : A- TAUX DÉBITEURS APPLICABLES...
+--------------------------------------------------------------------------------
+
+CHUNK 126:
+Structure: ANNEXE
+Title: ANNEXE N°2
+Pages: [245]
+Words: 519
+Complete Section: Yes
+Preview: ANNEXE N°2 A LA CIRCULAIRE N°91-22 DU 17 DECEMBRE 1991 LISTE DES OPERATIONS BANCAIRES SOUMISES A L'OBLIGATION DE PUBLICITE DES CONDITIONS CREDITRICES OU DEBITRICES Y AFFERENTES AU MOYEN D'AFFICHES DAN...
+--------------------------------------------------------------------------------
+
+CHUNK 127:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [224, 248]
+Words: 248
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2012-19 DU 18 OCTOBRE 2012 Objet : Commission de p ér équation des changes Le Gouverneur de la Banque Centrale de Tunisie Vu la loi n°58-90 du 19 septembre 19...
+--------------------------------------------------------------------------------
+
+CHUNK 128:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [249]
+Words: 88
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULAIRE N° 2012- 19 DU 18/10/2012 Mod èle de message type MT103 à initier par la STB pour verser le 11 juillet 2012 au tr ésor, via le SGMT, le montant 1000 dinars relatif aux commissio...
+--------------------------------------------------------------------------------
+
+CHUNK 129:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [250]
+Words: 259
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°85-26 DU 02 JUILLET 1985 OBJET : Ressources du Fonds National de Garantie. Article 1er 1 : La commission de garantie pr évue par l’article 73 de la loi n°81-100 du 31 d écembr...
+--------------------------------------------------------------------------------
+
+CHUNK 130:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [251]
+Words: 339
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULAIRE AUX BANQUES N°85-26 DU 2 JUILLET 19852 BANQUE Date { Ordinaire ORDRE DE VIREMENT { Tél éphonique A Monsieur le Directeur du Comptoir de la Banque Centrale de Tunisie à Tunis, Do...
+--------------------------------------------------------------------------------
+
+CHUNK 131:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [253]
+Words: 692
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°92-07 DU 21 AVRIL 1992 OBJET : "Comptes d'épargne-emprunts obligataires". Article 1er : Les banques de d ép ôts, les banques d'investissement ainsi que tout autre établissemen...
+--------------------------------------------------------------------------------
+
+CHUNK 132:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [254]
+Words: 147
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULAIRE N°92-07 DU 21 AVRIL 1992 BANQUE : STATISTIQUES RELATIVES AUX COMPTES D'EPARGNE-EMPRUNTS OBLIGATAIRES ARRETEES AU………………….…. LIBELLES Encours fin du mois pr éc édent Op érations d...
+--------------------------------------------------------------------------------
+
+CHUNK 133:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [255]
+Words: 226
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULAIRE N°92-07 DU 21 AVRIL 1992 COMPTE D'EPARGNE-EMPRUNTS OBLIGATAIRES LOI DE FINANCES N°91-98 DU 31 DECEMBRE 1991 (ARTICLE 33) Les personnes physiques peuvent ouvrir des comptes d'épa...
+--------------------------------------------------------------------------------
+
+CHUNK 134:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [256]
+Words: 820
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULAIRE N°92-07 DU 21 AVRIL 1992 (SUITE) ARRETE DU MINISTRE DES FINANCES DU 21 FEVRIER 1992 Arr êt é du Ministre des Finances du 21 f évrier 1992, fixant les conditions d'ouverture et d...
+--------------------------------------------------------------------------------
+
+CHUNK 135:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [257]
+Words: 822
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2005-10 DU 14 JUILLET 2005 Objet : Tenue et administration des comptes de certificats de d ép ôt et des comptes de billets de tr ésorerie. TITRE PREMIER DISPO...
+--------------------------------------------------------------------------------
+
+CHUNK 136:
+Structure: ARTICLE
+Title: Article 10 :
+Pages: [258]
+Words: 732
+Complete Section: Yes
+Preview: Article 10 : L’établissement de cr édit émetteur ou mandat é doit tenir un journal g én éral des op érations par titre, bas é sur une comptabilit é à partie double, servi chronologiquement de toute éc...
+--------------------------------------------------------------------------------
+
+CHUNK 137:
+Structure: ARTICLE
+Title: Article 17 :
+Pages: [259]
+Words: 423
+Complete Section: Yes
+Preview: Article 17 : L’administration des comptes de certificats de d ép ôt et/ou des comptes de billets de tr ésorerie ne peut avoir lieu qu’en vertu d’une demande écrite du propri étaire des titres faite à ...
+--------------------------------------------------------------------------------
+
+CHUNK 138:
+Structure: ANNEXE
+Title: ANNEXE N° 1
+Pages: [260]
+Words: 689
+Complete Section: Yes
+Preview: ANNEXE N° 1 CAHIER DES CHARGES RELATIF AUX CONDITIONS D’INSCRIPTION ET DE TENUE DES COMPTES DE CERTIFICATS DE DEPOT ET DES COMPTES DE BILLETS DE TRESORERIE Article 1er : L’établissement de cr édit (d ...
+--------------------------------------------------------------------------------
+
+CHUNK 139:
+Structure: ANNEXE
+Title: ANNEXE N°2
+Pages: [261]
+Words: 617
+Complete Section: Yes
+Preview: ANNEXE N°2 CAHIER DES CHARGES RELATIF A L’ADMINISTRATION DES COMPTES DE CERTIFICATS DE DEPOT ET DES COMPTES DE BILLETS DE TRESORERIE Article 1er : L’établissement de cr édit (d énomination sociale :……...
+--------------------------------------------------------------------------------
+
+CHUNK 140:
+Structure: OBJET
+Title: Objet :
+Pages: [262]
+Words: 669
+Complete Section: Yes
+Preview: Objet : Mesures exceptionnelles de soutien des entreprises et des professionnels. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du 25 avril 2016 portant fixation du statut de la ...
+--------------------------------------------------------------------------------
+
+CHUNK 141:
+Structure: ANNEXE
+Title: Annexe n°1 + Annexe n°2
+Pages: [264, 265, 272, 274, 430, 431]
+Words: 145
+Complete Section: No
+Preview: Annexe n°1 à la circulaire aux banques et aux établissements financiers n°2020- 06 du 19 mars 2020 relative aux mesures exceptionnelles de soutien en faveur des entreprises et des professionnels Liste...
+--------------------------------------------------------------------------------
+
+CHUNK 142:
+Structure: OBJET
+Title: Objet :
+Pages: [266]
+Words: 473
+Complete Section: Yes
+Preview: Objet : Mesures exceptionnelles de soutien des particuliers. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du 25 avril 2016 portant fixation du statut de la Banque Centrale de Tu...
+--------------------------------------------------------------------------------
+
+CHUNK 143:
+Structure: ARTICLE
+Title: Article 3 
+Pages: [267]
+Words: 523
+Complete Section: Yes
+Preview: Article 3 – Les banques peuvent étendre les mesures pr évues par l’alin éa premier de l’article 2 de la pr ésente circulaire aux particuliers dont le revenu mensuel net est inf érieur à mille dinars e...
+--------------------------------------------------------------------------------
+
+CHUNK 144:
+Structure: ANNEXE
+Title: Annexe n°1
+Pages: [268]
+Words: 25
+Complete Section: Yes
+Preview: Annexe n°1 à la circulaire aux banques n°2020- 07 du 25 mars 2020 Abrog é par l’article 6 de la circulaire 2020-12 du 28mai 2020
+--------------------------------------------------------------------------------
+
+CHUNK 145:
+Structure: OBJET
+Title: Objet :
+Pages: [269]
+Words: 1230
+Complete Section: Yes
+Preview: Objet : Financements exceptionnels de soutien des entreprises et des professionnels pour faire face aux retomb ées de la pand émie du COVID-19. Le Gouverneur de la Banque Centrale de Tunisie, Vu la lo...
+--------------------------------------------------------------------------------
+
+CHUNK 146:
+Structure: ARTICLE
+Title: Article 6 
+Pages: [271]
+Words: 91
+Complete Section: Yes
+Preview: Article 6 – Sont abrog ées les dispositions de l’article 4 de la circulaire de la Banque Centrale de Tunisie n°2020-07 du 25 mars 2020 et de son annexe 1. Article 7 – Les banques d éclarent mensuellem...
+--------------------------------------------------------------------------------
+
+CHUNK 147:
+Structure: ANNEXE
+Title: Annexe n°1
+Pages: [264, 272, 430]
+Words: 375
+Complete Section: Yes
+Preview: Annexe n°1 à la circulaire aux banques et aux établissements financiers n°2020-12 du 28 mai 2020 relative aux financements exceptionnels de soutien des entreprises et des professionnels pour faire fac...
+--------------------------------------------------------------------------------
+
+CHUNK 148:
+Structure: ANNEXE
+Title: Annexe n°2 + Annexe n°3
+Pages: [265, 274, 275, 431]
+Words: 185
+Complete Section: No
+Preview: Annexe n°2 à la circulaire aux banques et aux établissements financiers n°2020-12 du 28 mai 2020 relative aux financements exceptionnels de soutien des entreprises et des professionnels pour faire fac...
+--------------------------------------------------------------------------------
+
+CHUNK 149:
+Structure: OBJET
+Title: Objet :
+Pages: [276]
+Words: 1003
+Complete Section: Yes
+Preview: Objet : Fixation des conditions du b én éfice et des modalit és de gestion de la ligne de dotation destin ée au refinancement des cr édits de r ééchelonnement accord és par les banques au profit des p...
+--------------------------------------------------------------------------------
+
+CHUNK 150:
+Structure: ARTICLE
+Title: Article 8
+Pages: [278]
+Words: 549
+Complete Section: Yes
+Preview: Article 8- Les banques sont refinanc ées aux conditions suivantes : - un taux d’int ér êt annuel fixe égal au taux d’int ér êt directeur de la Banque Centrale de Tunisie pr évu à l’article 6 de la pr ...
+--------------------------------------------------------------------------------
+
+CHUNK 151:
+Structure: OBJET
+Title: Objet :
+Pages: [279]
+Words: 532
+Complete Section: Yes
+Preview: Objet : Fixation des modalit és et proc édures de d éblocage des montants relatifs au b én éfice de l'avantage de la prise en charge par l'Etat de la bonification du taux d’int ér êt dans la limite de...
+--------------------------------------------------------------------------------
+
+CHUNK 152:
+Structure: ARTICLE
+Title: Article 2
+Pages: [280]
+Words: 611
+Complete Section: Yes
+Preview: Article 2- Les ressources du compte vis é à l’article premier sont employ ées pour le paiement des montants d écoulant de l’avantage de prise en charge par l'Etat de la diff érence entre le taux d’int...
+--------------------------------------------------------------------------------
+
+CHUNK 153:
+Structure: ARTICLE
+Title: Article 7
+Pages: [281]
+Words: 221
+Complete Section: Yes
+Preview: Article 7- Le b én éfice de l’avantage est annul é lorsque l’entreprise b én éficiaire accuse un retard dans le remboursement de trois éch éances successives du cr édit ou en cas d’introduction par la...
+--------------------------------------------------------------------------------
+
+CHUNK 154:
+Structure: PARTIE
+Title: SIXIEME PARTIE
+Pages: [1]
+Words: 427
+Complete Section: Yes
+Preview: SIXIEME PARTIE POLITIQUE MONETAIRE
+- CIRCULAIRE AUX BANQUES N°2017-02 DU 10 MARS 2017 RELATIVE A LA MISE EN ŒUVRE DE LA POLITIQUE MONETAIRE DE LA BANQUE CENTRALE DE TUNISIE - CIRCUAIRE AUX BANQUES N°8...
+--------------------------------------------------------------------------------
+
+CHUNK 155:
+Structure: CIRCULAIRE
+Title: Circulaire aux 
+Pages: [284]
+Words: 561
+Complete Section: Yes
+Preview: Circulaire aux Banques N°2017-02 du 10 mars 2017 Objet : Mise en œuvre de la politique mon étaire par la Banque Centrale de Tunisie. Vu la loi n°2016-35 du 25 avril 2016 portant statuts de la Banque C...
+--------------------------------------------------------------------------------
+
+CHUNK 156:
+Structure: ARTICLE
+Title: Article premier :
+Pages: [285]
+Words: 543
+Complete Section: Yes
+Preview: Article premier : Dispositions g én érales La pr ésente circulaire fixe les conditions de mise en œuvre de la politique mon étaire de la Banque Centrale de Tunisie. L’adh ésion aux conditions de mise ...
+--------------------------------------------------------------------------------
+
+CHUNK 157:
+Structure: ARTICLE
+Title: Article 5 :
+Pages: [286]
+Words: 597
+Complete Section: Yes
+Preview: Article 5 : Cat égories des op érations à l’initiative de la Banque Centrale de Tunisie Les op érations à l’initiative de la Banque Centrale de Tunisie sont constitu ées par quatre cat égories d’op ér...
+--------------------------------------------------------------------------------
+
+CHUNK 158:
+Structure: ARTICLE
+Title: Article 8 :
+Pages: [287]
+Words: 492
+Complete Section: Yes
+Preview: Article 8 : Facilit é de pr êt marginal Les contreparties éligibles peuvent utiliser la facilit é de pr êt marginal pour obtenir de la Banque Centrale de Tunisie, par le biais d’une op ération de cess...
+--------------------------------------------------------------------------------
+
+CHUNK 159:
+Structure: TITRE
+Title: TITRE IV
+Pages: [288]
+Words: 568
+Complete Section: Yes
+Preview: TITRE IV : DES ACTIFS ELIGIBLES Article 15 : Définition des actifs éligibles Afin de prot éger le bilan de la Banque Centrale de Tunisie contre le risque de cr édit, les op érations de refinancement s...
+--------------------------------------------------------------------------------
+
+CHUNK 160:
+Structure: ARTICLE
+Title: Article 17 
+Pages: [289]
+Words: 591
+Complete Section: Yes
+Preview: Article 17 bis- Actifs éligibles en cas de circonstances exceptionnelles Dans des circonstances exceptionnelles, la Banque Centrale de Tunisie peut admettre, en garantie des op érations de refinanceme...
+--------------------------------------------------------------------------------
+
+CHUNK 161:
+Structure: ANNEXE
+Title: ANNEXE I 
+Pages: [291]
+Words: 234
+Complete Section: Yes
+Preview: ANNEXE I A LA CIRCULAIRE AUX BANQUES N°2017-02 DU 10 mars 2017 « FORMULAIRE D’ADHESION AUX CONDITIONS DE MISE EN ŒUVRE DES OPERATIONS DE POLITIQUE MONETAIRE DE LA BANQUE CENTRALE DE TUNISIE » (À retou...
+--------------------------------------------------------------------------------
+
+CHUNK 162:
+Structure: ANNEXE_SPLIT
+Title: ANNEXE II 
+Pages: [292]
+Words: 2339
+Complete Section: Yes
+Preview: ANNEXE II A LA CIRCULAIRE AUX BANQUES N°2017-02 DU 10 mars 2017 « MANUEL DES OPÉRATIONS DE POLITIQUE MONÉTAIRE »
+SOMMAIRE PREMIÈRE PARTIE – OBJET, CHAMP D’APPLICATION ET DÉFINITIONS DEUXIEME PARTIE – ...
+--------------------------------------------------------------------------------
+
+CHUNK 163:
+Structure: PARTIE
+Title: DEUXIEME PARTIE
+Pages: [297]
+Words: 304
+Complete Section: Yes
+Preview: DEUXIEME PARTIE LES OPÉRATIONS, INSTRUMENTS ET PROCÉDURES DE POLITIQUE MONÉTAIRE Article 3 Caract éristiques indicatives des op érations de politique mon étaire de la Banque Centrale de Tunisie Le tab...
+--------------------------------------------------------------------------------
+
+CHUNK 164:
+Structure: TITRE
+Title: TITRE I
+Pages: [298]
+Words: 1744
+Complete Section: Yes
+Preview: TITRE I LES OPÉRATIONS A L’INITIATIVE DE LA BANQUE CENTRALE CHAPITRE 1 Vue d’ensemble des op érations à l’initiative de la Banque centrale Article 4 Vue d’ensemble des cat égories et instruments conce...
+--------------------------------------------------------------------------------
+
+CHUNK 165:
+Structure: CHAPITRE
+Title: CHAPITRE 3
+Pages: [301]
+Words: 759
+Complete Section: Yes
+Preview: CHAPITRE 3 Instruments destin és aux op érations à l’initiative de la Banque centrale Article 9 Les op érations de cession temporaire 1. Les op érations de cession temporaire sont un instrument destin...
+--------------------------------------------------------------------------------
+
+CHUNK 166:
+Structure: ARTICLE
+Title: Article 12 
+Pages: [303]
+Words: 940
+Complete Section: Yes
+Preview: Article 12 Les émissions de certificats de dette de la Banque Centrale de Tunisie 1. Les certificats de dette de la Banque Centrale de Tunisie repr ésentent une dette de la Banque centrale vis-à- vis ...
+--------------------------------------------------------------------------------
+
+CHUNK 167:
+Structure: CHAPITRE
+Title: CHAPITRE 1
+Pages: [305]
+Words: 740
+Complete Section: Yes
+Preview: CHAPITRE 1 La facilit é de pr êt marginal Article 17 Caract éristiques de la facilit é de pr êt marginal 1. Les contreparties peuvent utiliser la facilit é de pr êt marginal pour obtenir de la Banque ...
+--------------------------------------------------------------------------------
+
+CHUNK 168:
+Structure: CHAPITRE
+Title: CHAPITRE 2
+Pages: [306]
+Words: 482
+Complete Section: Yes
+Preview: CHAPITRE 2 La facilit é de d ép ôt Article 20 Caract éristiques de la facilit é de d ép ôt 1. Les contreparties peuvent utiliser la facilit é de d ép ôt pour effectuer des d ép ôts au jour le jour aup...
+--------------------------------------------------------------------------------
+
+CHUNK 169:
+Structure: SECTION
+Title: Section 1
+Pages: [307]
+Words: 1732
+Complete Section: Yes
+Preview: Section 1 Les proc édures d’appels d’offres Article 24 Vue d’ensemble des proc édures d’appels d’offres 1. Les proc édures d’appels d’offres sont r éalis ées en cinq étapes op érationnelles pr ésent é...
+--------------------------------------------------------------------------------
+
+CHUNK 170:
+Structure: ARTICLE
+Title: Article 32 
+Pages: [311]
+Words: 482
+Complete Section: Yes
+Preview: Article 32 Rejet d’offres 1. La Banque centrale rejette : a) Toutes les offres d’une contrepartie si le montant cumul é de ses soumissions d épasse la limite d’offre maximale établie par la Banque cen...
+--------------------------------------------------------------------------------
+
+CHUNK 171:
+Structure: ARTICLE
+Title: Article 35 
+Pages: [312]
+Words: 1178
+Complete Section: Yes
+Preview: Article 35 Adjudication lors de proc édures d’appels d’offres à taux multiples destin ées à retirer des liquidit és Dans une proc édure d’appel d’offres à taux multiples en dinars destin ée à retirer ...
+--------------------------------------------------------------------------------
+
+CHUNK 172:
+Structure: ARTICLE
+Title: Article 41 
+Pages: [314]
+Words: 1449
+Complete Section: Yes
+Preview: Article 41 Proc édures bilat érales ex écut ées par contact direct avec les contreparties 1. Les proc édures bilat érales pour les op érations de r églage fin et les op érations structurelles effectu ...
+--------------------------------------------------------------------------------
+
+CHUNK 173:
+Structure: ARTICLE
+Title: Article 54 
+Pages: [317]
+Words: 499
+Complete Section: Yes
+Preview: Article 54 Non subordination des droits Les cr éances bancaires remises à des fins de garantie ne peuvent conf érer de droits, sur le principal et/ou les int ér êts, qui sont subordonn és: a) aux droi...
+--------------------------------------------------------------------------------
+
+CHUNK 174:
+Structure: ARTICLE
+Title: Article 59 
+Pages: [318]
+Words: 560
+Complete Section: Yes
+Preview: Article 59 Mobilisation des actifs n égociables 1. Les actifs n égociables peuvent être mobilis és à travers les techniques de pr êt garanti ou d’accord de pension. 2. Dans le cadre de la convention o...
+--------------------------------------------------------------------------------
+
+CHUNK 175:
+Structure: ARTICLE_SPLIT
+Title: Article 63 
+Pages: [319]
+Words: 2066
+Complete Section: Yes
+Preview: Article 63 Méthode de mobilisation des actifs non n égociables 1. Les contreparties peuvent mobiliser les cr éances bancaires au moyen des actes de cession des cr éances bancaires. Ces actes de cessio...
+--------------------------------------------------------------------------------
+
+CHUNK 176:
+Structure: ANNEXE
+Title: ANNEXE II
+Pages: [325]
+Words: 439
+Complete Section: Yes
+Preview: ANNEXE II.1 AU MANUEL DES OPERATIONS DE POLITIQUE MONETAIRE ANNONCE DES OPÉRATIONS D’APPELS D’OFFRES L'annonce publique de l'appel d'offres comporte normalement les informations indicatives suivantes ...
+--------------------------------------------------------------------------------
+
+CHUNK 177:
+Structure: ANNEXE
+Title: ANNEXE II
+Pages: [326]
+Words: 310
+Complete Section: Yes
+Preview: ANNEXE II.2 AU MANUEL DES OPERATIONS DE POLITIQUE MONETAIRE ANNONCE DES RÉSULTATS DES APPELS D’OFFRES Le message d'annonce publique des r ésultats de l'appel d'offres comporte les informations indicat...
+--------------------------------------------------------------------------------
+
+CHUNK 178:
+Structure: ANNEXE
+Title: ANNEXE II
+Pages: [327]
+Words: 284
+Complete Section: Yes
+Preview: ANNEXE II.3 AU MANUEL DES OPERATIONS DE POLITIQUE MONETAIRE MODÈLE DE DÉCLARATION DE LA RÉSERVE OBLIGATOIRE Réserve Obligatoire du mois de............ Codes des rubriques de la Situation Mensuelle Com...
+--------------------------------------------------------------------------------
+
+CHUNK 179:
+Structure: ANNEXE
+Title: ANNEXE II
+Pages: [328]
+Words: 510
+Complete Section: Yes
+Preview: ANNEXE II.4 AU MANUEL DES OPERATIONS DE POLITIQUE MONETAIRE REGIME DES PENALITES ET SUSPENSION IMPOSEE PAR LA BANQUE CENTRALE CONFORMEMENT A LA QUATRIEME PARTIE I. CALCUL DES PENALITES EN CAS DE MANQU...
+--------------------------------------------------------------------------------
+
+CHUNK 180:
+Structure: ANNEXE
+Title: ANNEXE II
+Pages: [329]
+Words: 838
+Complete Section: Yes
+Preview: ANNEXE II.5 AU MANUEL DES OPERATIONS DE POLITIQUE MONETAIRE EXEMPLE D’OPÉRATIONS ET DE PROCÉDURES DE POLITIQUE MONÉTAIRE DE LA BANQUE CENTRALE DE TUNISIE Liste des exemples Exemple 1 — Op ération de c...
+--------------------------------------------------------------------------------
+
+CHUNK 181:
+Structure: ANNEXE
+Title: ANNEXE III 
+Pages: [332]
+Words: 1234
+Complete Section: Yes
+Preview: ANNEXE III A LA CIRCULAIRE RELATIVE A LA MISE EN ŒUVRE DE LA POLITIQUE MONETAIRE « CONVENTION DE MOBILISATION DES ACTIFS NEGOCIABLES » Entre 1) La Banque Centrale de Tunisie, établissement public nati...
+--------------------------------------------------------------------------------
+
+CHUNK 182:
+Structure: ARTICLE
+Title: Article 5 :
+Pages: [334]
+Words: 579
+Complete Section: Yes
+Preview: Article 5 : valorisation des titres Les titres de cr éances n égociables font l’objet d’une valorisation par la Banque centrale en faisant multiplier le nombre des titres par leur valeur estim ée par ...
+--------------------------------------------------------------------------------
+
+CHUNK 183:
+Structure: ARTICLE
+Title: Article 11 :
+Pages: [335]
+Words: 278
+Complete Section: Yes
+Preview: Article 11 : Substitution des titres La contrepartie peut demander à la Banque centrale de proc éder à la substitution de titres sans mouvement d’esp èces. En cas d’accord, la Banque centrale instruit...
+--------------------------------------------------------------------------------
+
+CHUNK 184:
+Structure: ANNEXE
+Title: ANNEXE IV 
+Pages: [336]
+Words: 1218
+Complete Section: Yes
+Preview: ANNEXE IV A LA CIRCULAIRE RELATIVE A LA MISE EN ŒUVRE DE LA POLITIQUE MONETAIRE « CONVENTION DE MOBILISATION DES CREANCES BANCAIRES » Entre La Banque Centrale de Tunisie, établissement public national...
+--------------------------------------------------------------------------------
+
+CHUNK 185:
+Structure: ARTICLE
+Title: Article 5 :
+Pages: [338]
+Words: 611
+Complete Section: Yes
+Preview: Article 5 : Mentions obligatoires de l’acte de cession L’acte de cession doit comporter les mentions vis ées par l’article 3 de la loi n°2000-92 sus-indiqu ée et doit se r éf érer au fichier de d écla...
+--------------------------------------------------------------------------------
+
+CHUNK 186:
+Structure: ARTICLE
+Title: Article 11 :
+Pages: [339]
+Words: 554
+Complete Section: Yes
+Preview: Article 11 : Régularisation des insuffisances En cas de constatation par la Banque centrale d’une insuffisance de la valeur des cr éances bancaires c éd ées, la contrepartie doit c éder, le m ême jour...
+--------------------------------------------------------------------------------
+
+CHUNK 187:
+Structure: ARTICLE
+Title: Article 16 :
+Pages: [340]
+Words: 217
+Complete Section: Yes
+Preview: Article 16 : Confidentialit é La Banque centrale et la contrepartie reconnaissent que la communication entre elles de toute information non publique doit être consid ér ée comme confidentielle, et ne ...
+--------------------------------------------------------------------------------
+
+CHUNK 188:
+Structure: ANNEXE
+Title: ANNEXE IV
+Pages: [341]
+Words: 225
+Complete Section: Yes
+Preview: ANNEXE IV.1 A LA CONVENTION DE MOBILISATION DES CREANCES BANCAIRES ACTE DE CESSION DES CREANCES BANCAIRES La contrepartie La Banque centrale Raison sociale : Si ège social : Code Banque : Le pr ésent ...
+--------------------------------------------------------------------------------
+
+CHUNK 189:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [342]
+Words: 1455
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°87-47 DU 23 DECEMBRE 19871 OBJET : Modalit és d'octroi, de contr ôle et de refinancement des cr édits. TITRE PREMIER DISPOSITIONS PRELIMINAIRES Article 1er : Les cr édits à co...
+--------------------------------------------------------------------------------
+
+CHUNK 190:
+Structure: ARTICLE_SPLIT
+Title: Article 10 :
+Pages: [344]
+Words: 3217
+Complete Section: Yes
+Preview: Article 10 : Escompte commercial sur l'étranger et mobilisation de cr éances n ées sur l'étranger. Ce cr édit est destin é à mobiliser les cr éances n ées sur l'étranger. Le montant de ce concours est...
+--------------------------------------------------------------------------------
+
+CHUNK 191:
+Structure: ARTICLE
+Title: Article 30 
+Pages: [348]
+Words: 1666
+Complete Section: Yes
+Preview: Article 30 abrog é par circulaire n°2007-25 du 19-11-2007 B) Cr édits à long terme : Article 31 (nouveau)7: Ces cr édits d'une dur ée sup érieure à 7 ans et inf érieure ou égale à 15 ans, sont consent...
+--------------------------------------------------------------------------------
+
+CHUNK 192:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [350]
+Words: 647
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 BAREME ET ECHEANCES DES CREDITS DE CULTURES SAISONNIERES ANNEXE I - PAGE 1 Sp éculation Unit é Bar ème d'intervention en dinars 1 Ech éance ou dur ée de la campa...
+--------------------------------------------------------------------------------
+
+CHUNK 193:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [353, 354]
+Words: 200
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE I - PAGE 2 4 - Ainsi modifi é par la note aux banques n°90-43 du 16.10.90. 9 – Abrog é et remplac é par la circulaire n°2021-07 du 01 septembre 2021. Sp é...
+--------------------------------------------------------------------------------
+
+CHUNK 194:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [353, 354]
+Words: 339
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE I - PAGE 3 Sp éculation Unit é Bar ème d'intervention en dinars Éch éance ou dur ée de la campagne h/ Embouche (5) * Embouche taurillons - achat taurillon...
+--------------------------------------------------------------------------------
+
+CHUNK 195:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87 + CIRCULAIRE N°87
+Pages: [355, 356, 357]
+Words: 190
+Complete Section: No
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE I (SUITE) ETAT DES REGIONS CLASSEES PAR ZONE* ZONE I ZONE II ZONE III I- BLE DUR, BLE TENDRE & LEGUMINEUSES 1-BEJA Béj à Teboursouk Nefza Amdoun Testour 2...
+--------------------------------------------------------------------------------
+
+CHUNK 196:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87 + CIRCULAIRE N°87
+Pages: [356, 357, 358]
+Words: 256
+Complete Section: No
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE I (SUITE) - PAGE 3 ZONE I ZONE II ZONE III 2-KASSERINE Foussana Jedliane Thala Sbiba 3-MAHDIA Néant 4-MONASTIR Néant 5-SFAX Néant 6-SIDI BOUZID Néant 7-SO...
+--------------------------------------------------------------------------------
+
+CHUNK 197:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [359]
+Words: 278
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 3 PRIX DE REFERENCE POUR LE CALCUL DES CREDITS FINANCANT LES PRODUITS AGRICOLES ET AGRO-ALIMENTAIRES (1) PERIODE DES CAMPAGNES ET ECHEANCE DES CREDITS DE ...
+--------------------------------------------------------------------------------
+
+CHUNK 198:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [360]
+Words: 226
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 4 LISTE DES OPERATIONS POUVANT ETRE FINANCEES PAR DES CREDITS A MOYEN TERME AGRICOLES (1) a) Acquisition du mat ériel agricole neuf : - Tracteurs pour tra...
+--------------------------------------------------------------------------------
+
+CHUNK 199:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87 + CIRCULAIRE N°87
+Pages: [361, 362]
+Words: 223
+Complete Section: No
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 4 (SUITE) e) Cr éation, équipement et am énagement de points d'eau : - Forage et grosses r éparations de points d'eaux existants. - Citernes - Equipement ...
+--------------------------------------------------------------------------------
+
+CHUNK 200:
+Structure: ANNEXE
+Title: ANNEXE N°4
+Pages: [363]
+Words: 164
+Complete Section: Yes
+Preview: ANNEXE N°4 TER (nouvelle)* à la circulaire n°87-47 relative aux modalit és d’octroi, de contr ôle et de refinancement des cr édits BAREME ET ECHEANCE DES CREDITS A MOYEN TERME FINANÇANT L’AQUACULTURE ...
+--------------------------------------------------------------------------------
+
+CHUNK 201:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [364]
+Words: 294
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 5 LISTE DES BIENS SUSCEPTIBLES D'ETRE FINANCES PAR LE CREDIT A MOYEN TERME A LA PRODUCTION SECTEURS ET BRANCHES ELIGIBLES INDUSTRIES DES MATERIAUX DE CONS...
+--------------------------------------------------------------------------------
+
+CHUNK 202:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [365]
+Words: 64
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 5 (SUITE) Services : - Bâtiment et travaux publics : . Etudes et supervision de chantiers . Génie civil . Installations diverses - Autres : . Etudes d'eng...
+--------------------------------------------------------------------------------
+
+CHUNK 203:
+Structure: ANNEXE_SPLIT
+Title: ANNEXE 6
+Pages: [366]
+Words: 2146
+Complete Section: Yes
+Preview: ANNEXE 6 A LA CIRCULAIRE AUX BANQUES N°87-47 DU 23 DECEMBRE 198713 LISTE DES ACTIVITES DE L'ARTISANAT ET DES ACTIVITES EXERCEES DANS LES PETITES ENTREPRISES ET LES PETITS METIERS I - LISTE DES ACTIVIT...
+--------------------------------------------------------------------------------
+
+CHUNK 204:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [374]
+Words: 408
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DÉCEMBRE 1987 ANNEXE 6 BIS* FICHE DE RENSEIGNEMENTS I - BANQUE :................................................................................ Code /_/_/.......................
+--------------------------------------------------------------------------------
+
+CHUNK 205:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [375]
+Words: 220
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 7 OBJET : Liste des op érations éligibles aux cr édits à long terme agricoles. I . CONSTRUCTION DE BATIMENTS SPECIALISES D'ELEVAGE * Etable, bergerie, ch ...
+--------------------------------------------------------------------------------
+
+CHUNK 206:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87
+Pages: [376]
+Words: 203
+Complete Section: Yes
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 7 (SUITE) III. CREATION DE POINTS D'EAU ET DE PERIMETRES IRRIGUES * Puits de surface * Forage * Captage de source * Citerne et bassin * Cr éation de p éri...
+--------------------------------------------------------------------------------
+
+CHUNK 207:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87 + CIRCULAIRE N°87
+Pages: [377, 378, 379]
+Words: 139
+Complete Section: No
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 8 - PAGE 1 DOSSIER DE CONTROLE A POSTERIORI DE CREDIT A COURT TERME I - DONNEES SUR LE BENEFICIAIRE NOM OU RAISON SOCIALE /_/_/_/_/_/_/_/ CODE RISQUE OU N...
+--------------------------------------------------------------------------------
+
+CHUNK 208:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87 + CIRCULAIRE N°87
+Pages: [377, 378, 379, 380]
+Words: 153
+Complete Section: No
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 8 - PAGE 3 V- APPRECIATIONS GENERALES (ANALYSE DE LA SITUATION FINANCIERE ET DE LA TRESORERIE. EVOLUTION DU CHIFFRE D'AFFAIRES ET PERSPECTIVES D'AVENIR. E...
+--------------------------------------------------------------------------------
+
+CHUNK 209:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°87 + CIRCULAIRE N°87
+Pages: [381, 382]
+Words: 238
+Complete Section: No
+Preview: CIRCULAIRE N°87-47 DU 23 DECEMBRE 1987 ANNEXE 9 - PAGE 2 III - RESUME DES DEUX DERNIERS BILANS ET DE LA SITUATION RECENTE* IV - SCHEMA DE FINANCEMENT DU PROJET (EN MILLIERSDE DINARS) INVESTISSEMENT MO...
+--------------------------------------------------------------------------------
+
+CHUNK 210:
+Structure: OBJET
+Title: Objet :
+Pages: [383]
+Words: 447
+Complete Section: Yes
+Preview: Objet : Traitement de l’endettement des ol éifacteurs et des exportateurs d’huile d’olive. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du 25 avril 2016 portant fixation du stat...
+--------------------------------------------------------------------------------
+
+CHUNK 211:
+Structure: ARTICLE
+Title: Article 3
+Pages: [384]
+Words: 169
+Complete Section: Yes
+Preview: Article 3- Les banques et les établissements financiers doivent, lors du calcul des provisions collectives, affecter les secteurs des ol éifacteurs et de l’exportation d’huile d’olive à des cat égorie...
+--------------------------------------------------------------------------------
+
+CHUNK 212:
+Structure: ANNEXE
+Title: Annexe 
+Pages: [385]
+Words: 171
+Complete Section: Yes
+Preview: Annexe à la circulaire aux banques et établissements de cr édit n°2019-12 du 18 d écembre 2019 relative au traitement de l’endettement des ol éifacteurs et exportateurs d’huile d’olive. Liste au titre...
+--------------------------------------------------------------------------------
+
+CHUNK 213:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE N°2000
+Pages: [386]
+Words: 359
+Complete Section: Yes
+Preview: CIRCULAIRE N°2000-11 DU 24 JUILLET 2000 OBJET : Am élioration du taux de couverture des activit és agricoles financ ées par des cr édits bancaires par un syst ème d'assurance. Article 1ER : Le finance...
+--------------------------------------------------------------------------------
+
+CHUNK 214:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [388]
+Words: 607
+Complete Section: Yes
+Preview: CIRCULAIRE AUX INTERMEDIAIRES AGREES N°99-09 DU 24 MAI 1999 OBJET : Octroi par les Banques Interm édiaires Agr éés r ésidentes de cr édits à court terme en dinars au profit des entreprises non-r éside...
+--------------------------------------------------------------------------------
+
+CHUNK 215:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [389]
+Words: 71
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULAIRE N°99-09 DU 24 MAI 1999 BANQUE :......................................... LISTE DES CREDITS A COURT TERME EN DINARS ACCORDES AU PROFIT DES ENTREPRISES NON-RESIDENTES INSTALLEES E...
+--------------------------------------------------------------------------------
+
+CHUNK 216:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [390]
+Words: 1084
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2005-09 DU 14 JUILLET 2005 Objet : Organisation du march é mon étaire. TITRE PREMIER DISPOSITIONS GENERALES Le titre 1er est abrog é par la circulaire n°2018-...
+--------------------------------------------------------------------------------
+
+CHUNK 217:
+Structure: ARTICLE
+Title: Article 8 
+Pages: [392]
+Words: 481
+Complete Section: Yes
+Preview: Article 8 bis2 - Les certificats de d ép ôt et les billets de tr ésorerie doivent être codifi és et admis aux op érations du d épositaire central des titres vis é par l’arr êt é du ministre des financ...
+--------------------------------------------------------------------------------
+
+CHUNK 218:
+Structure: ANNEXE
+Title: ANNEXE N°1
+Pages: [393]
+Words: 328
+Complete Section: Yes
+Preview: ANNEXE N°1 A LA CIRCULAIRE N°2005-09 DU 14 JUILLET 2005 ETAT DES EFFETS COMMERCIAUX SUR LA TUNISIE SERVANT DE SUPPORT AU BILLET GLOBAL DE MOBILISATION BANQUE PRESENTATRICE : ……………………………………………………………………...
+--------------------------------------------------------------------------------
+
+CHUNK 219:
+Structure: ANNEXE
+Title: ANNEXE N°4
+Pages: [396]
+Words: 23
+Complete Section: Yes
+Preview: ANNEXE N°4 A LA CIRCULAIRE N°2005-09 DU 14 JUILLET 2005 Cette Annexe est abrog ée par la circulaire n°2018-12 du 28 novembre 2018
+--------------------------------------------------------------------------------
+
+CHUNK 220:
+Structure: ANNEXE
+Title: ANNEXE N°52
+Pages: [397]
+Words: 886
+Complete Section: Yes
+Preview: ANNEXE N°52 A LA CIRCULAIRE N°2005-09 DU 14 JUILLET 2005 Dénomination de la Banque : BANQUE CENTRALE DE TUNISIE Direction des Op érations SOUMISSION AUX OPERATIONS DE SWAP DE CHANGE - Sens de l’op éra...
+--------------------------------------------------------------------------------
+
+CHUNK 221:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [399]
+Words: 732
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°91-21 DU 22 NOVEMBRE 1991 OBJET : Conditions et modalit és d'émission et de remboursement des bons du Tr ésor. TITRE PREMIER CARACTERISTIQUES DES BONS DU TRESOR Article 1er : ...
+--------------------------------------------------------------------------------
+
+CHUNK 222:
+Structure: TITRE
+Title: TITRE IV
+Pages: [400]
+Words: 271
+Complete Section: Yes
+Preview: TITRE IV INFORMATION DE LA BANQUE CENTRALE DE TUNISIE ET DES BANQUES Article 10 : A l'issue de chaque d épouillement des soumissions, la Banque Centrale de Tunisie communique aux participants à l'adju...
+--------------------------------------------------------------------------------
+
+CHUNK 223:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [401]
+Words: 394
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULAIRE AUX BANQUES N°91-21 DU 22 NOVEMBRE 1991 SOUMISSION A L'ADJUDICATION DE BONS DU TRESOR EN COMPTE COURANT BANQUE SOUMISSIONNAIRE : ...................................................
+--------------------------------------------------------------------------------
+
+CHUNK 224:
+Structure: DECRET
+Title: DECRET N°2006
+Pages: [283, 403]
+Words: 610
+Complete Section: Yes
+Preview: DECRET N°2006-1208 DU 24 AVRIL 2006, FIXANT LES CONDITIONS ET LES MODALITES D’EMISSION ET DE REMBOURSEMENT DES BONS DU TRESOR Article 1er : l’Etat émet des Bons Assimilables appel és Bons du Tr ésor à...
+--------------------------------------------------------------------------------
+
+CHUNK 225:
+Structure: LOI
+Title: LOI N°2012
+Pages: [283, 404]
+Words: 748
+Complete Section: Yes
+Preview: LOI N°2012-24 DU 24 DECEMBRE 2012, RELATIVE A LA CONVENTION DE PENSION LIVREE9. Au nom du peuple, L’assembl ée nationale constituante ayant adopt é, Le Pr ésident de la République promulgue la loi don...
+--------------------------------------------------------------------------------
+
+CHUNK 226:
+Structure: ARTICLE
+Title: Article 6 :
+Pages: [405]
+Words: 756
+Complete Section: Yes
+Preview: Article 6 : Le cessionnaire jouit, pendant toute la p ériode de validit é de la convention, des droits aff érents à la propri ét é des valeurs mobili ères et des effets de commerce objet de la convent...
+--------------------------------------------------------------------------------
+
+CHUNK 227:
+Structure: DECRET
+Title: Décret n°2012
+Pages: [406]
+Words: 1254
+Complete Section: Yes
+Preview: Décret n°2012-3416 du 31 d écembre 2012, fixant les conditions et les modalit és de livraison des valeurs mobili ères et des effets de commerce dans le cadre des op érations de pension livr ée Le chef...
+--------------------------------------------------------------------------------
+
+CHUNK 228:
+Structure: ANNEXE_SPLIT
+Title: ANNEXE N°1
+Pages: [408]
+Words: 2274
+Complete Section: Yes
+Preview: ANNEXE N°1 A LA CIRCULAIRE N°2013-05 DU 30 AVRIL 2013 ETAT RECAPITULATIF DES CONVENTIONS DE PENSION LIVREE CONCLUES - Banque / Organisme financier habilit é : - Journ ée du : Cédant Cessionnaire Date ...
+--------------------------------------------------------------------------------
+
+CHUNK 229:
+Structure: ARTICLE
+Title: Article 8 :
+Pages: [412]
+Words: 815
+Complete Section: Yes
+Preview: Article 8 : Les pensions livr ées sont conclues par tous moyens et prennent effet entre les parties d ès l’échange de leur consentement. A cet effet, les parties s’autorisent mutuellement à proc éder ...
+--------------------------------------------------------------------------------
+
+CHUNK 230:
+Structure: ARTICLE
+Title: Article 17 :
+Pages: [413]
+Words: 1652
+Complete Section: Yes
+Preview: Article 17 : En cas de livraison avec retard des titres mis en pension, la pension livr ée consid ér ée sera maintenue sans changement, y compris pour ce qui concerne les prix de cession et de r étroc...
+--------------------------------------------------------------------------------
+
+CHUNK 231:
+Structure: ARTICLE
+Title: Article 27 :
+Pages: [415]
+Words: 951
+Complete Section: Yes
+Preview: Article 27 : Lors de la survenance d'une circonstance nouvelle vis ée au premier paragraphe de l'article 26, toute partie en prenant connaissance la notifiera dans les meilleurs d élais à l'autre part...
+--------------------------------------------------------------------------------
+
+CHUNK 232:
+Structure: ARTICLE
+Title: Article 35 :
+Pages: [416]
+Words: 626
+Complete Section: Yes
+Preview: Article 35 : Lors de la survenance d'une circonstance nouvelle vis ée au premier paragraphe de l'article 26 et dans l'hypoth èse o ù seules certaines des conventions de pension livr ée en cours seraie...
+--------------------------------------------------------------------------------
+
+CHUNK 233:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [417]
+Words: 764
+Complete Section: Yes
+Preview: ANNEXE A L’ACCORD-CADRE-TYPE RELATIF A LA CONVENTION DE PENSION LIVREE La Gestion des marges 1. Détermination de l’écart de valeur d’une convention de pension livr ée avec marge et du solde net de cha...
+--------------------------------------------------------------------------------
+
+CHUNK 234:
+Structure: ANNEXE
+Title: ANNEXE N°2
+Pages: [418]
+Words: 267
+Complete Section: Yes
+Preview: ANNEXE N°2 A LA CIRCULAIRE N°2013-05 DU 30 AVRIL 2013 Tableau r écapitulatif du Solde de r ésiliation RBpc > 0 RBpc < 0 Pas de marge constitu ée SR = RBpc SR d û par la partie d éfaillante ou affect é...
+--------------------------------------------------------------------------------
+
+CHUNK 235:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [419]
+Words: 1122
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°2018-12 DU 28 NOVEMBRE 2018 Objet : March é interbancaire en dinar Vu la loi n°2016-35 du 25 avril 2016 portant fixation du statut de la Banque Centrale de Tunisie, Vu la loi ...
+--------------------------------------------------------------------------------
+
+CHUNK 236:
+Structure: ARTICLE
+Title: Article 7 :
+Pages: [421]
+Words: 623
+Complete Section: Yes
+Preview: Article 7 : Négociation des transactions interbancaires Quelle que soit la forme que rev êt l’échange de liquidit é en dinar sur le march é interbancaire, les banques sont tenues d’utiliser un syst èm...
+--------------------------------------------------------------------------------
+
+CHUNK 237:
+Structure: ARTICLE
+Title: Article 11 :
+Pages: [422]
+Words: 974
+Complete Section: Yes
+Preview: Article 11 : Méthodologie de calcul du taux d’int ér êt moyen au jour le jour (TM) Le taux d’int ér êt moyen au jour le jour (TM) est calcul é en tant que moyenne pond ér ée des taux pr êteurs au jour...
+--------------------------------------------------------------------------------
+
+CHUNK 238:
+Structure: ANNEXE
+Title: ANNEXE N°1 + ANNEXE N°2
+Pages: [424, 425]
+Words: 178
+Complete Section: No
+Preview: ANNEXE N°1 A LA CIRCULAIRE N°2018-12 DU 28 NOVEMBRE 2018 CONDITIONS D’OFFRE ET DE DEMANDE DE LIQUIDITE EN BLANC 10 SUR LE MARCHE INTERBANCAIRE EN DINAR (Affichage en continu) DATE ET HEURE: BANQUE : (...
+--------------------------------------------------------------------------------
+
+CHUNK 239:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [283, 426]
+Words: 354
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N °2020-04 DU 24 FEVRIER 2020 Objet : Fixation des conditions et modalit és de d éblocage des montants relatifs au b én éfice de l'avantage de p...
+--------------------------------------------------------------------------------
+
+CHUNK 240:
+Structure: ARTICLE
+Title: Article 2
+Pages: [427]
+Words: 435
+Complete Section: Yes
+Preview: Article 2- Les ressources du compte cit é à l’article premier sont employ ées pour le paiement des montants d écoulant de l’avantage de prise en charge par l'Etat de la diff érence entre le taux d’int...
+--------------------------------------------------------------------------------
+
+CHUNK 241:
+Structure: ARTICLE
+Title: Article 6
+Pages: [428]
+Words: 696
+Complete Section: Yes
+Preview: Article 6- Apr ès obtention par l’entreprise de la d écision d’octroi de l’avantage, la banque ou l’établissement financier pr ésente un dossier à la Banque Centrale de Tunisie comprenant obligatoirem...
+--------------------------------------------------------------------------------
+
+CHUNK 242:
+Structure: ANNEXE
+Title: Annexe n°1 + Annexe n°2
+Pages: [264, 265, 272, 274, 430, 431]
+Words: 239
+Complete Section: No
+Preview: Annexe n°1 à la circulaire aux banques et aux établissements financiers n°2020- 04 du 24 f évrier 2020 Relev é d étaill é des montants d écoulant de la prise en charge par l'Etat de la diff érence ent...
+--------------------------------------------------------------------------------
+
+CHUNK 243:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [432]
+Words: 294
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°2023- 04 OBJET : Révision des bar èmes et éch éances des cr édits de l’arboriculture et des cultures mara îch ères. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n...
+--------------------------------------------------------------------------------
+
+CHUNK 244:
+Structure: PARTIE
+Title: SEPTIEME PARTIE
+Pages: [1]
+Words: 328
+Complete Section: Yes
+Preview: SEPTIEME PARTIE NORMES PRUDENTIELLES
+- CIRCULAIRE AUX BANQUES N°91-24 DU 17 DECEMBRE 1991, RELATIVE A LA DIVISION, COUVERTURE DES RISQUES ET SUIVI DES ENGAGEMENTS - CIRCULAIRE AUX ETABLISSEMENTS DU CR...
+--------------------------------------------------------------------------------
+
+CHUNK 245:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [436]
+Words: 1357
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°91-24 DU 17 DECEMBRE 1991 RELATIVE A LA DIVISION, COUVERTURE DES RISQUES ET SUIVI DES ENGAGEMENTS 1 Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi ...
+--------------------------------------------------------------------------------
+
+CHUNK 246:
+Structure: CHAPITRE
+Title: CHAPITRE 3
+Pages: [438]
+Words: 826
+Complete Section: Yes
+Preview: CHAPITRE 3 COMPTABILISATION DES INTERETS (OU PRODUITS) Article 9 : Pour les actifs des classes 2, 3 et 4 d écrites à l'article 8 pr éc édent, tout établissement de cr édit ne doit incorporer dans ses ...
+--------------------------------------------------------------------------------
+
+CHUNK 247:
+Structure: ARTICLE
+Title: Article 10 
+Pages: [439]
+Words: 1025
+Complete Section: Yes
+Preview: Article 10 quinquies (nouveau)1: Les établissements de cr édit doivent adresser à la Banque Centrale de Tunisie une d éclaration annuelle relative à la couverture des actifs ayant une anciennet é dans...
+--------------------------------------------------------------------------------
+
+CHUNK 248:
+Structure: ANNEXE
+Title: Annexe I  + ANNEXE II 
+Pages: [441, 442]
+Words: 151
+Complete Section: No
+Preview: Annexe I à la circulaire n°91-24 du 17 d écembre 1991 SUPPRIMEE PAR CIRCULAIRE N°2014-14 DU 10 NOVEMBRE 2014
+
+ANNEXE II A LA CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°91-24 RELATIVE A LA GRILLE DES SA...
+--------------------------------------------------------------------------------
+
+CHUNK 249:
+Structure: ANNEXE
+Title: Annexe III 
+Pages: [443]
+Words: 913
+Complete Section: Yes
+Preview: Annexe III à la circulaire n°91-24 du 17 d écembre 1991 Méthodologie de d étermination des provisions collectives (ABROGEE ET REMPLACEE PAR LA CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N...
+--------------------------------------------------------------------------------
+
+CHUNK 250:
+Structure: ANNEXE
+Title: Annexe IV 
+Pages: [447]
+Words: 161
+Complete Section: Yes
+Preview: Annexe IV à la circulaire aux établissements de cr édit n°91-24 Relative à la couverture des actifs ayant une anciennet é dans la classe 4 sup érieure ou égale à 3 ans (en mille dinars sauf indication...
+--------------------------------------------------------------------------------
+
+CHUNK 251:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [448]
+Words: 724
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ÉTABLISSEMENTS DE CRÉDIT N°2006-19 DU 28 NOVEMBRE 2006 Objet: Contr ôle Interne. Vu la loi n°58-90 du 19 septembre 1958 portant cr éation et organisation de la Banque Centrale de Tunisi...
+--------------------------------------------------------------------------------
+
+CHUNK 252:
+Structure: ARTICLE
+Title: Article 4 :
+Pages: [449]
+Words: 1697
+Complete Section: Yes
+Preview: Article 4 : La conception du syst ème de contr ôle interne incombe à l’organe de direction (direction g én érale ou directoire) qui doit à cet effet : - identifier l’ensemble des sources de risques in...
+--------------------------------------------------------------------------------
+
+CHUNK 253:
+Structure: ARTICLE
+Title: Article 14 :
+Pages: [451]
+Words: 871
+Complete Section: Yes
+Preview: Article 14 : Les établissements de cr édit et les banques non-r ésidentes d éterminent le niveau de s écurit é informatique jug é ad équat par rapport aux normes technologiques et aux exigences de leu...
+--------------------------------------------------------------------------------
+
+CHUNK 254:
+Structure: ARTICLE
+Title: Article 211 :
+Pages: [452]
+Words: 823
+Complete Section: Yes
+Preview: Article 211 : Les établissements de cr édit et les banques non-r ésidentes d éfinissent des proc édures d’information au moins trimestriellement de l’organe de direction et, le cas éch éant, des struc...
+--------------------------------------------------------------------------------
+
+CHUNK 255:
+Structure: ARTICLE
+Title: Article 27 :
+Pages: [453]
+Words: 896
+Complete Section: Yes
+Preview: Article 27 : Les proc édures de d écision de pr êt ou d’engagement ainsi que les proc édures de d él égation aux organes habilit és à engager l’établissement, doivent être clairement d éfinies, formal...
+--------------------------------------------------------------------------------
+
+CHUNK 256:
+Structure: ARTICLE
+Title: Article 34 :
+Pages: [454]
+Words: 895
+Complete Section: Yes
+Preview: Article 34 : Les établissements de cr édit et les banques non-r ésidentes doivent proc éder de fa çon r éguli ère à des simulations de crises en vue d’évaluer les risques qu’elles encourent en cas de ...
+--------------------------------------------------------------------------------
+
+CHUNK 257:
+Structure: CHAPITRE
+Title: CHAPITRE 5
+Pages: [455]
+Words: 1972
+Complete Section: Yes
+Preview: CHAPITRE 5 LE RISQUE DE RÈGLEMENT Article 42 : Le risque de r èglement s’entend comme le risque de survenance, au cours du d élai n écessaire pour le d énouement de l’op ération de r èglement, d’une d...
+--------------------------------------------------------------------------------
+
+CHUNK 258:
+Structure: CIRCULAIRE_SPLIT
+Title: CIRCULAIRE AUX 
+Pages: [435, 458]
+Words: 2530
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2006-06 DU 24 JUILLET 2006 ABROGEE PAR LA CIRCULAIRE N°2021-05 DU 19 AOUT 2021 RELATIVE AU CADRE DE GOUVERNANCE DES BANQUES ET DES ETABLISSEMENTS FINANCIERS
+N...
+--------------------------------------------------------------------------------
+
+CHUNK 259:
+Structure: ANNEXE_SPLIT
+Title: ANNEXE 1
+Pages: [462]
+Words: 2499
+Complete Section: Yes
+Preview: ANNEXE 1 A LA NOTE AUX BANQUES ET ETABLISSEMENTS FINANCIERS N°93-23 DU 30 JUILLET 1993 TERMES DE REFERENCES POUR L'AUDIT DES COMPTES PROCEDURES ORGANISATIONNELLES ADMINISTRATIVES ET COMPTABLES 1°) Org...
+--------------------------------------------------------------------------------
+
+CHUNK 260:
+Structure: ANNEXE_SPLIT
+Title: ANNEXE 2
+Pages: [466]
+Words: 2684
+Complete Section: Yes
+Preview: ANNEXE 2 A LA NOTE AUX BANQUES ET ETABLISSEMENTS FINANCIERS N°93-23 DU 30-07-93 TERMES DE REFERENCES POUR L'AUDIT DES COMPTES EVALUATION DES ACTIFS La Banque Centrale de Tunisie exige des banques une ...
+--------------------------------------------------------------------------------
+
+CHUNK 261:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [471]
+Words: 847
+Complete Section: Yes
+Preview: CIRCULAIRE AUX INTERMEDIAIRES AGREES N°97-08 DU 9 MAI 1997 OBJET : Règles relatives à la surveillance des positions de change. TITRE PREMIER DEFINITION ET DETERMINATION DE LA POSITION DE CHANGE Articl...
+--------------------------------------------------------------------------------
+
+CHUNK 262:
+Structure: ANNEXE
+Title: ANNEXE 1 + ANNEXE 2
+Pages: [473, 474]
+Words: 254
+Complete Section: No
+Preview: ANNEXE 1 À LA CIRCULAIRE AUX INTERMÉDIAIRES AGRÉÉS N°97-08 DU 09 MAI 1997 FICHE RECAPITULATIVE DES POSITIONS DE CHANGE PAR DEVISE Interm édiaire Agr éé : …………………………………………………. Journ ée du : ……………………………...
+--------------------------------------------------------------------------------
+
+CHUNK 263:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [435, 475]
+Words: 30
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2011-06 DU 20 MAI 2011 ABROGEE PAR LA CIRCULAIRE N°2021-05 DU 19 AOUT 20212021 relative au cadre de gouvernance des banques et des établissements financiers
+--------------------------------------------------------------------------------
+
+CHUNK 264:
+Structure: OBJET
+Title: Objet :
+Pages: [476]
+Words: 480
+Complete Section: Yes
+Preview: Objet : Cadre de gouvernance des banques et des établissements financiers. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n° 94-117 du 14 novembre 1994 portant r éorganisation du march é fi...
+--------------------------------------------------------------------------------
+
+CHUNK 265:
+Structure: ARTICLE
+Title: Article 2 :
+Pages: [477, 584]
+Words: 1250
+Complete Section: Yes
+Preview: Article 2 : La pr ésente circulaire s’applique aux banques et aux établissements financiers au sens de la loi n°2016-48, à l’exception des établissements de paiement. Ci-apr ès d ésign és par « les ét...
+--------------------------------------------------------------------------------
+
+CHUNK 266:
+Structure: SECTION
+Title: Section II
+Pages: [479]
+Words: 579
+Complete Section: Yes
+Preview: Section II : Des responsabilit és sp écifiques Article 6 : L’organe d’administration arr ête la strat égie de d éveloppement et les politiques d’intervention de l’établissement. Il est appel é, à cet ...
+--------------------------------------------------------------------------------
+
+CHUNK 267:
+Structure: ARTICLE
+Title: Article 10 :
+Pages: [480]
+Words: 1754
+Complete Section: Yes
+Preview: Article 10 : L’organe d’administration arr ête une politique de r émun ération et de nomination de ses membres, des comit és, du comit é de contr ôle de conformit é des normes bancaires islamiques, de...
+--------------------------------------------------------------------------------
+
+CHUNK 268:
+Structure: ARTICLE
+Title: Article 21 :
+Pages: [483]
+Words: 568
+Complete Section: Yes
+Preview: Article 21 : Le respect par l’administrateur ind épendant des crit ères pr évus à l’article 20 de la pr ésente circulaire est r éexamin é annuellement par le comit é de nomination et de r émun ération...
+--------------------------------------------------------------------------------
+
+CHUNK 269:
+Structure: ARTICLE
+Title: Article 27 :
+Pages: [484]
+Words: 944
+Complete Section: Yes
+Preview: Article 27 : Tous les membres de l’organe d’administration doivent : - participer d’une mani ère assidue aux r éunions de l’organe d’administration selon les conditions qui doivent être arr êt ées dan...
+--------------------------------------------------------------------------------
+
+CHUNK 270:
+Structure: ARTICLE
+Title: Article 37 :
+Pages: [486]
+Words: 660
+Complete Section: Yes
+Preview: Article 37 : Tout comit é se r éunit sur convocation de son pr ésident au moins chaque trimestre et chaque fois qu’il le juge utile et au moins tous les deux mois pour les établissements soumis aux di...
+--------------------------------------------------------------------------------
+
+CHUNK 271:
+Structure: ARTICLE
+Title: Article 39 :
+Pages: [487]
+Words: 1228
+Complete Section: Yes
+Preview: Article 39 : Le pr ésident du comit é d’audit doit disposer d’une qualification acad émique et professionnelle et d’une expertise solide dans l’un des domaines de la finance, de la comptabilit é et de...
+--------------------------------------------------------------------------------
+
+CHUNK 272:
+Structure: ARTICLE
+Title: Article 46 :
+Pages: [489]
+Words: 1107
+Complete Section: Yes
+Preview: Article 46 : L’organe de direction doit imm édiatement alerter l’organe d’administration de tout év ènement pouvant : - impacter la situation financi ère et le profil de risque de l’établissement, - p...
+--------------------------------------------------------------------------------
+
+CHUNK 273:
+Structure: ARTICLE
+Title: Article 53 :
+Pages: [491]
+Words: 594
+Complete Section: Yes
+Preview: Article 53 : L’organe d’administration de l’entit é consolidante doit, dans le cadre de l’exercice de ses responsabilit és : - établir un cadre de gouvernance pour chaque filiale, en coh érence avec l...
+--------------------------------------------------------------------------------
+
+CHUNK 274:
+Structure: ARTICLE
+Title: Article 57 :
+Pages: [492]
+Words: 539
+Complete Section: Yes
+Preview: Article 57 : Le comit é de contr ôle de conformit é des normes bancaires islamiques se r éunit sur convocation de son pr ésident, au moins deux fois par an, et chaque fois qu’il le juge utile. Le comi...
+--------------------------------------------------------------------------------
+
+CHUNK 275:
+Structure: CHAPITRE
+Title: CHAPITRE 4
+Pages: [493]
+Words: 650
+Complete Section: Yes
+Preview: CHAPITRE 4 : DES OBLIGATIONS DE L’ORGANE DE DIRECTION Article 60 : Afin de permettre au comit é de contr ôle de conformit é des normes bancaires islamiques d’accomplir ses missions, l’organe de direct...
+--------------------------------------------------------------------------------
+
+CHUNK 276:
+Structure: ARTICLE
+Title: Article 63 :
+Pages: [494]
+Words: 778
+Complete Section: Yes
+Preview: Article 63 : La Banque Centrale de Tunisie peut convoquer, pour entretien et demande d’éclaircissements, toute personne d ésign ée conform ément aux dispositions de l’article 55 de la loi n°2016-48. A...
+--------------------------------------------------------------------------------
+
+CHUNK 277:
+Structure: ANNEXE
+Title: Annexe 1
+Pages: [496]
+Words: 165
+Complete Section: Yes
+Preview: Annexe 1 à la circulaire n°2021-05 du 19 ao ût 2021 CURRICULUM VITAE INFORMATIONS GENERALES Nom de famille : Pr énom : Date et lieu de naissance : Nationalit é : N° pi èce d’identit é : pays/ date d’é...
+--------------------------------------------------------------------------------
+
+CHUNK 278:
+Structure: ANNEXE
+Title: Annexe 2
+Pages: [498]
+Words: 350
+Complete Section: Yes
+Preview: Annexe 2 à la circulaire n°2021-05. Du 19 ao ût 2021 DECLARATION SUR L’HONNEUR Je soussign é(e) Mr/Mme/Mlle…. ………………. ……………….titulaire de la CNI ou passeport n° : ………………..…………… d élivr ée à……………………………...
+--------------------------------------------------------------------------------
+
+CHUNK 279:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [5, 435, 499, 571]
+Words: 667
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°2014-14 DU 10 NOVEMBRE 2014 RELATIVE AU RATIO DE LIQUIDITE Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°58-90 du 19 septembre 1958 portant cr éation et organisa...
+--------------------------------------------------------------------------------
+
+CHUNK 280:
+Structure: ARTICLE
+Title: Article 6:
+Pages: [500]
+Words: 1495
+Complete Section: Yes
+Preview: Article 6: Le total des actifs liquides doit être calcul é conform ément à la note technique figurant à l’annexe III de la pr ésente circulaire apr ès application des pond érations vis ées aux article...
+--------------------------------------------------------------------------------
+
+CHUNK 281:
+Structure: ANNEXE
+Title: Annexe I 
+Pages: [503, 504, 505, 506]
+Words: 256
+Complete Section: Yes
+Preview: Annexe I à la circulaire aux banques n°2014-14 Banque : El éments de calcul du ratio de liquidit é du mois de …….. Actifs liquides (En mille dinars) Libell és Montant non pond ér é Quotit é de Pond ér...
+--------------------------------------------------------------------------------
+
+CHUNK 282:
+Structure: ANNEXE
+Title: Annexe I 
+Pages: [503, 504, 505, 506]
+Words: 322
+Complete Section: Yes
+Preview: Annexe I à la circulaire aux banques n°2014-14 Banque : El éments de calcul du ratio de liquidit é du mois de …….. Sorties de tr ésorerie (En mille dinars) Libell és Montant non pond ér é Quotit é de ...
+--------------------------------------------------------------------------------
+
+CHUNK 283:
+Structure: ANNEXE
+Title: Annexe I 
+Pages: [503, 504, 505, 506]
+Words: 366
+Complete Section: Yes
+Preview: Annexe I à la circulaire aux banques n°2014-14 Banque : El éments de calcul du ratio de liquidit é du mois de …….. Sorties de tr ésorerie (suite) (En mille dinars) Libell és Montant non pond ér é Quot...
+--------------------------------------------------------------------------------
+
+CHUNK 284:
+Structure: ANNEXE
+Title: Annexe I 
+Pages: [503, 504, 505, 506]
+Words: 356
+Complete Section: Yes
+Preview: Annexe I à la circulaire aux banques n°2014-14 Banque : El éments de calcul du ratio de liquidit é du mois de …….. Entr ées de tr ésorerie (En mille dinars) Libell és Montant non pond ér é Quotit é de...
+--------------------------------------------------------------------------------
+
+CHUNK 285:
+Structure: ANNEXE
+Title: Annexe II  + Annexe III 
+Pages: [507, 508]
+Words: 205
+Complete Section: No
+Preview: Annexe II à la circulaire aux banques n°2014-14 Banque : Etat du ratio de liquidit é du mois de …….. (En mille dinars sauf indication contraire) Libell és Montant Total des actifs liquides (A) = (A1) ...
+--------------------------------------------------------------------------------
+
+CHUNK 286:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [509]
+Words: 550
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2015-12 Objet : mesures exceptionnelles pour le soutien des entreprises op érant dans le secteur touristique. (NB / Les dispositions de cette circulaire demeu...
+--------------------------------------------------------------------------------
+
+CHUNK 287:
+Structure: ANNEXE
+Title: Annexe 
+Pages: [510]
+Words: 163
+Complete Section: Yes
+Preview: Annexe à la circulaire aux établissements de cr édit N°2015-12 du 22 juillet 2015 relative aux mesures exceptionnelles pour le soutien des entreprises op érant dans le secteur touristique. Au titre du...
+--------------------------------------------------------------------------------
+
+CHUNK 288:
+Structure: CIRCULAIRE_SPLIT
+Title: CIRCULAIRE AUX 
+Pages: [435, 511]
+Words: 3204
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N°2016-06 RELATIVE AU SYSTEME DE NOTATION DES CONTREPARTIES Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du 25 avril 2016...
+--------------------------------------------------------------------------------
+
+CHUNK 289:
+Structure: CIRCULAIRE_SPLIT
+Title: CIRCULAIRE AUX 
+Pages: [435, 515]
+Words: 3839
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N°2018-06 DU 05 JUIN 2018 Objet : Normes d'ad équation des fonds propres. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du...
+--------------------------------------------------------------------------------
+
+CHUNK 290:
+Structure: ARTICLE
+Title: Article 19 
+Pages: [523]
+Words: 1546
+Complete Section: Yes
+Preview: Article 19 L’exigence de fonds propres au titre des risques de march é doit couvrir les risques suivants: - Les risques de march é du portefeuille de n égociation qui comprennent : ▪ Le risque sur tit...
+--------------------------------------------------------------------------------
+
+CHUNK 291:
+Structure: ARTICLE
+Title: Article 30 
+Pages: [526]
+Words: 1684
+Complete Section: Yes
+Preview: Article 30 Les établissements assujettis mettent en place des syst èmes et des contr ôles leur permettant de disposer d'évaluations prudentes et fiables. Ces syst èmes et contr ôles comprennent au min...
+--------------------------------------------------------------------------------
+
+CHUNK 292:
+Structure: ARTICLE
+Title: Article 38 
+Pages: [529]
+Words: 483
+Complete Section: Yes
+Preview: Article 38 L’exigence de fonds propres aff érant au risque g én éral est d étermin ée en appliquant un coefficient de 8 % à la position nette globale, pour chaque march é national, puis en sommant les...
+--------------------------------------------------------------------------------
+
+CHUNK 293:
+Structure: SECTION
+Title: Section V
+Pages: [530]
+Words: 494
+Complete Section: Yes
+Preview: Section V: Exigences de fonds propres au titre du risque de r èglement-livraison Article 43 Les exigences de fonds propres au titre du risque de r èglement livraison, tel que d éfini par l’article 42 ...
+--------------------------------------------------------------------------------
+
+CHUNK 294:
+Structure: CHAPITRE
+Title: Chapitre IV
+Pages: [531]
+Words: 522
+Complete Section: Yes
+Preview: Chapitre IV : Dispositions sp écifiques aux op érations bancaires islamiques Article 47 Les établissements assujettis exer çant les op érations bancaires islamiques doivent, dans le cadre de la gestio...
+--------------------------------------------------------------------------------
+
+CHUNK 295:
+Structure: ARTICLE
+Title: Article 51 
+Pages: [532]
+Words: 520
+Complete Section: Yes
+Preview: Article 51 Les risques encourus sur un m ême b én éficiaire ne doivent pas exc éder 25 % des fonds propres nets de l’établissement assujetti. Sont consid ér és comme "m ême b én éficiaire" les emprunt...
+--------------------------------------------------------------------------------
+
+CHUNK 296:
+Structure: ANNEXE_SPLIT
+Title: Annexe 
+Pages: [533]
+Words: 3427
+Complete Section: Yes
+Preview: Annexe à la circulaire aux banques et aux établissements financiers n°2018-06 du 05 juin 2018 relative à la grille des sanctions p écuni ères Nature de l'infraction Pallier L'amende Dépassement des no...
+--------------------------------------------------------------------------------
+
+CHUNK 297:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [547]
+Words: 280
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°2018-10 DU 1er NOVEMBRE 2018 Objet : Ratio « Cr édits/Dép ôts » Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du 25 avril 2016 portant fixation du statut...
+--------------------------------------------------------------------------------
+
+CHUNK 298:
+Structure: ARTICLE
+Title: Article 3 :
+Pages: [548]
+Words: 294
+Complete Section: Yes
+Preview: Article 3 : Le ratio « Cr édits/Dép ôts », est d éfini par le rapport entre le num érateur et le d énominateur suivants : Num érateur Dénominateur Encours brut des cr éances sur la client èle en dinar...
+--------------------------------------------------------------------------------
+
+CHUNK 299:
+Structure: ARTICLE
+Title: Article 5 :
+Pages: [549]
+Words: 99
+Complete Section: Yes
+Preview: Article 5 : L’annexe I à la circulaire n°2017-06 relative au reporting comptable, prudentiel et statistique à la Banque Centrale de Tunisie est modifi ée par l’ajout de la d éclaration RPLT560 « Ratio...
+--------------------------------------------------------------------------------
+
+CHUNK 300:
+Structure: ANNEXE
+Title: Annexe 1 + Annexe 2
+Pages: [550, 551]
+Words: 346
+Complete Section: No
+Preview: Annexe 1 à la circulaire aux banques N°2018-10 Banque : El éments de calcul du ratio « Cr édits/Dép ôts » arr êt é au …….. (En milliers de dinars sauf indication contraire) Code RCM00 Libell é Trimest...
+--------------------------------------------------------------------------------
+
+CHUNK 301:
+Structure: CIRCULAIRE_SPLIT
+Title: CIRCULAIRE AUX 
+Pages: [552]
+Words: 2003
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N°2022-01 Objet : Pr évention et r ésolution des cr éances non performantes. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35...
+--------------------------------------------------------------------------------
+
+CHUNK 302:
+Structure: ARTICLE
+Title: Article 11
+Pages: [556]
+Words: 493
+Complete Section: Yes
+Preview: Article 11- L’élaboration d’une strat égie de r ésolution des cr éances non performantes requiert au pr éalable la pr éparation d’un rapport interne portant évaluation de l’environnement op érationnel...
+--------------------------------------------------------------------------------
+
+CHUNK 303:
+Structure: ARTICLE
+Title: Article 15
+Pages: [557]
+Words: 493
+Complete Section: Yes
+Preview: Article 15- Les établissements doivent d éfinir un processus formalis é et transparent de gestion des actifs qui sont devenus en leur possession dans le cadre des modalit és de recouvrement permises p...
+--------------------------------------------------------------------------------
+
+CHUNK 304:
+Structure: ARTICLE
+Title: Article 19
+Pages: [558]
+Words: 553
+Complete Section: Yes
+Preview: Article 19- Pour les grands risques, le chef de file est tenu d’exiger un rapport annuel sur la gouvernance, l’activit é, les performances, la liquidit é, la solvabilit é du d ébiteur et, le cas éch é...
+--------------------------------------------------------------------------------
+
+CHUNK 305:
+Structure: PARTIE
+Title: HUITIEME PARTIE
+Pages: [1]
+Words: 283
+Complete Section: Yes
+Preview: HUITIEME PARTIE REGLEMENTATION COMPTABLE
+- ARRETE DU MINISTRE DES FINANCES DU 22 NOVEMBRE 2001, PORTANT APPROBATION DES NORMES COMPTABLES. - CIRCULAIRE AUX ETABLISSEMENTS DU CREDIT N°2012-05 DU 17 AVR...
+--------------------------------------------------------------------------------
+
+CHUNK 306:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [562]
+Words: 250
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2012-05 DU 17 avril 2012 OBJET : Communication d'un arr êt é trimestriel de l’état de r ésultat Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n° 5...
+--------------------------------------------------------------------------------
+
+CHUNK 307:
+Structure: ANNEXE_SPLIT
+Title: Annexe 
+Pages: [563]
+Words: 2499
+Complete Section: Yes
+Preview: Annexe à la circulaire n°2012-05 : Etat de r ésultat Etablissement de cr édit d éclarant (en milliers de dinars) Codes Libell és Montant Produits d’exploitation bancaire PR 1 Int ér êts et revenus ass...
+--------------------------------------------------------------------------------
+
+CHUNK 308:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [569]
+Words: 519
+Complete Section: Yes
+Preview: ANNEXE A LA NOTE AUX BANQUES N°89-16 DU 17 MAI 19891 Banque : SITUATION RESUMEE DES EMPLOIS ET DES RESSOURCES ARRETEE AU………………… (En 1000 dinars) Code Libell és Dinars Devises Résidents Non- Résidents ...
+--------------------------------------------------------------------------------
+
+CHUNK 309:
+Structure: CIRCULAIRE_SPLIT
+Title: CIRCULAIRE AUX 
+Pages: [560, 571]
+Words: 2842
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N°2017-06 DU 31 JUILLET 2017 Objet : Reporting comptable, prudentiel et statistique à la Banque Centrale de Tunisie Le Gouverneur de la Banque C...
+--------------------------------------------------------------------------------
+
+CHUNK 310:
+Structure: ANNEXE_SPLIT
+Title: Annexe I 
+Pages: [575]
+Words: 2168
+Complete Section: Yes
+Preview: Annexe I à la Circulaire relative au Reporting comptable, prudentiel et statistique à la Banque Centrale de Tunisie* - Liste des annexes composant le Reporting1- 1 DR : Date de r éf érence EA : Etabli...
+--------------------------------------------------------------------------------
+
+CHUNK 311:
+Structure: OBJET
+Title: Objet :
+Pages: [582]
+Words: 686
+Complete Section: Yes
+Preview: Objet : Mesures pr éalables pour l’adoption des normes internationales d’information financi ère (IFRS). Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du 25 avril 2016 portant fi...
+--------------------------------------------------------------------------------
+
+CHUNK 312:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [584]
+Words: 831
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS N°2023-05 Objet : Mise en œuvre de la Supervision sur base consolid ée. Le Gouverneur de la Banque Centrale de Tunisie, Vu la loi n°2016-35 du 2...
+--------------------------------------------------------------------------------
+
+CHUNK 313:
+Structure: ARTICLE
+Title: Article 5 :
+Pages: [586]
+Words: 297
+Complete Section: Yes
+Preview: Article 5 : Nonobstant les dispositions des articles 3 et 4 de la pr ésente circulaire, la Banque Centrale de Tunisie peut requ érir d’un établissement, compte tenu de l’évaluation de son profil de ri...
+--------------------------------------------------------------------------------
+
+CHUNK 314:
+Structure: ANNEXE
+Title: Annexe 1
+Pages: [587]
+Words: 411
+Complete Section: Yes
+Preview: Annexe 1 à la circulaire n°2023-05 du 10/10/2023Modifiant l’annexe I à la circulaire n°2017-06 du 31 juillet 2017, relative au reporting comptable, prudentiel et statistique à la Banque Centrale de Tu...
+--------------------------------------------------------------------------------
+
+CHUNK 315:
+Structure: PARTIE
+Title: NEUVIEME PARTIE
+Pages: [1]
+Words: 1504
+Complete Section: Yes
+Preview: NEUVIEME PARTIE CENTRALISATION DES RISQUES
+- CIRCULAIRE DE LA BANQUE CENTRALE DE TUNISIE N°2008-06 DU 10 MARS 2008, RELATIVE A LA CENTRALE D’INFORMATION. - CIRCULAIRE AUX BANQUES N°80-04 DU 31 JANVIER...
+--------------------------------------------------------------------------------
+
+CHUNK 316:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [594]
+Words: 1490
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°80-04 DU 31 JANVIER 1980 OBJET : Centralisation des risques bancaires. L'objet de cette circulaire est de rappeler aux banques certaines dispositions r égissant la d éclaratio...
+--------------------------------------------------------------------------------
+
+CHUNK 317:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [597]
+Words: 638
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULAIRE AUX BANQUES N°80-04 (SUITE) (a) (b) Parmi les él éments du poste "A 08000 Portefeuille encaissement et valeurs à recouvrer", les banques ne d éclarent que les effets escompt és ...
+--------------------------------------------------------------------------------
+
+CHUNK 318:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [600]
+Words: 1531
+Complete Section: Yes
+Preview: ANNEXE A LA NOTE N°14722 DU 29 AVRIL 1980 DESSIN D'ENREGISTREMENT DESTINE AUX DECLARATIONS EFFECTUEES SUR SUPPORT MAGNETIQUE Réf érence NOM ENREGISTREMENT LABEL FICHIER SEQUENCE LONGUEUR ENREGISTR LOG...
+--------------------------------------------------------------------------------
+
+CHUNK 319:
+Structure: ARTICLE
+Title: Article 10 :
+Pages: [603]
+Words: 66
+Complete Section: Yes
+Preview: Article 10 : Sont abrog ées les dispositions des articles 6 et 7 de la circulaire n°2008-06 du 10 mars 2008 relative à la Centrale d’Informations. Article 11 : La pr ésente circulaire entre en vigueur...
+--------------------------------------------------------------------------------
+
+CHUNK 320:
+Structure: ANNEXE
+Title: Annexe n°1
+Pages: [604]
+Words: 242
+Complete Section: Yes
+Preview: Annexe n°1 à la circulaire de la Banque Centrale de Tunisie n°2019-09 Les proc édures d’activation de l'inscription au site de consultation des donn ées recens ées à la Centrale d’Informations : https...
+--------------------------------------------------------------------------------
+
+CHUNK 321:
+Structure: ANNEXE
+Title: Annexe n°2
+Pages: [606]
+Words: 132
+Complete Section: Yes
+Preview: Annexe n°2 à la circulaire de la Banque Centrale de Tunisie n°2019-09 Liste des services fournis au public par la Banque Centrale de Tunisie (Centrale d’Informations) Code du service Nature du service...
+--------------------------------------------------------------------------------
+
+CHUNK 322:
+Structure: PARTIE
+Title: DIXIEME PARTIE
+Pages: [1]
+Words: 91
+Complete Section: Yes
+Preview: DIXIEME PARTIE COMPENSATION
+- CIRCULAIRE AUX BANQUES N°85-21 DU 15 MAI 1985, PORTANT REGLEMENT DE LA CHAMBRE DE COMPENSATION. - CIRCULAIRE AUX BANQUES N°86-25 DU 8 SEPTEMBRE 1986, RELATIVE A LA COMPEN...
+--------------------------------------------------------------------------------
+
+CHUNK 323:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [609]
+Words: 1639
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°85-21 DU 15 MAI 1985 OBJET : Règlement de la Chambre de Compensation. CHAPITRE PREMIER DISPOSITIONS GÉNÉRALES SECTION 1 LIEUX, ZONES ET MEMBRES DES CHAMBRES DE COMPENSATION Ar...
+--------------------------------------------------------------------------------
+
+CHUNK 324:
+Structure: CHAPITRE
+Title: CHAPITRE 4
+Pages: [611]
+Words: 1277
+Complete Section: Yes
+Preview: CHAPITRE 4 DISPOSITIONS PARTICULIÈRES CONCERNANT LA PARTICIPATION DU CENTRE DES CHÈQUES POSTAUX AUX CHAMBRES DE COMPENSATION Article 22 : Le Centre des Ch èques Postaux est repr ésent é aux Chambres d...
+--------------------------------------------------------------------------------
+
+CHUNK 325:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [613]
+Words: 172
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°86-25 DU 8 SEPTEMBRE 1986 OBJET : Compensation des ch èques en dinars convertibles. Article 1er : Les ch èques en dinars convertibles sont pr ésent és en Chambre de Compensati...
+--------------------------------------------------------------------------------
+
+CHUNK 326:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [614]
+Words: 676
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES N°95-15 DU 5 DECEMBRE 1995 OBJET : Compensation des valeurs d éplac ées libell ées en dinar tunisien et en dinar tunisien convertible. Vu la circulaire aux banques n°85-21 du 15...
+--------------------------------------------------------------------------------
+
+CHUNK 327:
+Structure: ANNEXE
+Title: ANNEXE 
+Pages: [615]
+Words: 174
+Complete Section: Yes
+Preview: ANNEXE A LA CIRCULARE AUX BANQUES N°95-15 DU 05-12-1995 ZONE DE COMPENSATION DES VALEURS DEPLACEES COMPTOIR ZONE DE COMPENSATION TUNIS Les localit és relevant des Gouvernorats de Tunis, de l'Ariana, d...
+--------------------------------------------------------------------------------
+
+CHUNK 328:
+Structure: CIRCULAIRE
+Title: CIRCULAIRE AUX 
+Pages: [616, 618, 619]
+Words: 667
+Complete Section: Yes
+Preview: CIRCULAIRE AUX BANQUES ET AUX INTERMEDIAIRES AGREES N°2008-23 DU 18 DECEMBRE 2008 Objet : Proc édure de transmission des fichiers de la compensation manuelle par le biais du Syst ème d’Echange des Don...
+--------------------------------------------------------------------------------
+
+CHUNK 329:
+Structure: ARTICLE
+Title: Article 9 :
+Pages: [617]
+Words: 227
+Complete Section: Yes
+Preview: Article 9 : Le traitement des donn ées re çues donne lieu à l’édition de situations individuelles envoy ées aux membres de la chambre de compensation par le « SED ». Article 10 : Tout membre de la cha...
+--------------------------------------------------------------------------------
+
+CHUNK 330:
+Structure: ANNEXE
+Title: ANNEXE I 
+Pages: [618]
+Words: 247
+Complete Section: Yes
+Preview: ANNEXE I A LA CIRCULAIRE AUX BANQUES ET AUX INTERMEDIAIRES AGREES N°2008-23 DU 18 DECEMBRE 2008 Structure d'enregistrement d étail par valeur Nom de la zone Type Longueur Observations Code valeur Num ...
+--------------------------------------------------------------------------------
+
+CHUNK 331:
+Structure: ANNEXE
+Title: ANNEXE II 
+Pages: [619]
+Words: 46
+Complete Section: Yes
+Preview: ANNEXE II A LA CIRCULAIRE AUX BANQUES ET AUX INTERMEDIAIRES AGREES N°2008-23 DU 18 DECEMBRE 2008 Liste des valeurs admises à la chambre de compensation Code Libell é 01 Ch èque place 02 Effet place 05...
+--------------------------------------------------------------------------------
+
+CHUNK 332:
+Structure: PARTIE
+Title: ONZIEME PARTIE
+Pages: [620]
+Words: 66
+Complete Section: Yes
+Preview: ONZIEME PARTIE INSTRUMENTS DE PAIEMENT, CENTRALISATION ET GESTION DES INCIDENTS DE PAIEMENT
+- LOI N°2005-51 DU 27 JUIN 2005, RELATIVE AU TRANSFERT ELECTRONIQUE DE FONDS. - CIRCULAIRE AUX ETABLISSEMENT...
+--------------------------------------------------------------------------------
+
+CHUNK 333:
+Structure: LOI
+Title: LOI N°2005
+Pages: [622, 723]
+Words: 633
+Complete Section: Yes
+Preview: LOI N°2005-51 DU 27 JUIN 2005, RELATIVE AU TRANSFERT ÉLECTRONIQUE DE FONDS TITRE PREMIER DEFINITIONS Article 1er : Pour l'application de la pr ésente loi, on entend par : Instrument de transfert élect...
+--------------------------------------------------------------------------------
+
+CHUNK 334:
+Structure: ARTICLE
+Title: Article 5 :
+Pages: [623]
+Words: 737
+Complete Section: Yes
+Preview: Article 5 : L'émetteur doit : - garantir le secret du ou des codes donn és au b én éficiaire, - utiliser un syst ème sp écial lui permettant de v érifier la r égularit é des op érations r éalis ées, -...
+--------------------------------------------------------------------------------
+
+CHUNK 335:
+Structure: TITRE
+Title: TITRE IV
+Pages: [624]
+Words: 433
+Complete Section: Yes
+Preview: TITRE IV DISPOSITIONS COMMUNES Article 13 : L'émetteur ou le b én éficiaire qui a l'intention de rompre le contrat à dur ée d étermin ée doit en aviser l'autre partie un mois avant la date de son expi...
+--------------------------------------------------------------------------------
+
+CHUNK 336:
+Structure: CIRCULAIRE_SPLIT
+Title: CIRCULAIRE AUX 
+Pages: [621, 625, 638, 639, 640, 642, 643, 649, 651, 652, 653, 654]
+Words: 2266
+Complete Section: Yes
+Preview: CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2007-18 DU 05 JUILLET 2007 OBJET : Application des dispositions du Code de Commerce relatives au ch èque telles que modifi ées par les textes subs équents et ...
+--------------------------------------------------------------------------------
+
+CHUNK 337:
+Structure: SECTION_SPLIT
+Title: SECTION 1
+Pages: [628]
+Words: 7170
+Complete Section: Yes
+Preview: SECTION 1 DE LA CONSTATATION DES INCIDENTS DE PAYEMENT DE CHEQUES POUR ABSENCE, INSUFFISANCE OU INDISPONIBILITE DE LA PROVISION RESULTANT D'UN MOTIF AUTRE QUE L'OPPOSITION DU TIREUR Il r ésulte de l'a...
+--------------------------------------------------------------------------------
+
+CHUNK 338:
+Structure: CHAPITRE
+Title: CHAPITRE 5
+Pages: [636]
+Words: 1116
+Complete Section: Yes
+Preview: CHAPITRE 5 DE L'OBLIGATION DE LA BANQUE DE PAYER CERTAINS CHEQUES SECTION 1 DU PAYEMENT DES CHEQUES D'UN MONTANT INFERIEUR OU EGAL A 20 DINARS L'article 374 du Code de Commerce met à la charge de la b...
+--------------------------------------------------------------------------------
+
+CHUNK 339:
+Structure: ANNEXE
+Title: ANNEXE N°1
+Pages: [638]
+Words: 126
+Complete Section: Yes
+Preview: ANNEXE N°1 A LA CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2007-18 DU 05 JUILLET 2007 ............., le !_!_!_!_!_!_!_!_! Banque tir ée : Agence tir ée : RIB : OBJET : Demande d'une attestation de cons...
+--------------------------------------------------------------------------------
+
+CHUNK 340:
+Structure: ANNEXE
+Title: ANNEXE N°2
+Pages: [639]
+Words: 271
+Complete Section: Yes
+Preview: ANNEXE N°2 A LA CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2007-18 DU 05 JUILLET 2007 DEMANDE DE RENSEIGNEMENTS ..........., le !_!_!_!_!_!_!_!_! Banque tir ée ............................................
+--------------------------------------------------------------------------------
+
+CHUNK 341:
+Structure: ANNEXE
+Title: ANNEXE N°2
+Pages: [640]
+Words: 426
+Complete Section: Yes
+Preview: ANNEXE N°2 BIS A LA CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2007-18 DU 05 JUILLET 2007 DEMANDE DE RENSEIGNEMENTS ............, le !_!_!_!_!_!_!_!_! Banque tir ée : .....................................
+--------------------------------------------------------------------------------
+
+CHUNK 342:
+Structure: ANNEXE_SPLIT
+Title: ANNEXE N°3
+Pages: [642]
+Words: 93119
+Complete Section: Yes
+Preview: ANNEXE N°3 A LA CIRCULAIRE AUX ETABLISSEMENTS DE CREDIT N°2007-18 DU 05 JUILLET 2007 PREAVIS DE REJET DE CHEQUE Banque tir ée : ........................................................ Agence tir ée :...
+--------------------------------------------------------------------------------
+
