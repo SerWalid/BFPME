@@ -1,0 +1,514 @@
+{% extends 'base.html' %}
+
+{% block title %}Admin Consultation - BFPME{% endblock %}
+
+{% block extra_head %}
+<style>
+    .fade-in {
+        animation: fadeIn 0.5s ease-in-out;
+    }
+    @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+    }
+    .alert {
+        transition: opacity 0.5s ease-in-out;
+    }
+    .status-badge {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        border-radius: 9999px;
+        font-size: 0.75rem;
+        font-weight: 600;
+    }
+    .status-pending {
+        background-color: #FEF3C7;
+        color: #D97706;
+    }
+    .status-verified {
+        background-color: #D1FAE5;
+        color: #059669;
+    }
+    .status-rejected {
+        background-color: #FEE2E2;
+        color: #DC2626;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container mx-auto px-4 py-8">
+    <div class="flex justify-between items-center mb-8">
+        <h1 class="text-3xl font-bold text-[#132247]">Administration des Questions</h1>
+        <div>
+            <button id="add-question-btn" class="bg-[#132247] text-white px-4 py-2 rounded-md hover:bg-[#1e3a6f] transition-colors">
+                Ajouter une question
+            </button>
+        </div>
+    </div>
+
+    <!-- Alert message -->
+    <div id="alert" class="hidden mb-6 p-4 rounded-md shadow-md transition-all transform"></div>
+
+    <!-- Add Question Form (hidden by default) -->
+    <div id="question-form" class="hidden bg-white rounded-lg shadow-lg p-6 mb-8 border border-gray-200">
+        <div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+            <svg class="w-6 h-6 text-[#132247] mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+            </svg>
+            <h2 class="text-xl font-semibold text-[#132247]">Ajouter une question</h2>
+        </div>
+        <form id="add-question-form">
+            <div class="mb-5">
+                <label for="question" class="block text-sm font-medium text-gray-700 mb-2">Question</label>
+                <div class="relative">
+                    <textarea id="question" name="question" rows="3" class="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#132247] focus:border-transparent shadow-sm" placeholder="Saisissez votre question ici..." required></textarea>
+                    <div class="absolute inset-y-0 right-0 pr-3 flex items-start pt-3 pointer-events-none">
+                        <svg class="w-5 h-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="flex justify-end space-x-3">
+                <button type="button" id="cancel-add" class="px-4 py-2 border border-gray-300 rounded-md text-gray-700 hover:bg-gray-50 transition-colors shadow-sm">Annuler</button>
+                <button type="submit" class="px-5 py-2 bg-gradient-to-r from-[#132247] to-[#1e3a6f] text-white rounded-md hover:opacity-90 transition-opacity shadow-sm flex items-center">
+                    <svg class="w-4 h-4 mr-1.5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" d="M10 5a1 1 0 011 1v3h3a1 1 0 110 2h-3v3a1 1 0 11-2 0v-3H6a1 1 0 110-2h3V6a1 1 0 011-1z" clip-rule="evenodd"></path>
+                    </svg>
+                    Soumettre
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Question list -->
+    <div class="bg-white rounded-lg shadow-xl overflow-hidden border border-gray-200">
+        <div class="overflow-x-auto">
+            <table class="w-full table-auto">
+                <thead class="bg-gradient-to-r from-[#132247] to-[#1e3a6f] text-white">
+                    <tr>
+                        <th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider">ID</th>
+                        <th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider">Question</th>
+                        <th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider">Statut</th>
+                        <th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider">Commentaires</th>
+                        <th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider">Créé le</th>
+                        <th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider">Mise à jour</th>
+                        <th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider">Vérifié par</th>
+                        <th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% if questions %}
+                        {% for question in questions %}
+                        <tr id="question-row-{{ question.id }}" class="hover:bg-gray-50 border-b border-gray-200 transition-colors duration-150 ease-in-out {% if loop.index is divisibleby 2 %}bg-gray-50/50{% endif %}">
+                            <td class="px-6 py-5 whitespace-nowrap text-sm font-medium text-[#132247]">#{{ question.id }}</td>
+                            <td class="px-6 py-5 text-sm text-gray-800">
+                                <div class="max-w-md break-words font-medium">{{ question.question }}</div>
+                            </td>
+                            <td class="px-6 py-5 whitespace-nowrap">
+                                {% if question.status == 'pending' %}
+                                    <span class="status-badge status-pending flex items-center">
+                                        <svg class="w-3 h-3 mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd"></path>
+                                        </svg>
+                                        En attente
+                                    </span>
+                                {% elif question.status == 'verified' %}
+                                    <span class="status-badge status-verified flex items-center">
+                                        <svg class="w-3 h-3 mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                        </svg>
+                                        Vérifié
+                                    </span>
+                                {% elif question.status == 'rejected' %}
+                                    <span class="status-badge status-rejected flex items-center">
+                                        <svg class="w-3 h-3 mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"></path>
+                                        </svg>
+                                        Rejeté
+                                    </span>
+                                {% endif %}
+                            </td>
+                            <td class="px-6 py-5 text-sm text-gray-600 max-w-xs break-words">
+                                {% if question.comments %}
+                                    <div class="line-clamp-2 hover:line-clamp-none transition-all duration-300">{{ question.comments }}</div>
+                                {% else %}
+                                    <span class="text-gray-400 italic">Aucun commentaire</span>
+                                {% endif %}
+                            </td>
+                            <td class="px-6 py-5 whitespace-nowrap text-sm text-gray-600">
+                                <div class="flex items-center">
+                                    <svg class="w-4 h-4 mr-1.5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path>
+                                    </svg>
+                                    {{ question.created_at.strftime('%Y-%m-%d %H:%M') }}
+                                </div>
+                            </td>
+                            <td class="px-6 py-5 whitespace-nowrap text-sm text-gray-600">
+                                <div class="flex items-center">
+                                    <svg class="w-4 h-4 mr-1.5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clip-rule="evenodd"></path>
+                                    </svg>
+                                    {{ question.updated_at.strftime('%Y-%m-%d %H:%M') }}
+                                </div>
+                            </td>
+                            <td class="px-6 py-5 whitespace-nowrap text-sm text-gray-600">
+                                {% if question.verified_by %}
+                                    <div class="flex items-center">
+                                        <svg class="w-4 h-4 mr-1.5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"></path>
+                                        </svg>
+                                        {{ question.verified_by }}
+                                    </div>
+                                {% else %}
+                                    <span class="text-gray-400 italic">Non vérifié</span>
+                                {% endif %}
+                            </td>
+                            <td class="px-6 py-5 whitespace-nowrap text-sm font-medium">
+                                <div class="flex space-x-2">
+                                    <button 
+                                        data-id="{{ question.id }}"
+                                        data-question="{{ question.question }}"
+                                        data-status="{{ question.status }}"
+                                        data-comments="{{ question.comments if question.comments else '' }}"
+                                        data-verified-by="{{ question.verified_by if question.verified_by else '' }}"
+                                        onclick="showEditModal(this)" 
+                                        class="flex items-center px-3 py-1.5 bg-[#132247]/10 text-[#132247] rounded-md hover:bg-[#132247]/20 transition-colors">
+                                        <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zM11.379 5.793L3 14.172V17h2.828l8.38-8.379-2.83-2.828z"></path>
+                                        </svg>
+                                        Éditer
+                                    </button>
+                                    <button 
+                                        data-id="{{ question.id }}"
+                                        data-question="{{ question.question }}"
+                                        onclick="showDeleteModal(this)" 
+                                        class="flex items-center px-3 py-1.5 bg-red-50 text-red-600 rounded-md hover:bg-red-100 transition-colors">
+                                        <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z" clip-rule="evenodd"></path>
+                                        </svg>
+                                        Supprimer
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    {% else %}
+                        <tr>
+                            <td colspan="8" class="px-6 py-8 text-center">
+                                <div class="flex flex-col items-center justify-center text-gray-500">
+                                    <svg class="w-16 h-16 mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
+                                    </svg>
+                                    <p class="text-xl font-medium mb-1">Aucune question trouvée</p>
+                                    <p class="text-gray-400">Ajoutez une nouvelle question pour commencer</p>
+                                </div>
+                            </td>
+                        </tr>
+                    {% endif %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Edit Modal -->
+<div id="edit-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 fade-in">
+    <div class="bg-white rounded-lg shadow-xl p-0 w-full max-w-2xl mx-4">
+        <div class="p-5 border-b border-gray-200 bg-gradient-to-r from-[#132247] to-[#1e3a6f] rounded-t-lg">
+            <div class="flex items-center justify-between">
+                <h3 class="text-xl font-semibold text-white flex items-center">
+                    <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zM11.379 5.793L3 14.172V17h2.828l8.38-8.379-2.83-2.828z"></path>
+                    </svg>
+                    Modifier le statut de la question
+                </h3>
+                <button onclick="document.getElementById('edit-modal').classList.add('hidden')" class="text-white hover:text-gray-200 focus:outline-none">
+                    <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <div class="p-6">
+            <form id="edit-question-form">
+                <input type="hidden" id="edit-id" name="id">
+                <div class="mb-5">
+                    <label for="edit-question" class="block text-sm font-medium text-gray-700 mb-2">Question</label>
+                    <div class="relative">
+                        <textarea id="edit-question" name="question" rows="3" class="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#132247] bg-gray-50 shadow-sm" readonly></textarea>
+                        <div class="absolute inset-y-0 right-0 pr-3 flex items-start pt-3 pointer-events-none">
+                            <svg class="w-5 h-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mb-5">
+                    <label for="edit-status" class="block text-sm font-medium text-gray-700 mb-2">Statut</label>
+                    <div class="relative">
+                        <select id="edit-status" name="status" class="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#132247] appearance-none shadow-sm">
+                            <option value="pending">En attente</option>
+                            <option value="verified">Vérifié</option>
+                            <option value="rejected">Rejeté</option>
+                        </select>
+                        <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                            <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mb-5">
+                    <label for="edit-comments" class="block text-sm font-medium text-gray-700 mb-2">Commentaires</label>
+                    <textarea id="edit-comments" name="comments" rows="3" class="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#132247] shadow-sm" placeholder="Ajoutez vos commentaires ici..."></textarea>
+                </div>
+                
+                <div class="mb-5">
+                    <label for="edit-verified-by" class="block text-sm font-medium text-gray-700 mb-2">Vérifié par</label>
+                    <div class="relative">
+                        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                            <svg class="w-5 h-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"></path>
+                            </svg>
+                        </div>
+                        <input type="text" id="edit-verified-by" name="verified_by" class="w-full pl-10 px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#132247] shadow-sm" placeholder="Votre nom">
+                    </div>
+                </div>
+                
+                <div class="flex justify-end space-x-3 pt-3 border-t border-gray-200">
+                    <button type="button" id="cancel-edit" class="px-4 py-2 border border-gray-300 rounded-md text-gray-700 hover:bg-gray-50 transition-colors shadow-sm">Annuler</button>
+                    <button type="submit" class="px-5 py-2 bg-gradient-to-r from-[#132247] to-[#1e3a6f] text-white rounded-md hover:opacity-90 transition-opacity shadow-sm flex items-center">
+                        <svg class="w-4 h-4 mr-1.5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                        </svg>
+                        Enregistrer
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Delete Confirmation Modal -->
+<div id="delete-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 fade-in">
+    <div class="bg-white rounded-lg shadow-xl p-0 w-full max-w-md mx-4">
+        <div class="p-5 border-b border-gray-200 bg-gradient-to-r from-red-600 to-red-700 rounded-t-lg">
+            <div class="flex items-center justify-between">
+                <h3 class="text-xl font-semibold text-white flex items-center">
+                    <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"></path>
+                    </svg>
+                    Confirmer la suppression
+                </h3>
+                <button onclick="document.getElementById('delete-modal').classList.add('hidden')" class="text-white hover:text-gray-200 focus:outline-none">
+                    <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <div class="p-6">
+            <p class="text-gray-700 mb-4">Êtes-vous sûr de vouloir supprimer cette question? Cette action est irréversible.</p>
+            <p id="delete-question-text" class="text-gray-700 font-medium border-l-4 border-red-500 pl-3 py-2 bg-red-50 mb-6 line-clamp-3"></p>
+            
+            <form id="delete-question-form" class="flex justify-end space-x-3">
+                <input type="hidden" id="delete-id" name="id">
+                <button type="button" id="cancel-delete" class="px-4 py-2 border border-gray-300 rounded-md text-gray-700 hover:bg-gray-50 transition-colors shadow-sm">Annuler</button>
+                <button type="submit" class="px-5 py-2 bg-gradient-to-r from-red-600 to-red-700 text-white rounded-md hover:opacity-90 transition-opacity shadow-sm flex items-center">
+                    <svg class="w-4 h-4 mr-1.5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z" clip-rule="evenodd"></path>
+                    </svg>
+                    Supprimer
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // DOM elements
+        const addBtn = document.getElementById('add-question-btn');
+        const questionForm = document.getElementById('question-form');
+        const cancelAddBtn = document.getElementById('cancel-add');
+        const addQuestionForm = document.getElementById('add-question-form');
+        const editModal = document.getElementById('edit-modal');
+        const editQuestionForm = document.getElementById('edit-question-form');
+        const cancelEditBtn = document.getElementById('cancel-edit');
+        const deleteModal = document.getElementById('delete-modal');
+        const deleteQuestionForm = document.getElementById('delete-question-form');
+        const cancelDeleteBtn = document.getElementById('cancel-delete');
+        const alert = document.getElementById('alert');
+
+        // Toggle question form
+        addBtn.addEventListener('click', () => {
+            questionForm.classList.remove('hidden');
+            questionForm.classList.add('fade-in');
+        });
+
+        cancelAddBtn.addEventListener('click', () => {
+            questionForm.classList.add('hidden');
+            addQuestionForm.reset();
+        });
+
+        // Close edit modal
+        cancelEditBtn.addEventListener('click', () => {
+            editModal.classList.add('hidden');
+        });
+
+        // Close delete modal
+        cancelDeleteBtn.addEventListener('click', () => {
+            deleteModal.classList.add('hidden');
+        });
+
+        // Submit add question form
+        addQuestionForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            
+            fetch('/add_question', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    showAlert('success', data.message);
+                    addQuestionForm.reset();
+                    questionForm.classList.add('hidden');
+                    // Reload page to show new question
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 1500);
+                } else {
+                    showAlert('error', data.message);
+                }
+            })
+            .catch(error => {
+                showAlert('error', 'Une erreur est survenue. Veuillez réessayer.');
+                console.error('Error:', error);
+            });
+        });
+
+        // Submit edit question form
+        editQuestionForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            
+            fetch('/update_question', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    editModal.classList.add('hidden');
+                    showAlert('success', data.message);
+                    // Reload page to show updated question
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 1500);
+                } else {
+                    showAlert('error', data.message);
+                }
+            })
+            .catch(error => {
+                showAlert('error', 'Une erreur est survenue. Veuillez réessayer.');
+                console.error('Error:', error);
+            });
+        });
+        
+        // Submit delete question form
+        deleteQuestionForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            
+            fetch('/delete_question', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    deleteModal.classList.add('hidden');
+                    showAlert('success', data.message);
+                    // Remove question from table
+                    const questionRow = document.getElementById(`question-row-${formData.get('id')}`);
+                    if (questionRow) {
+                        questionRow.classList.add('opacity-0');
+                        setTimeout(() => {
+                            questionRow.remove();
+                            // Check if there are no more questions
+                            const tbody = document.querySelector('table tbody');
+                            if (tbody.children.length === 0) {
+                                window.location.reload();
+                            }
+                        }, 500);
+                    }
+                } else {
+                    showAlert('error', data.message);
+                }
+            })
+            .catch(error => {
+                showAlert('error', 'Une erreur est survenue. Veuillez réessayer.');
+                console.error('Error:', error);
+            });
+        });
+
+        // Show alert message
+        function showAlert(type, message) {
+            alert.className = type === 'success' 
+                ? 'bg-green-100 text-green-800 border border-green-200' 
+                : 'bg-red-100 text-red-800 border border-red-200';
+            
+            alert.textContent = message;
+            alert.classList.remove('hidden');
+            alert.classList.add('fade-in', 'p-4', 'rounded-md');
+            
+            // Hide after 5 seconds
+            setTimeout(() => {
+                alert.classList.add('opacity-0');
+                setTimeout(() => {
+                    alert.classList.add('hidden');
+                    alert.classList.remove('opacity-0');
+                }, 500);
+            }, 5000);
+        }
+    });
+
+    // Function to show edit modal
+    function showEditModal(button) {
+        const id = button.dataset.id;
+        const question = button.dataset.question;
+        const status = button.dataset.status;
+        const comments = button.dataset.comments;
+        const verifiedBy = button.dataset.verifiedBy;
+        
+        document.getElementById('edit-id').value = id;
+        document.getElementById('edit-question').value = question;
+        document.getElementById('edit-status').value = status;
+        document.getElementById('edit-comments').value = comments;
+        document.getElementById('edit-verified-by').value = verifiedBy;
+        
+        document.getElementById('edit-modal').classList.remove('hidden');
+    }
+    
+    // Function to show delete confirmation modal
+    function showDeleteModal(button) {
+        const id = button.dataset.id;
+        const question = button.dataset.question;
+        
+        document.getElementById('delete-id').value = id;
+        document.getElementById('delete-question-text').textContent = question;
+        
+        document.getElementById('delete-modal').classList.remove('hidden');
+    }
+</script>
+{% endblock %}

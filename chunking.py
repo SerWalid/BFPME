@@ -194,5 +194,5 @@ def main(pdf_path, output_json_path):
 
 if __name__ == "__main__":
     pdf_path = "2024_Reglementation_Bancaire.pdf"  # Replace with your PDF file path
-    output_json_path = "chunksNew.json"  # Output file for chunks
+    output_json_path = "chunks.json"  # Output file for chunks
     main(pdf_path, output_json_path)

@@ -89,7 +89,7 @@
   <div class="chat-container bg-white shadow-md">
     <div id="chatMessages" class="chat-messages">
       <div class="message bot-message">
-        <p>Bonjour ! Je suis l'assistant virtuel de BCT. Comment puis-je vous aider aujourd'hui ?</p>
+        <p>Bonjour ! Je suis l'assistant virtuel de BFPME. Comment puis-je vous aider aujourd'hui ?</p>
       </div>
     </div>
     
@@ -189,6 +189,9 @@
       // Process horizontal rules
       html = html.replace(/---+/g, '<hr>');
       
+      // Process numbered lists - handle patterns like "1. text" or "1. text\n2. text"
+      html = html.replace(/^(\d+)\.\s+(.+)$/gm, '<div class="numbered-item"><span class="number">$1.</span> $2</div>');
+      
       // Process bullets (simple)
       const lines = html.split('\n');
       let inList = false;
@@ -238,8 +241,8 @@
       
       html = lines.join('\n');
       
-      // Convert newlines to <br> for remaining text
-      html = html.replace(/\n\n/g, '<br><br>');
+      // Convert ALL remaining newlines to <br> (not just double newlines)
+      html = html.replace(/\n/g, '<br>');
       
       return html;
     }
